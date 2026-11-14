@@ -29,9 +29,9 @@
 | 事实 | 来源 |
 |---|---|
 | 82 个景点 / 11 条路线 / 36 个来源 | `data/meta.json`（由导出脚本生成） |
-| 13 个区域（city / lake / hotSpring / longchuan / east / heping / south / lakeWest / northEast / lianping / jiangdong / zijin） | 同上 |
+| 12 个区域（city / lake / hotSpring / longchuan / east / heping / south / lakeWest / northEast / lianping / jiangdong / zijin） | 同上 |
 | 4 个分类（人文 / 山水 / 温泉 / 休闲） | 同上 |
-| 每条景点含 24 个字段 | `data/places.json` |
+| 每条景点含 27 个字段 | `data/places.json` |
 | 数据来源可追溯 | `data/sources.json` 保留了 36 条来源的标题与 URL（含河源市政府门户、区县文旅局、景区官网） |
 | 数据版本可追溯 | `data/meta.json` 的 `dataVersion` = 2026-10-28 |
 

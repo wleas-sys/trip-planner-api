@@ -46,7 +46,7 @@ pip install fastapi uvicorn pytest httpx
 | GET | `/health` | 健康检查 | `{"status": "ok"}` |
 | GET | `/places` | 分页列出景点 | `{"total": 82, "page": 1, "size": 20, "items": [...]}` |
 | GET | `/places/{place_id}` | 单条详情 | 景点对象；**不存在时返回 404** |
-| GET | `/areas` | 所有区域及各自数量 | `[{"area": "hotSpring", "count": 12}, ...]` |
+| GET | `/areas` | 所有区域及各自数量 | `[{"area": "longchuan", "count": 12}, {"area": "hotSpring", "count": 3}, ...]` |
 
 **查询参数**（`/places`）：
 - `page`：默认 1，从 1 开始
@@ -72,7 +72,16 @@ T2 已经把数据写进 `data/places.db` 了。**T3 只读不写**——服务�
 3. `GET /places?page=2&size=10` 正确翻页，且返回的条目与第 1 页不重复
 4. `GET /places/konglong` 返回河源恐龙博物馆，且字段完整
 5. `GET /places/不存在` 返回 **404**（不是 500）
-6. `GET /areas` 返回 13 个区域，每个带正确的 `count`
+6. `GET /areas` 返回 **12** 个区域，每个带正确的 `count`。各区域真实数量如下（合计 82，与 `data/meta.json` 的 `areas` 列表一致）：
+
+   | area | count | | area | count |
+   |---|---|---|---|---|
+   | longchuan | 12 | | city | 8 |
+   | heping | 12 | | east | 8 |
+   | zijin | 12 | | lianping | 8 |
+   | jiangdong | 9 | | south | 6 |
+   | hotSpring | 3 | | lake | 2 |
+   | lakeWest | 1 | | northEast | 1 |
 7. `pytest` 至少 2 个用例通过（建议覆盖：分页总数正确 + 404 行为正确）
 8. `GET /places?area=hotSpring` 返回的条目，`area` 字段全是 `hotSpring`
 
@@ -140,3 +149,5 @@ pytest -v
 ---
 
 *T3 ｜ 三个任务完成后，项目二（骨架版）完成，进入 2027.02 的项目二 v1.0 阶段*
+
+> 修订：2026-11-14 修正区域数量（13→12）与 hotSpring 计数（12→3），依据 places.json 实测
