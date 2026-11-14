@@ -1,0 +1,26 @@
+{
+  "dataVersion": "2026-10-28",
+  "placeCount": 82,
+  "routeCount": 11,
+  "sourceCount": 36,
+  "areas": [
+    "city",
+    "east",
+    "heping",
+    "hotSpring",
+    "jiangdong",
+    "lake",
+    "lakeWest",
+    "lianping",
+    "longchuan",
+    "northEast",
+    "south",
+    "zijin"
+  ],
+  "categories": [
+    "人文",
+    "休闲",
+    "山水",
+    "温泉"
+  ]
+}

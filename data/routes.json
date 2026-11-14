@@ -1,0 +1,306 @@
+[
+  {
+    "id": "city",
+    "number": "01",
+    "title": "老城看展半日",
+    "subtitle": "恐龙博物馆与龟峰塔",
+    "tag": "1天参考",
+    "tone": "forest",
+    "cover": "konglong",
+    "mode": "walk",
+    "days": [
+      [
+        "konglong",
+        "guifengta"
+      ]
+    ],
+    "intro": "恐龙博物馆与龟峰塔。这是可以调整的地点组合，住宿与往返交通需按你的出发地另行安排。",
+    "notes": [
+      "时间表采用建议停留时长，站间路程需查地图后调整。",
+      "先确认开放、预约和实际票种，再确定出发安排。"
+    ],
+    "photo": "/assets/covers/konglong.jpg",
+    "photoCredit": "未单独署名（发布方：河源市人民政府）",
+    "photoPortrait": false
+  },
+  {
+    "id": "lake",
+    "number": "02",
+    "title": "留一天给万绿湖",
+    "subtitle": "选好船线，慢慢游湖",
+    "tag": "1天参考",
+    "tone": "forest",
+    "cover": "wanlvhu",
+    "mode": "drive",
+    "days": [
+      [
+        "wanlvhu"
+      ]
+    ],
+    "intro": "选好船线，慢慢游湖。这是可以调整的地点组合，住宿与往返交通需按你的出发地另行安排。",
+    "notes": [
+      "时间表采用建议停留时长，站间路程需查地图后调整。",
+      "先确认开放、预约和实际票种，再确定出发安排。"
+    ],
+    "photo": "/assets/covers/wanlvhu.jpg",
+    "photoCredit": "未单独署名（发布方：万绿湖景区官网）",
+    "photoPortrait": false
+  },
+  {
+    "id": "weekend",
+    "number": "03",
+    "title": "老城与湖区两日",
+    "subtitle": "一天看展逛街，一天游湖",
+    "tag": "2天参考",
+    "tone": "forest",
+    "cover": "konglong",
+    "mode": "drive",
+    "days": [
+      [
+        "konglong",
+        "guifengta",
+        "taiping"
+      ],
+      [
+        "wanlvhu"
+      ]
+    ],
+    "intro": "一天看展逛街，一天游湖。这是可以调整的地点组合，住宿与往返交通需按你的出发地另行安排。",
+    "notes": [
+      "时间表采用建议停留时长，站间路程需查地图后调整。",
+      "先确认开放、预约和实际票种，再确定出发安排。",
+      "跨日住宿接驳不计入每日时间表，请另外留出时间。"
+    ],
+    "photo": "/assets/covers/konglong.jpg",
+    "photoCredit": "未单独署名（发布方：河源市人民政府）",
+    "photoPortrait": false
+  },
+  {
+    "id": "spring",
+    "number": "04",
+    "title": "九和温泉休息日",
+    "subtitle": "把泡汤和休息留在同一天",
+    "tag": "1天参考",
+    "tone": "forest",
+    "cover": "yulinmen",
+    "mode": "drive",
+    "days": [
+      [
+        "yulinmen"
+      ]
+    ],
+    "intro": "把泡汤和休息留在同一天。这是可以调整的地点组合，住宿与往返交通需按你的出发地另行安排。",
+    "notes": [
+      "时间表采用建议停留时长，站间路程需查地图后调整。",
+      "先确认开放、预约和实际票种，再确定出发安排。"
+    ],
+    "photo": "/assets/covers/yulinmen.jpg",
+    "photoCredit": "未署名（发布方：紫金县人民政府）",
+    "photoPortrait": false
+  },
+  {
+    "id": "evening",
+    "number": "05",
+    "title": "老街与江岸半日",
+    "subtitle": "太平古街与东江湾公园",
+    "tag": "1天参考",
+    "tone": "forest",
+    "cover": "taiping",
+    "mode": "drive",
+    "days": [
+      [
+        "taiping",
+        "dongjiangwan"
+      ]
+    ],
+    "intro": "太平古街与东江湾公园。这是可以调整的地点组合，住宿与往返交通需按你的出发地另行安排。",
+    "notes": [
+      "时间表采用建议停留时长，站间路程需查地图后调整。",
+      "先确认开放、预约和实际票种，再确定出发安排。"
+    ],
+    "photo": "/assets/covers/taiping.jpg",
+    "photoCredit": "未单独署名（发布方：源城区人民政府）",
+    "photoPortrait": false
+  },
+  {
+    "id": "longchuan",
+    "number": "06",
+    "title": "龙川古城与丹霞两日",
+    "subtitle": "佗城与霍山分日游览",
+    "tag": "2天参考",
+    "tone": "forest",
+    "cover": "tuocheng",
+    "mode": "drive",
+    "days": [
+      [
+        "tuocheng"
+      ],
+      [
+        "huoshan"
+      ]
+    ],
+    "intro": "佗城与霍山分日游览。这是可以调整的地点组合，住宿与往返交通需按你的出发地另行安排。",
+    "notes": [
+      "时间表采用建议停留时长，站间路程需查地图后调整。",
+      "先确认开放、预约和实际票种，再确定出发安排。",
+      "跨日住宿接驳不计入每日时间表，请另外留出时间。"
+    ],
+    "photo": "/assets/covers/tuocheng.jpg",
+    "photoCredit": "原页面未单独署名摄影者",
+    "photoPortrait": false
+  },
+  {
+    "id": "lianping",
+    "number": "07",
+    "title": "连平田园一日",
+    "subtitle": "上坪与内莞，出发前确认花果季节",
+    "tag": "1天参考",
+    "tone": "forest",
+    "cover": "shangping",
+    "mode": "drive",
+    "days": [
+      [
+        "shangping",
+        "neiguan"
+      ]
+    ],
+    "intro": "上坪与内莞，出发前确认花果季节。这是可以调整的地点组合，住宿与往返交通需按你的出发地另行安排。",
+    "notes": [
+      "时间表采用建议停留时长，站间路程需查地图后调整。",
+      "先确认开放、预约和实际票种，再确定出发安排。",
+      "桃花、采摘都有季节性，请先确认当前花果情况。"
+    ],
+    "photo": "/assets/covers/shangping.jpg",
+    "photoCredit": "未署名（发布方：连平县人民政府）",
+    "photoPortrait": false
+  },
+  {
+    "id": "heping",
+    "number": "08",
+    "title": "和平古村与温泉两日",
+    "subtitle": "林寨与热龙分日安排",
+    "tag": "2天参考",
+    "tone": "forest",
+    "cover": "linzhai",
+    "mode": "drive",
+    "days": [
+      [
+        "linzhai"
+      ],
+      [
+        "relong"
+      ]
+    ],
+    "intro": "林寨与热龙分日安排。这是可以调整的地点组合，住宿与往返交通需按你的出发地另行安排。",
+    "notes": [
+      "时间表采用建议停留时长，站间路程需查地图后调整。",
+      "先确认开放、预约和实际票种，再确定出发安排。",
+      "跨日住宿接驳不计入每日时间表，请另外留出时间。"
+    ],
+    "photo": "/assets/covers/linzhai.jpg",
+    "photoCredit": "原页面未单独署名摄影者",
+    "photoPortrait": false
+  },
+  {
+    "id": "xhs-3days-lake",
+    "number": "09",
+    "title": "老城、湖区与庄园三日",
+    "subtitle": "每天一个主要片区",
+    "tag": "3天参考",
+    "tone": "forest",
+    "cover": "konglong",
+    "mode": "drive",
+    "days": [
+      [
+        "konglong",
+        "guifengta"
+      ],
+      [
+        "wanlvhu"
+      ],
+      [
+        "bavaria"
+      ]
+    ],
+    "intro": "每天一个主要片区。这是可以调整的地点组合，住宿与往返交通需按你的出发地另行安排。",
+    "notes": [
+      "时间表采用建议停留时长，站间路程需查地图后调整。",
+      "先确认开放、预约和实际票种，再确定出发安排。",
+      "跨日住宿接驳不计入每日时间表，请另外留出时间。"
+    ],
+    "photo": "/assets/covers/konglong.jpg",
+    "photoCredit": "未单独署名（发布方：河源市人民政府）",
+    "photoPortrait": false
+  },
+  {
+    "id": "xhs-4days-nature",
+    "number": "10",
+    "title": "河源与龙川四日",
+    "subtitle": "看展、游湖、古城与登山",
+    "tag": "4天参考",
+    "tone": "forest",
+    "cover": "konglong",
+    "mode": "drive",
+    "days": [
+      [
+        "konglong",
+        "guifengta"
+      ],
+      [
+        "wanlvhu"
+      ],
+      [
+        "tuocheng"
+      ],
+      [
+        "huoshan"
+      ]
+    ],
+    "intro": "看展、游湖、古城与登山。这是可以调整的地点组合，住宿与往返交通需按你的出发地另行安排。",
+    "notes": [
+      "时间表采用建议停留时长，站间路程需查地图后调整。",
+      "先确认开放、预约和实际票种，再确定出发安排。",
+      "跨日住宿接驳不计入每日时间表，请另外留出时间。"
+    ],
+    "photo": "/assets/covers/konglong.jpg",
+    "photoCredit": "未单独署名（发布方：河源市人民政府）",
+    "photoPortrait": false
+  },
+  {
+    "id": "xhs-5days",
+    "number": "11",
+    "title": "湖山与古村五日",
+    "subtitle": "按片区分日，给跨县路程留余量",
+    "tag": "5天参考",
+    "tone": "forest",
+    "cover": "konglong",
+    "mode": "drive",
+    "days": [
+      [
+        "konglong",
+        "guifengta"
+      ],
+      [
+        "wanlvhu"
+      ],
+      [
+        "tuocheng"
+      ],
+      [
+        "huoshan"
+      ],
+      [
+        "linzhai"
+      ]
+    ],
+    "intro": "按片区分日，给跨县路程留余量。这是可以调整的地点组合，住宿与往返交通需按你的出发地另行安排。",
+    "notes": [
+      "时间表采用建议停留时长，站间路程需查地图后调整。",
+      "先确认开放、预约和实际票种，再确定出发安排。",
+      "跨日住宿接驳不计入每日时间表，请另外留出时间。"
+    ],
+    "photo": "/assets/covers/konglong.jpg",
+    "photoCredit": "未单独署名（发布方：河源市人民政府）",
+    "photoPortrait": false
+  }
+]

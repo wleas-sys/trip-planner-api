@@ -1,0 +1,4908 @@
+[
+  {
+    "id": "konglong",
+    "name": "河源恐龙博物馆",
+    "shortName": "恐龙博物馆",
+    "region": "源城区",
+    "area": "city",
+    "category": "人文",
+    "mark": "馆",
+    "tone": "sand",
+    "address": "河源市源城区滨江大道龟峰公园内",
+    "duration": 120,
+    "durationText": "建议留出约 2 小时",
+    "intro": "在展柜里看恐龙蛋化石，也看看大堂里的恐龙骨架模型。博物馆与龟峰塔同属龟峰公园片区，适合放在同半天。",
+    "suited": "想看化石展览、了解河源的游客",
+    "practical": [
+      "先确认当天开放及预约要求，再安排出发时间。",
+      "馆内看展与龟峰塔外观可放在同一天，具体步行路径以现场为准。"
+    ],
+    "hoursText": "周一闭馆；出发前核对当天开馆安排",
+    "ticketText": "成人全票30元、半票15元；优惠条件以官方公告为准",
+    "phone": "",
+    "sourceKeys": [
+      "museum",
+      "museumTickets"
+    ],
+    "bookingUrl": "https://www.heyuan.gov.cn/zwgk/zdlyxx/whjg/tsg/content/post_691096.html",
+    "map": {
+      "latitude": 23.725847,
+      "longitude": 114.700676,
+      "source": "https://ditu.amap.com/place/B02FA0ODB5",
+      "label": "高德地图 POI 参考点，请核对入口"
+    },
+    "highlights": [
+      "恐龙蛋化石展陈",
+      "大堂恐龙模型",
+      "龟峰公园周边"
+    ],
+    "tags": [
+      "室内看展",
+      "亲子同行",
+      "化石"
+    ],
+    "visitTips": [
+      "先确认当天开放及预约要求，再安排出发时间。",
+      "馆内看展与龟峰塔外观可放在同一天，具体步行路径以现场为准。"
+    ],
+    "images": [
+      {
+        "file": "/assets/covers/konglong.jpg",
+        "subject": "博物馆建筑外景",
+        "credit": "未单独署名（发布方：河源市人民政府）",
+        "source": "https://www.heyuan.gov.cn/zjhy/tpxs/content/post_414847.html",
+        "license": "未提供复用许可",
+        "licenseUrl": "",
+        "rightsStatus": "pending",
+        "year": "拍摄时间见来源",
+        "note": "按原比例缩小为 720×341 并压缩为 JPEG；未生成、替换画面或移除水印。",
+        "width": 720,
+        "height": 341
+      },
+      {
+        "file": "/pkg-detail/photos/konglong-2.jpg",
+        "subject": "大堂恐龙模型全景",
+        "credit": "未署名（发布方：河源市博物馆）",
+        "source": "https://www.hyklbwg.com/hbzl/show.php?cid=55&id=343",
+        "license": "未提供复用许可",
+        "licenseUrl": "",
+        "rightsStatus": "pending",
+        "year": "拍摄时间见来源",
+        "note": "按原比例缩小为 800×548 并压缩为 JPEG；未生成、替换画面或移除水印。",
+        "width": 800,
+        "height": 548
+      },
+      {
+        "file": "/pkg-detail/photos/konglong-3.jpg",
+        "subject": "恐龙产房蛋化石展柜",
+        "credit": "未署名（发布方：河源市博物馆）",
+        "source": "https://www.hyklbwg.com/hbzl/show.php?cid=55&id=342",
+        "license": "未提供复用许可",
+        "licenseUrl": "",
+        "rightsStatus": "pending",
+        "year": "拍摄时间见来源",
+        "note": "按原比例缩小为 800×600 并压缩为 JPEG；未生成、替换画面或移除水印。",
+        "width": 800,
+        "height": 600
+      },
+      {
+        "file": "/pkg-detail/photos/konglong-4.jpg",
+        "subject": "恐龙故乡骨骼化石展柜",
+        "credit": "未署名（发布方：河源市博物馆）",
+        "source": "https://www.hyklbwg.com/hbzl/show.php?cid=55&id=340",
+        "license": "未提供复用许可",
+        "licenseUrl": "",
+        "rightsStatus": "pending",
+        "year": "拍摄时间见来源",
+        "note": "按原比例缩小为 800×600 并压缩为 JPEG；未生成、替换画面或移除水印。",
+        "width": 800,
+        "height": 600
+      }
+    ],
+    "photo": "/assets/covers/konglong.jpg",
+    "photoCredit": "未单独署名（发布方：河源市人民政府）",
+    "photoPortrait": false
+  },
+  {
+    "id": "guifengta",
+    "name": "龟峰塔",
+    "shortName": "龟峰塔",
+    "region": "源城区",
+    "area": "city",
+    "category": "人文",
+    "mark": "塔",
+    "tone": "clay",
+    "address": "河源市源城区滨江大道龟峰公园内",
+    "duration": 45,
+    "durationText": "外观参观建议约 45 分钟",
+    "intro": "从龟峰公园看南宋古塔与东江。以外观和江岸散步为主，登塔是否开放需另行确认。",
+    "suited": "喜欢古建筑、拍照与步行的游客",
+    "practical": [
+      "先看古塔外观与周边江景；如计划登塔，请向管理方确认当天是否开放。",
+      "可与同园的恐龙博物馆组合；遇雨可缩短户外停留。"
+    ],
+    "hoursText": "园区与登塔开放安排以当天公示为准",
+    "ticketText": "以现场公示为准",
+    "phone": "",
+    "sourceKeys": [
+      "museum",
+      "pagoda"
+    ],
+    "bookingUrl": "",
+    "map": {
+      "latitude": 23.726581,
+      "longitude": 114.701512,
+      "source": "https://ditu.amap.com/place/B02FA00C12",
+      "label": "高德地图 POI 参考点；登塔开放需确认"
+    },
+    "highlights": [
+      "南宋古塔外观",
+      "砖塔层檐细节",
+      "古塔与东江景观"
+    ],
+    "tags": [
+      "古建筑",
+      "江景",
+      "慢走"
+    ],
+    "visitTips": [
+      "先看古塔外观与周边江景；如计划登塔，请向管理方确认当天是否开放。",
+      "可与同园的恐龙博物馆组合；遇雨可缩短户外停留。"
+    ],
+    "images": [
+      {
+        "file": "/assets/covers/guifengta.jpg",
+        "subject": "古塔与东江航拍",
+        "credit": "未单独署名（发布方：河源市人民政府）",
+        "source": "https://www.heyuan.gov.cn/zjhy/tpxs/content/post_414848.html",
+        "license": "未提供复用许可",
+        "licenseUrl": "",
+        "rightsStatus": "pending",
+        "year": "拍摄时间见来源",
+        "note": "按原比例缩小为 720×478 并压缩为 JPEG；未生成、替换画面或移除水印。",
+        "width": 720,
+        "height": 478
+      },
+      {
+        "file": "/pkg-detail/photos/guifengta-2.jpg",
+        "subject": "塔前台阶与全貌",
+        "credit": "Zhangzhugang",
+        "source": "https://commons.wikimedia.org/wiki/File%3AHeyuan_Guifeng_Ta_2015.11.12_12-28-46.jpg",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "rightsStatus": "open-license",
+        "year": "拍摄时间见来源",
+        "note": "按原比例缩小为 533×800 并压缩为 JPEG；未生成、替换画面或移除水印。",
+        "width": 533,
+        "height": 800
+      },
+      {
+        "file": "/pkg-detail/photos/guifengta-3.jpg",
+        "subject": "砖雕与塔檐细节",
+        "credit": "Zhangzhugang",
+        "source": "https://commons.wikimedia.org/wiki/File%3AHeyuan_Guifeng_Ta_2015.11.12_13-02-02.jpg",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "rightsStatus": "open-license",
+        "year": "拍摄时间见来源",
+        "note": "按原比例缩小为 800×533 并压缩为 JPEG；未生成、替换画面或移除水印。",
+        "width": 800,
+        "height": 533
+      },
+      {
+        "file": "/pkg-detail/photos/guifengta-4.jpg",
+        "subject": "塔基与入口",
+        "credit": "Zhangzhugang",
+        "source": "https://commons.wikimedia.org/wiki/File%3AHeyuan_Guifeng_Ta_2015.11.12_12-32-44.jpg",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "rightsStatus": "open-license",
+        "year": "拍摄时间见来源",
+        "note": "按原比例缩小为 800×533 并压缩为 JPEG；未生成、替换画面或移除水印。",
+        "width": 800,
+        "height": 533
+      }
+    ],
+    "photo": "/assets/covers/guifengta.jpg",
+    "photoCredit": "未单独署名（发布方：河源市人民政府）",
+    "photoPortrait": false
+  },
+  {
+    "id": "wanlvhu",
+    "name": "万绿湖",
+    "shortName": "万绿湖",
+    "region": "东源县",
+    "area": "lake",
+    "category": "山水",
+    "mark": "湖",
+    "tone": "green",
+    "address": "河源市东源县新港镇港中路17号万绿湖风景区",
+    "duration": 240,
+    "durationText": "建议预留半天，随船线调整",
+    "intro": "青山与岛屿之间，是万绿湖开阔的水面。第一次来，先选好一条船线，把半天留给游湖，别把各个岛屿当成需要分别开车到达的景点。",
+    "suited": "想乘船看湖、以山水游览为主的游客",
+    "practical": [
+      "先核对船线、所含岛屿和镜花缘是否已含在套票内，再付款。",
+      "出发前确认当天首末班船；雨雾或风浪可能改变船班安排。",
+      "带饮水与遮阳用品，给候船、用餐和返程单独留出时间。"
+    ],
+    "hoursText": "营业及船班以景区当天公示为准",
+    "ticketText": "官网成人船线票：提前预订175元起、当日198元起；具体日期与票种以订单为准",
+    "phone": "07628780002",
+    "sourceKeys": [
+      "lake",
+      "lakeHours",
+      "lakeTickets",
+      "lakeBooking"
+    ],
+    "bookingUrl": "https://www.wanlvhu.cn/bookshow-26-2.html",
+    "map": {
+      "latitude": 23.776197,
+      "longitude": 114.631515,
+      "source": "https://www.amap.com/place/B0GUZ1IP3D",
+      "name": "万绿湖风景区游客中心",
+      "label": "高德地图 · 游客中心参考点，船班与入口请按现场指引",
+      "checkedAt": "2026-10-28",
+      "coordinateType": "gcj02"
+    },
+    "highlights": [
+      "乘船看群岛",
+      "湖湾与山林",
+      "随光线变化的湖色"
+    ],
+    "tags": [
+      "游湖",
+      "山水",
+      "半日游"
+    ],
+    "visitTips": [
+      "先核对船线、所含岛屿和镜花缘是否已含在套票内，再付款。",
+      "出发前确认当天首末班船；雨雾或风浪可能改变船班安排。",
+      "带饮水与遮阳用品，给候船、用餐和返程单独留出时间。"
+    ],
+    "images": [
+      {
+        "file": "/assets/covers/wanlvhu.jpg",
+        "subject": "群岛与碧水蓝天全景",
+        "credit": "未单独署名（发布方：万绿湖景区官网）",
+        "source": "https://www.wanlvhu.cn/scenery-9.html",
+        "license": "未提供复用许可",
+        "licenseUrl": "",
+        "rightsStatus": "pending",
+        "year": "拍摄时间见来源",
+        "note": "按原比例缩小为 720×283 并压缩为 JPEG；未生成、替换画面或移除水印。",
+        "width": 720,
+        "height": 283
+      },
+      {
+        "file": "/pkg-detail/photos/wanlvhu-2.jpg",
+        "subject": "红叶与湖面游船",
+        "credit": "未单独署名（发布方：万绿湖景区官网）",
+        "source": "https://www.wanlvhu.cn/scenery-9.html",
+        "license": "未提供复用许可",
+        "licenseUrl": "",
+        "rightsStatus": "pending",
+        "year": "拍摄时间见来源",
+        "note": "按原比例缩小为 800×600 并压缩为 JPEG；未生成、替换画面或移除水印。",
+        "width": 800,
+        "height": 600
+      },
+      {
+        "file": "/pkg-detail/photos/wanlvhu-3.jpg",
+        "subject": "湖湾与青山宽幅全景",
+        "credit": "未单独署名（发布方：万绿湖景区官网）",
+        "source": "https://www.wanlvhu.cn/scenery-9.html",
+        "license": "未提供复用许可",
+        "licenseUrl": "",
+        "rightsStatus": "pending",
+        "year": "拍摄时间见来源",
+        "note": "按原比例缩小为 800×351 并压缩为 JPEG；未生成、替换画面或移除水印。",
+        "width": 800,
+        "height": 351
+      },
+      {
+        "file": "/pkg-detail/photos/wanlvhu-4.jpg",
+        "subject": "碧水游船俯瞰",
+        "credit": "未单独署名（发布方：万绿湖景区官网）",
+        "source": "https://www.wanlvhu.cn/scenery-9-2.html",
+        "license": "未提供复用许可",
+        "licenseUrl": "",
+        "rightsStatus": "pending",
+        "year": "拍摄时间见来源",
+        "note": "按原比例缩小为 800×450 并压缩为 JPEG；未生成、替换画面或移除水印。",
+        "width": 800,
+        "height": 450
+      }
+    ],
+    "photo": "/assets/covers/wanlvhu.jpg",
+    "photoCredit": "未单独署名（发布方：万绿湖景区官网）",
+    "photoPortrait": false
+  },
+  {
+    "id": "jinghuayuan",
+    "name": "镜花缘",
+    "shortName": "镜花缘",
+    "region": "东源县",
+    "area": "lake",
+    "category": "山水",
+    "mark": "园",
+    "tone": "green",
+    "address": "河源市东源县万绿湖风景区镜花缘游览区",
+    "duration": 120,
+    "durationText": "建议留出约 2 小时",
+    "intro": "从岸上看万绿湖，顺着园内步道逛湖边与植物景观。和游船一起安排时，先核对套票，留出陆上游览的时间。",
+    "suited": "想在湖区增加陆上游览的游客",
+    "practical": [
+      "与万绿湖一起游玩时，避免重复购买套票中已包含的项目。",
+      "演出与游玩项目可能单独安排时间，请在入口确认。"
+    ],
+    "hoursText": "具体游览区时间待确认",
+    "ticketText": "官网预订32元起、公示单票40元；部分万绿湖套票包含，电瓶车另计。",
+    "phone": "",
+    "sourceKeys": [
+      "mirror",
+      "lakeTickets"
+    ],
+    "bookingUrl": "https://www.wanlvhu.cn/bookshow-26-28.html",
+    "map": {
+      "latitude": 23.776159,
+      "longitude": 114.629277,
+      "source": "https://www.amap.com/place/B0FFFFGMSQ",
+      "name": "万绿湖风景区·镜花缘游览区",
+      "label": "高德地图 · 景区参考点，请核对实际入口",
+      "checkedAt": "2026-10-28",
+      "coordinateType": "gcj02"
+    },
+    "highlights": [
+      "临湖观景环境",
+      "园内植物景观",
+      "《镜花缘》主题场景"
+    ],
+    "tags": [
+      "湖边散步",
+      "园林",
+      "随船线安排"
+    ],
+    "visitTips": [
+      "与万绿湖一起游玩时，避免重复购买套票中已包含的项目。",
+      "演出与游玩项目可能单独安排时间，请在入口确认。"
+    ],
+    "images": [
+      {
+        "file": "/assets/covers/jinghuayuan.jpg",
+        "subject": "景区入口雕塑与广场",
+        "credit": "未单独署名（发布方：万绿湖景区官网）",
+        "source": "https://www.wanlvhu.cn/home/show-8-51.html",
+        "license": "未提供复用许可",
+        "licenseUrl": "",
+        "rightsStatus": "pending",
+        "year": "拍摄时间见来源",
+        "note": "按原比例缩小为 720×372 并压缩为 JPEG；未生成、替换画面或移除水印。",
+        "width": 720,
+        "height": 372
+      },
+      {
+        "file": "/pkg-detail-c/photos/jinghuayuan-2.jpg",
+        "subject": "科普植物园温室",
+        "credit": "未署名（发布方：万绿湖旅游官网）",
+        "source": "https://www.wanlvhu.cn/home/show-8-51.html",
+        "license": "未提供复用许可",
+        "licenseUrl": "",
+        "rightsStatus": "pending",
+        "year": "拍摄时间见来源",
+        "note": "按原比例缩小为 800×533 并压缩为 JPEG；未生成、替换画面或移除水印。",
+        "width": 800,
+        "height": 533
+      },
+      {
+        "file": "/pkg-detail-c/photos/jinghuayuan-3.jpg",
+        "subject": "红颜洞山林岩石",
+        "credit": "未署名（发布方：万绿湖旅游官网）",
+        "source": "https://www.wanlvhu.cn/home/show-7-346.html",
+        "license": "未提供复用许可",
+        "licenseUrl": "",
+        "rightsStatus": "pending",
+        "year": "拍摄时间见来源",
+        "note": "按原比例缩小为 800×450 并压缩为 JPEG；未生成、替换画面或移除水印。",
+        "width": 800,
+        "height": 450
+      },
+      {
+        "file": "/pkg-detail-c/photos/jinghuayuan-4.jpg",
+        "subject": "湖边观景环境",
+        "credit": "未署名（发布方：万绿湖旅游官网）",
+        "source": "https://www.wanlvhu.cn/home/show-7-346.html",
+        "license": "未提供复用许可",
+        "licenseUrl": "",
+        "rightsStatus": "pending",
+        "year": "拍摄时间见来源",
+        "note": "按原比例缩小为 800×446 并压缩为 JPEG；未生成、替换画面或移除水印。",
+        "width": 800,
+        "height": 446
+      }
+    ],
+    "photo": "/assets/covers/jinghuayuan.jpg",
+    "photoCredit": "未单独署名（发布方：万绿湖景区官网）",
+    "photoPortrait": false
+  },
+  {
+    "id": "yulinmen",
+    "name": "御临门温泉度假村",
+    "shortName": "御临门温泉",
+    "region": "紫金县",
+    "area": "hotSpring",
+    "category": "温泉",
+    "mark": "泉",
+    "tone": "clay",
+    "address": "河源市紫金县九和镇御临门温泉度假村",
+    "duration": 180,
+    "durationText": "建议留出约 3 小时",
+    "intro": "九和镇的一处温泉度假目的地，园林泡池与度假建筑是主要体验。适合只安排一次泡汤，把剩下的时间留给休息。",
+    "suited": "希望安排较少地点、以泡温泉为主的游客",
+    "practical": [
+      "确认购买的是泡池门票还是住宿套餐，以及当天可用时段。",
+      "与河源市区属于不同片区，先查往返交通，再决定是否放在同一天。"
+    ],
+    "hoursText": "泡池营业时间待确认",
+    "ticketText": "按泡池票或住宿套餐确认",
+    "phone": "",
+    "sourceKeys": [
+      "hotSpring"
+    ],
+    "bookingUrl": "",
+    "map": {
+      "latitude": 23.447538,
+      "longitude": 115.103572,
+      "source": "https://www.amap.com/place/B02FA01R5D",
+      "name": "御临门温泉度假村",
+      "label": "高德地图 · 度假村参考点，请核对温泉接待入口",
+      "checkedAt": "2026-10-28",
+      "coordinateType": "gcj02"
+    },
+    "highlights": [
+      "园林泡池",
+      "露天泳池景观",
+      "度假村庭院"
+    ],
+    "tags": [
+      "泡温泉",
+      "慢休息",
+      "九和镇"
+    ],
+    "visitTips": [
+      "确认购买的是泡池门票还是住宿套餐，以及当天可用时段。",
+      "与河源市区属于不同片区，先查往返交通，再决定是否放在同一天。"
+    ],
+    "images": [
+      {
+        "file": "/assets/covers/yulinmen.jpg",
+        "subject": "室外泳池与园林",
+        "credit": "未署名（发布方：紫金县人民政府）",
+        "source": "http://www.zijin.gov.cn/xq/yzzj8/ylmwqdjc/index.html",
+        "license": "未提供复用许可",
+        "licenseUrl": "",
+        "rightsStatus": "pending",
+        "year": "拍摄时间见来源",
+        "note": "按原比例缩小为 720×336 并压缩为 JPEG；未生成、替换画面或移除水印。",
+        "width": 720,
+        "height": 336
+      },
+      {
+        "file": "/pkg-detail-b/photos/yulinmen-2.jpg",
+        "subject": "园林泡池与木屋",
+        "credit": "未署名（发布方：紫金县人民政府）",
+        "source": "http://www.zijin.gov.cn/ztzl/zjxcjwmwscs/content/mpost_624163.html",
+        "license": "未提供复用许可",
+        "licenseUrl": "",
+        "rightsStatus": "pending",
+        "year": "拍摄时间见来源",
+        "note": "按原比例缩小为 800×536 并压缩为 JPEG；未生成、替换画面或移除水印。",
+        "width": 800,
+        "height": 536
+      },
+      {
+        "file": "/pkg-detail-b/photos/yulinmen-3.jpg",
+        "subject": "温泉度假区庭院与露台",
+        "credit": "未单独署名（来源页面见链接）",
+        "source": "https://www.heyuan.gov.cn/zjhy/tpxs/content/post_188586.html",
+        "license": "未提供复用许可",
+        "licenseUrl": "",
+        "rightsStatus": "pending",
+        "year": "拍摄时间见来源",
+        "note": "按原比例缩小为 600×400 并压缩为 JPEG；未生成、替换画面或移除水印。",
+        "width": 600,
+        "height": 400
+      },
+      {
+        "file": "/pkg-detail-b/photos/yulinmen-4.jpg",
+        "subject": "临水建筑与傍晚倒影",
+        "credit": "未单独署名（来源页面见链接）",
+        "source": "https://www.heyuan.gov.cn/zjhy/tpxs/content/post_188586.html",
+        "license": "未提供复用许可",
+        "licenseUrl": "",
+        "rightsStatus": "pending",
+        "year": "拍摄时间见来源",
+        "note": "按原比例缩小为 600×400 并压缩为 JPEG；未生成、替换画面或移除水印。",
+        "width": 600,
+        "height": 400
+      }
+    ],
+    "photo": "/assets/covers/yulinmen.jpg",
+    "photoCredit": "未署名（发布方：紫金县人民政府）",
+    "photoPortrait": false
+  },
+  {
+    "id": "huoshan",
+    "name": "霍山旅游风景区",
+    "shortName": "霍山",
+    "region": "龙川县",
+    "area": "longchuan",
+    "category": "山水",
+    "mark": "山",
+    "tone": "sand",
+    "address": "河源市龙川县田心镇东江村",
+    "duration": 240,
+    "durationText": "登山建议预留约 4 小时",
+    "intro": "到龙川看丹霞山体与层叠远山。这里更适合认真留出一次登山的时间，按体力选择步道，别和远处景点赶在一起。",
+    "suited": "愿意登山、能留出充分交通时间的游客",
+    "practical": [
+      "先确认天气、步道开放情况与末次入园时间。",
+      "当天还需往返河源市区时，先查路程，避免继续塞入其他片区。"
+    ],
+    "hoursText": "开放与入园截止时间待确认",
+    "ticketText": "当前票价待确认",
+    "phone": "",
+    "sourceKeys": [
+      "longchuan"
+    ],
+    "bookingUrl": "",
+    "map": {
+      "latitude": 24.231032,
+      "longitude": 115.505651,
+      "source": "https://www.amap.com/place/B02FA02BYG",
+      "name": "霍山风景区（西门）",
+      "label": "高德地图 · 地图标注的西门，请核对当日开放入口",
+      "checkedAt": "2026-10-28",
+      "coordinateType": "gcj02"
+    },
+    "highlights": [
+      "丹霞峰体",
+      "登山观景",
+      "山脚田野与远山"
+    ],
+    "tags": [
+      "丹霞",
+      "登山",
+      "龙川"
+    ],
+    "visitTips": [
+      "先确认天气、步道开放情况与末次入园时间。",
+      "当天还需往返河源市区时，先查路程，避免继续塞入其他片区。"
+    ],
+    "images": [
+      {
+        "file": "/assets/covers/huoshan.jpg",
+        "subject": "丹霞峰体与远山全景",
+        "credit": "原页面未单独署名摄影者",
+        "source": "http://www.longchuan.gov.cn/zllc/lylc/lcly/content/post_456460.html",
+        "license": "未提供复用许可",
+        "licenseUrl": "",
+        "rightsStatus": "pending",
+        "year": "拍摄时间见来源",
+        "note": "按原比例缩小为 720×352 并压缩为 JPEG；未生成、替换画面或移除水印。",
+        "width": 720,
+        "height": 352
+      },
+      {
+        "file": "/pkg-detail-b/photos/huoshan-2.jpg",
+        "subject": "山脚田野与丹霞群峰",
+        "credit": "原页面未单独署名摄影者",
+        "source": "http://www.heping.gov.cn/hyhpwglj/gkmlpt/content/0/412/post_412651.html",
+        "license": "未提供复用许可",
+        "licenseUrl": "",
+        "rightsStatus": "pending",
+        "year": "拍摄时间见来源",
+        "note": "按原比例缩小为 800×320 并压缩为 JPEG；未生成、替换画面或移除水印。",
+        "width": 800,
+        "height": 320
+      },
+      {
+        "file": "/pkg-detail-b/photos/huoshan-3.jpg",
+        "subject": "船头石与山顶观景亭",
+        "credit": "未单独署名（来源页面见链接）",
+        "source": "https://www.heyuan.gov.cn/zjhy/tpxs/content/post_188590.html",
+        "license": "未提供复用许可",
+        "licenseUrl": "",
+        "rightsStatus": "pending",
+        "year": "拍摄时间见来源",
+        "note": "按原比例缩小为 600×400 并压缩为 JPEG；未生成、替换画面或移除水印。",
+        "width": 600,
+        "height": 400
+      },
+      {
+        "file": "/pkg-detail-b/photos/huoshan-4.jpg",
+        "subject": "酒瓮石与山间建筑",
+        "credit": "未单独署名（来源页面见链接）",
+        "source": "https://www.heyuan.gov.cn/zjhy/tpxs/content/post_188590.html",
+        "license": "未提供复用许可",
+        "licenseUrl": "",
+        "rightsStatus": "pending",
+        "year": "拍摄时间见来源",
+        "note": "按原比例缩小为 600×400 并压缩为 JPEG；未生成、替换画面或移除水印。",
+        "width": 600,
+        "height": 400
+      }
+    ],
+    "photo": "/assets/covers/huoshan.jpg",
+    "photoCredit": "原页面未单独署名摄影者",
+    "photoPortrait": false
+  },
+  {
+    "id": "tuocheng",
+    "name": "佗城景区",
+    "shortName": "佗城",
+    "region": "龙川县",
+    "area": "longchuan",
+    "category": "人文",
+    "mark": "城",
+    "tone": "sand",
+    "address": "河源市龙川县佗城镇",
+    "duration": 120,
+    "durationText": "建议留出约 2 小时",
+    "intro": "在学宫、考棚与古城街巷之间，认识龙川的历史。选两三个真正想看的点慢慢逛，比只在入口留张照片更有意思。",
+    "suited": "对古城历史、街巷与人文有兴趣的游客",
+    "practical": [
+      "镇区与收费景点的范围不同，不默认一张票能覆盖全部点位。",
+      "出发前确认入口及参观点，当天行程为交通预留时间。"
+    ],
+    "hoursText": "各参观点开放时间待确认",
+    "ticketText": "按具体参观点确认",
+    "phone": "",
+    "sourceKeys": [
+      "longchuan"
+    ],
+    "bookingUrl": "",
+    "map": {
+      "latitude": 24.059724,
+      "longitude": 115.19006,
+      "source": "https://www.amap.com/place/B02FA01S2U",
+      "name": "佗城景区",
+      "label": "高德地图 · 学宫附近参考点，请核对各参观点入口",
+      "checkedAt": "2026-10-28",
+      "coordinateType": "gcj02"
+    },
+    "highlights": [
+      "龙川学宫",
+      "龙川考棚",
+      "古城街巷与城门"
+    ],
+    "tags": [
+      "古城",
+      "历史建筑",
+      "街巷"
+    ],
+    "visitTips": [
+      "镇区与收费景点的范围不同，不默认一张票能覆盖全部点位。",
+      "出发前确认入口及参观点，当天行程为交通预留时间。"
+    ],
+    "images": [
+      {
+        "file": "/assets/covers/tuocheng.jpg",
+        "subject": "南越王庙门前建筑",
+        "credit": "原页面未单独署名摄影者",
+        "source": "http://www.longchuan.gov.cn/zllc/lylc/lcly/content/post_456460.html",
+        "license": "未提供复用许可",
+        "licenseUrl": "",
+        "rightsStatus": "pending",
+        "year": "拍摄时间见来源",
+        "note": "按原比例缩小为 720×406 并压缩为 JPEG；未生成、替换画面或移除水印。",
+        "width": 720,
+        "height": 406
+      },
+      {
+        "file": "/pkg-detail-c/photos/tuocheng-2.jpg",
+        "subject": "龙川学宫大成殿",
+        "credit": "Yumeto",
+        "source": "https://commons.wikimedia.org/wiki/File%3A20251115_Dacheng_Dian.jpg",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "rightsStatus": "open-license",
+        "year": "拍摄时间见来源",
+        "note": "按原比例缩小为 800×600 并压缩为 JPEG；未生成、替换画面或移除水印。",
+        "width": 800,
+        "height": 600
+      },
+      {
+        "file": "/pkg-detail-c/photos/tuocheng-3.jpg",
+        "subject": "龙川考棚庭院",
+        "credit": "Yumeto",
+        "source": "https://commons.wikimedia.org/wiki/File%3A20251115_Longchuan_Kaopeng_%28164346%29.jpg",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "rightsStatus": "open-license",
+        "year": "拍摄时间见来源",
+        "note": "按原比例缩小为 800×600 并压缩为 JPEG；未生成、替换画面或移除水印。",
+        "width": 800,
+        "height": 600
+      },
+      {
+        "file": "/pkg-detail-c/photos/tuocheng-4.jpg",
+        "subject": "古城墙与城门",
+        "credit": "Yumeto",
+        "source": "https://commons.wikimedia.org/wiki/File%3A20251115_Longchuan_city_wall.jpg",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "rightsStatus": "open-license",
+        "year": "拍摄时间见来源",
+        "note": "按原比例缩小为 800×600 并压缩为 JPEG；未生成、替换画面或移除水印。",
+        "width": 800,
+        "height": 600
+      }
+    ],
+    "photo": "/assets/covers/tuocheng.jpg",
+    "photoCredit": "原页面未单独署名摄影者",
+    "photoPortrait": false
+  },
+  {
+    "id": "sujiawei",
+    "name": "苏家围客家乡村旅游区",
+    "shortName": "苏家围",
+    "region": "东源县",
+    "area": "east",
+    "category": "人文",
+    "mark": "巷",
+    "tone": "sand",
+    "address": "河源市东源县义合镇义合村苏家围",
+    "duration": 120,
+    "durationText": "建议留出约 2 小时",
+    "intro": "看客家民居、旧瓦顶和村落水塘。这里适合放慢脚步观察建筑与乡土生活，老照片只作风貌参考，实际可参观范围以现场为准。",
+    "suited": "喜欢古村、建筑细节与乡间散步的人",
+    "highlights": [
+      "客家民居",
+      "村落水塘",
+      "旧屋瓦顶与巷道"
+    ],
+    "practical": [
+      "先确认村落和具体院落是否开放，民居内院不要自行进入。",
+      "穿适合走石路的鞋；雨后注意湿滑，拍摄居民前先征得同意。"
+    ],
+    "visitTips": [
+      "先确认村落和具体院落是否开放，民居内院不要自行进入。",
+      "穿适合走石路的鞋；雨后注意湿滑，拍摄居民前先征得同意。"
+    ],
+    "tags": [
+      "客家古村",
+      "民居",
+      "乡间慢走"
+    ],
+    "hoursText": "出发前确认开放范围与入园时间",
+    "ticketText": "票价、免费范围与优惠以当天公示为准",
+    "phone": "",
+    "sourceKeys": [
+      "dongyuanList",
+      "sujiawei"
+    ],
+    "bookingUrl": "",
+    "map": {
+      "latitude": 23.842176,
+      "longitude": 114.887866,
+      "source": "https://www.amap.com/place/B02FA00440",
+      "name": "苏家围客家乡村旅游区",
+      "label": "高德地图 · 景区参考点，请核对实际入口",
+      "checkedAt": "2026-10-28",
+      "coordinateType": "gcj02"
+    },
+    "images": [
+      {
+        "file": "/assets/covers/sujiawei.jpg",
+        "subject": "荷塘与村落入口",
+        "credit": "Qiu Mao",
+        "source": "https://commons.wikimedia.org/wiki/File%3A%E4%B8%9C%E6%BA%90%E4%B9%89%E5%90%88%E8%8B%8F%E5%AE%B6%E5%9B%B420121003_-_panoramio.jpg",
+        "license": "CC BY 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+        "rightsStatus": "open-license",
+        "year": "拍摄时间见来源",
+        "note": "按原比例缩小为 720×540 并压缩为 JPEG；未生成、替换画面或移除水印。",
+        "width": 720,
+        "height": 540
+      },
+      {
+        "file": "/pkg-detail-b/photos/sujiawei-2.jpg",
+        "subject": "传统民居瓦顶",
+        "credit": "Qiu Mao",
+        "source": "https://commons.wikimedia.org/wiki/File%3A%E4%B8%9C%E6%BA%90%E4%B9%89%E5%90%88%E8%8B%8F%E5%AE%B6%E5%9B%B420121003_-_panoramio_%283%29.jpg",
+        "license": "CC BY 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+        "rightsStatus": "open-license",
+        "year": "拍摄时间见来源",
+        "note": "按原比例缩小为 800×600 并压缩为 JPEG；未生成、替换画面或移除水印。",
+        "width": 800,
+        "height": 600
+      },
+      {
+        "file": "/pkg-detail-b/photos/sujiawei-3.jpg",
+        "subject": "水塘与客家民居",
+        "credit": "Qiu Mao",
+        "source": "https://commons.wikimedia.org/wiki/File%3A%E4%B8%9C%E6%BA%90%E4%B9%89%E5%90%88%E8%8B%8F%E5%AE%B6%E5%9B%B420121003_-_panoramio_%282%29.jpg",
+        "license": "CC BY 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+        "rightsStatus": "open-license",
+        "year": "拍摄时间见来源",
+        "note": "按原比例缩小为 800×600 并压缩为 JPEG；未生成、替换画面或移除水印。",
+        "width": 800,
+        "height": 600
+      }
+    ],
+    "photo": "/assets/covers/sujiawei.jpg",
+    "photoCredit": "Qiu Mao",
+    "photoPortrait": false
+  },
+  {
+    "id": "xiankeng",
+    "name": "仙坑古村",
+    "shortName": "仙坑古村",
+    "region": "东源县",
+    "area": "east",
+    "category": "人文",
+    "mark": "巷",
+    "tone": "sand",
+    "address": "河源市东源县康禾镇仙坑村",
+    "duration": 120,
+    "durationText": "建议留出约 2 小时",
+    "intro": "围绕八角楼、四角楼看客家古建筑。比起赶路打卡，更值得留意门厅、山墙、屋顶和村落之间的关系。",
+    "suited": "喜欢客家围屋和建筑摄影的人",
+    "highlights": [
+      "八角楼",
+      "四角楼",
+      "传统门厅与瓦屋"
+    ],
+    "practical": [
+      "先确认古建筑的开放院落和参观方式，遵守文物与居民区域的界线。",
+      "村内步行建议轻装；带饮水，车辆停放按村内指引。"
+    ],
+    "visitTips": [
+      "先确认古建筑的开放院落和参观方式，遵守文物与居民区域的界线。",
+      "村内步行建议轻装；带饮水，车辆停放按村内指引。"
+    ],
+    "tags": [
+      "古建筑",
+      "客家围屋",
+      "康禾"
+    ],
+    "hoursText": "出发前确认开放范围与入园时间",
+    "ticketText": "票价、免费范围与优惠以当天公示为准",
+    "phone": "",
+    "sourceKeys": [
+      "xiankeng"
+    ],
+    "bookingUrl": "",
+    "map": null,
+    "images": [
+      {
+        "file": "/assets/covers/xiankeng.jpg",
+        "subject": "八角楼古井",
+        "credit": "Qiu Mao",
+        "source": "https://commons.wikimedia.org/wiki/File%3A%E4%B8%9C%E6%BA%90%E5%BA%B7%E7%A6%BE%E4%BB%99%E5%9D%91%E6%9D%91%E5%85%AB%E8%A7%92%E6%A5%BC20121003_-_panoramio_%283%29.jpg",
+        "license": "CC BY 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+        "rightsStatus": "open-license",
+        "year": "拍摄时间见来源",
+        "note": "按原比例缩小为 720×540 并压缩为 JPEG；未生成、替换画面或移除水印。",
+        "width": 720,
+        "height": 540
+      },
+      {
+        "file": "/pkg-detail-b/photos/xiankeng-2.jpg",
+        "subject": "八角楼门厅",
+        "credit": "Qiu Mao",
+        "source": "https://commons.wikimedia.org/wiki/File%3A%E4%B8%9C%E6%BA%90%E5%BA%B7%E7%A6%BE%E4%BB%99%E5%9D%91%E6%9D%91%E5%85%AB%E8%A7%92%E6%A5%BC20121003_-_panoramio_%2810%29.jpg",
+        "license": "CC BY 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+        "rightsStatus": "open-license",
+        "year": "拍摄时间见来源",
+        "note": "按原比例缩小为 600×800 并压缩为 JPEG；未生成、替换画面或移除水印。",
+        "width": 600,
+        "height": 800
+      },
+      {
+        "file": "/pkg-detail-b/photos/xiankeng-3.jpg",
+        "subject": "八角楼屋顶与村落",
+        "credit": "Qiu Mao",
+        "source": "https://commons.wikimedia.org/wiki/File%3A%E4%B8%9C%E6%BA%90%E5%BA%B7%E7%A6%BE%E4%BB%99%E5%9D%91%E6%9D%91%E5%85%AB%E8%A7%92%E6%A5%BC20121003_-_panoramio_%2819%29.jpg",
+        "license": "CC BY 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+        "rightsStatus": "open-license",
+        "year": "拍摄时间见来源",
+        "note": "按原比例缩小为 800×600 并压缩为 JPEG；未生成、替换画面或移除水印。",
+        "width": 800,
+        "height": 600
+      },
+      {
+        "file": "/pkg-detail-b/photos/xiankeng-4.jpg",
+        "subject": "八角楼山墙细节",
+        "credit": "Qiu Mao",
+        "source": "https://commons.wikimedia.org/wiki/File%3A%E4%B8%9C%E6%BA%90%E5%BA%B7%E7%A6%BE%E4%BB%99%E5%9D%91%E6%9D%91%E5%85%AB%E8%A7%92%E6%A5%BC20121003_-_panoramio_%2820%29.jpg",
+        "license": "CC BY 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+        "rightsStatus": "open-license",
+        "year": "拍摄时间见来源",
+        "note": "按原比例缩小为 800×600 并压缩为 JPEG；未生成、替换画面或移除水印。",
+        "width": 800,
+        "height": 600
+      }
+    ],
+    "photo": "/assets/covers/xiankeng.jpg",
+    "photoCredit": "Qiu Mao",
+    "photoPortrait": false
+  },
+  {
+    "id": "linzhai",
+    "name": "林寨古村",
+    "shortName": "林寨古村",
+    "region": "和平县",
+    "area": "heping",
+    "category": "人文",
+    "mark": "巷",
+    "tone": "sand",
+    "address": "河源市和平县林寨镇林寨古村",
+    "duration": 150,
+    "durationText": "建议留出约 150 分钟",
+    "intro": "沿着四角楼之间的街巷走，看围屋、田野与水面的关系。建筑外观已经有不少细节可看，想进楼参观再单独确认开放。",
+    "suited": "对客家建筑、古村风貌感兴趣的人",
+    "highlights": [
+      "客家四角楼群",
+      "古巷与古井",
+      "围屋与田野景观"
+    ],
+    "practical": [
+      "不同楼宇的开放范围可能不同，先问清入口和收费项目。",
+      "拍外墙、门窗和倒影可以多留时间，不把居民住宅当作自由开放的展馆。"
+    ],
+    "visitTips": [
+      "不同楼宇的开放范围可能不同，先问清入口和收费项目。",
+      "拍外墙、门窗和倒影可以多留时间，不把居民住宅当作自由开放的展馆。"
+    ],
+    "tags": [
+      "四角楼",
+      "古村",
+      "建筑摄影"
+    ],
+    "hoursText": "出发前确认开放范围与入园时间",
+    "ticketText": "票价、免费范围与优惠以当天公示为准",
+    "phone": "",
+    "sourceKeys": [
+      "linzhai",
+      "linzhaiBuildings"
+    ],
+    "bookingUrl": "",
+    "map": null,
+    "images": [
+      {
+        "file": "/assets/covers/linzhai.jpg",
+        "subject": "四角楼与传统民居外墙",
+        "credit": "原页面未单独署名摄影者",
+        "source": "http://www.heping.gov.cn/zjhp/lyfw/fjms/content/post_303824.html?jump=false",
+        "license": "未提供复用许可",
+        "licenseUrl": "",
+        "rightsStatus": "pending",
+        "year": "拍摄时间见来源",
+        "note": "按原比例缩小为 720×480 并压缩为 JPEG；未生成、替换画面或移除水印。",
+        "width": 720,
+        "height": 480
+      },
+      {
+        "file": "/pkg-detail-b/photos/linzhai-2.jpg",
+        "subject": "围屋禾田与水面倒影",
+        "credit": "原页面未单独署名摄影者",
+        "source": "http://www.heping.gov.cn/hyhpwglj/gkmlpt/content/0/412/post_412651.html",
+        "license": "未提供复用许可",
+        "licenseUrl": "",
+        "rightsStatus": "pending",
+        "year": "拍摄时间见来源",
+        "note": "按原比例缩小为 800×552 并压缩为 JPEG；未生成、替换画面或移除水印。",
+        "width": 800,
+        "height": 552
+      },
+      {
+        "file": "/pkg-detail-b/photos/linzhai-3.jpg",
+        "subject": "古村四角楼与田野暮色",
+        "credit": "未单独署名（来源页面见链接）",
+        "source": "http://www.heping.gov.cn/zjhp/hpyx/content/post_101099.html",
+        "license": "未提供复用许可",
+        "licenseUrl": "",
+        "rightsStatus": "pending",
+        "year": "拍摄时间见来源",
+        "note": "按原比例缩小为 640×426 并压缩为 JPEG；未生成、替换画面或移除水印。",
+        "width": 640,
+        "height": 426
+      }
+    ],
+    "photo": "/assets/covers/linzhai.jpg",
+    "photoCredit": "原页面未单独署名摄影者",
+    "photoPortrait": false
+  },
+  {
+    "id": "guishan",
+    "name": "桂山风景区",
+    "shortName": "桂山",
+    "region": "源城区",
+    "area": "city",
+    "category": "山水",
+    "mark": "山",
+    "tone": "green",
+    "address": "河源市桂山旅游大道桂山风景区（请核对景区入口）",
+    "duration": 180,
+    "durationText": "建议留出约 3 小时",
+    "intro": "溪流、水潭和林间步道是桂山的主要景色。按体力选一段慢慢走；玻璃桥、漂流等项目是否开放，应到出发前再确认。",
+    "suited": "想看山林水景、安排半天户外活动的人",
+    "highlights": [
+      "森林溪流",
+      "水潭与亭桥",
+      "林间步道"
+    ],
+    "practical": [
+      "导航搜索“桂山风景区”，核对入口，避免误到同名林场或其他村落。",
+      "遇强降雨先确认山路和项目状态；穿防滑鞋，涉水活动只在开放区域进行。"
+    ],
+    "visitTips": [
+      "导航搜索“桂山风景区”，核对入口，避免误到同名林场或其他村落。",
+      "遇强降雨先确认山路和项目状态；穿防滑鞋，涉水活动只在开放区域进行。"
+    ],
+    "tags": [
+      "森林",
+      "溪谷",
+      "步道"
+    ],
+    "hoursText": "出发前确认开放范围与入园时间",
+    "ticketText": "票价、免费范围与优惠以当天公示为准",
+    "phone": "",
+    "sourceKeys": [
+      "guishan",
+      "lakeNearby"
+    ],
+    "bookingUrl": "",
+    "map": {
+      "latitude": 23.721941,
+      "longitude": 114.594486,
+      "source": "https://www.amap.com/place/B0HDRCTA7P",
+      "name": "桂山风景区（正门）",
+      "label": "高德地图 · 地图标注的正门，请核对当日开放入口",
+      "checkedAt": "2026-10-28",
+      "coordinateType": "gcj02"
+    },
+    "images": [
+      {
+        "file": "/assets/covers/guishan.jpg",
+        "subject": "湖面吊桥与山林",
+        "credit": "未署名（发布方：万绿湖旅游官网）",
+        "source": "https://www.wanlvhu.cn/show-7-641.html",
+        "license": "未提供复用许可",
+        "licenseUrl": "",
+        "rightsStatus": "pending",
+        "year": "拍摄时间见来源",
+        "note": "按原比例缩小为 720×401 并压缩为 JPEG；未生成、替换画面或移除水印。",
+        "width": 720,
+        "height": 401
+      },
+      {
+        "file": "/pkg-detail-b/photos/guishan-2.jpg",
+        "subject": "山林水潭与亭桥",
+        "credit": "未单独署名（发布方：河源市人民政府）",
+        "source": "https://www.heyuan.gov.cn/zjhy/tpxs/content/post_414846.html",
+        "license": "未提供复用许可",
+        "licenseUrl": "",
+        "rightsStatus": "pending",
+        "year": "拍摄时间见来源",
+        "note": "按原比例缩小为 800×530 并压缩为 JPEG；未生成、替换画面或移除水印。",
+        "width": 800,
+        "height": 530
+      },
+      {
+        "file": "/pkg-detail-b/photos/guishan-3.jpg",
+        "subject": "森林玻璃桥纵向",
+        "credit": "未署名（发布方：万绿湖旅游官网）",
+        "source": "https://www.wanlvhu.cn/home/show-15-218.html",
+        "license": "未提供复用许可",
+        "licenseUrl": "",
+        "rightsStatus": "pending",
+        "year": "拍摄时间见来源",
+        "note": "按原比例缩小为 600×800 并压缩为 JPEG；未生成、替换画面或移除水印。",
+        "width": 600,
+        "height": 800
+      }
+    ],
+    "photo": "/assets/covers/guishan.jpg",
+    "photoCredit": "未署名（发布方：万绿湖旅游官网）",
+    "photoPortrait": false
+  },
+  {
+    "id": "yequgou",
+    "name": "野趣沟旅游区",
+    "shortName": "野趣沟",
+    "region": "源城区",
+    "area": "city",
+    "category": "山水",
+    "mark": "山",
+    "tone": "green",
+    "address": "河源市源城区桂山旅游大道野趣沟旅游区",
+    "duration": 180,
+    "durationText": "建议留出约 3 小时",
+    "intro": "山林沿着水潭展开，适合以步行看景为主。先把林间与水边的路线走从容，再决定要不要参加当天开放的游玩项目。",
+    "suited": "喜欢森林、溪谷和轻户外的人",
+    "highlights": [
+      "山林水潭",
+      "林间亭台",
+      "溪谷步行环境"
+    ],
+    "practical": [
+      "山地步道与玩水项目分开确认，准备一双防滑鞋。",
+      "不要仅凭宣传图判断漂流或水上项目开放；雨天先询问景区。"
+    ],
+    "visitTips": [
+      "山地步道与玩水项目分开确认，准备一双防滑鞋。",
+      "不要仅凭宣传图判断漂流或水上项目开放；雨天先询问景区。"
+    ],
+    "tags": [
+      "溪谷",
+      "森林",
+      "轻户外"
+    ],
+    "hoursText": "出发前确认开放范围与入园时间",
+    "ticketText": "票价、免费范围与优惠以当天公示为准",
+    "phone": "",
+    "sourceKeys": [
+      "yequgou",
+      "lakeNearby"
+    ],
+    "bookingUrl": "",
+    "map": {
+      "latitude": 23.703599,
+      "longitude": 114.619859,
+      "source": "https://www.amap.com/place/B02FA01QZ7",
+      "name": "野趣沟旅游区",
+      "label": "高德地图 · 景区参考点，请核对实际入口",
+      "checkedAt": "2026-10-28",
+      "coordinateType": "gcj02"
+    },
+    "images": [
+      {
+        "file": "/assets/covers/yequgou.jpg",
+        "subject": "秋色山林与水潭",
+        "credit": "未单独署名（发布方：源城区人民政府）",
+        "source": "http://www.gdyc.gov.cn/yc/fjtp/content/post_676561.html",
+        "license": "未提供复用许可",
+        "licenseUrl": "",
+        "rightsStatus": "pending",
+        "year": "拍摄时间见来源",
+        "note": "按原比例缩小为 720×363 并压缩为 JPEG；未生成、替换画面或移除水印。",
+        "width": 720,
+        "height": 363
+      },
+      {
+        "file": "/pkg-detail/photos/yequgou-2.jpg",
+        "subject": "山林亭台与水面",
+        "credit": "未单独署名（发布方：源城区人民政府）",
+        "source": "http://www.gdyc.gov.cn/yc/fjtp/content/post_676561.html",
+        "license": "未提供复用许可",
+        "licenseUrl": "",
+        "rightsStatus": "pending",
+        "year": "拍摄时间见来源",
+        "note": "按原比例缩小为 800×531 并压缩为 JPEG；未生成、替换画面或移除水印。",
+        "width": 800,
+        "height": 531
+      },
+      {
+        "file": "/pkg-detail/photos/yequgou-3.jpg",
+        "subject": "刻字溪石与山涧流水",
+        "credit": "未单独署名（来源页面见链接）",
+        "source": "https://k.sina.com.cn/article_6429303744_17f3763c000100b0h6.html",
+        "license": "未提供复用许可",
+        "licenseUrl": "",
+        "rightsStatus": "pending",
+        "year": "拍摄时间见来源",
+        "note": "按原比例缩小为 718×459 并压缩为 JPEG；未生成、替换画面或移除水印。",
+        "width": 718,
+        "height": 459
+      }
+    ],
+    "photo": "/assets/covers/yequgou.jpg",
+    "photoCredit": "未单独署名（发布方：源城区人民政府）",
+    "photoPortrait": false
+  },
+  {
+    "id": "bavaria",
+    "name": "巴伐利亚庄园",
+    "shortName": "巴伐利亚",
+    "region": "源城区",
+    "area": "south",
+    "category": "温泉",
+    "mark": "泉",
+    "tone": "green",
+    "address": "河源市源城区高埔岗街道巴伐利亚庄园",
+    "duration": 180,
+    "durationText": "建议留出约 3 小时",
+    "intro": "彩色建筑、风车和园林构成庄园的主要视觉。适合边走边拍，是否加温泉、乐园或住宿，按自己的计划分别选择。",
+    "suited": "偏爱建筑拍照、园林散步或度假住宿的人",
+    "highlights": [
+      "彩色建筑街区",
+      "风车景观",
+      "园林与喷泉"
+    ],
+    "practical": [
+      "园区通行、酒店和游玩项目可能分别管理，提前核对购买内容。",
+      "如果只逛园拍照，先问清可进入区域；住宿或温泉另计时间和费用。"
+    ],
+    "visitTips": [
+      "园区通行、酒店和游玩项目可能分别管理，提前核对购买内容。",
+      "如果只逛园拍照，先问清可进入区域；住宿或温泉另计时间和费用。"
+    ],
+    "tags": [
+      "彩色建筑",
+      "拍照",
+      "度假"
+    ],
+    "hoursText": "出发前确认开放范围与入园时间",
+    "ticketText": "票价、免费范围与优惠以当天公示为准",
+    "phone": "",
+    "sourceKeys": [
+      "gaopugang",
+      "bavaria"
+    ],
+    "bookingUrl": "",
+    "map": null,
+    "images": [
+      {
+        "file": "/assets/covers/bavaria.jpg",
+        "subject": "庄园风车与彩色建筑晚霞",
+        "credit": "未单独署名（发布方：河源市人民政府）",
+        "source": "https://www.heyuan.gov.cn/zjhy/tpxs/content/post_414858.html",
+        "license": "未提供复用许可",
+        "licenseUrl": "",
+        "rightsStatus": "pending",
+        "year": "拍摄时间见来源",
+        "note": "按原比例缩小为 720×405 并压缩为 JPEG；未生成、替换画面或移除水印。",
+        "width": 720,
+        "height": 405
+      },
+      {
+        "file": "/pkg-detail/photos/bavaria-2.jpg",
+        "subject": "彩色街区与园林",
+        "credit": "未单独署名（发布方：源城区人民政府）",
+        "source": "http://www.gdyc.gov.cn/yc/fjtp/content/post_676562.html",
+        "license": "未提供复用许可",
+        "licenseUrl": "",
+        "rightsStatus": "pending",
+        "year": "拍摄时间见来源",
+        "note": "按原比例缩小为 800×533 并压缩为 JPEG；未生成、替换画面或移除水印。",
+        "width": 800,
+        "height": 533
+      },
+      {
+        "file": "/pkg-detail/photos/bavaria-3.jpg",
+        "subject": "酒店室内建筑空间",
+        "credit": "未单独署名（发布方：源城区人民政府）",
+        "source": "http://www.gdyc.gov.cn/yc/fjtp/content/post_676562.html",
+        "license": "未提供复用许可",
+        "licenseUrl": "",
+        "rightsStatus": "pending",
+        "year": "拍摄时间见来源",
+        "note": "按原比例缩小为 800×531 并压缩为 JPEG；未生成、替换画面或移除水印。",
+        "width": 800,
+        "height": 531
+      }
+    ],
+    "photo": "/assets/covers/bavaria.jpg",
+    "photoCredit": "未单独署名（发布方：河源市人民政府）",
+    "photoPortrait": false
+  },
+  {
+    "id": "wanlvgu",
+    "name": "万绿谷度假区",
+    "shortName": "万绿谷",
+    "region": "东源县",
+    "area": "lakeWest",
+    "category": "山水",
+    "mark": "山",
+    "tone": "green",
+    "address": "河源市东源县新回龙镇东星村万绿谷",
+    "duration": 180,
+    "durationText": "建议留出约 3 小时",
+    "intro": "到新回龙镇看另一段湖湾与山谷。这里可以围绕湖边散步和度假停留来安排；和新港镇的游船出发区分开定位。",
+    "suited": "想在湖湾慢慢待一会儿的人",
+    "highlights": [
+      "湖湾与群山",
+      "临湖建筑与栈道",
+      "山谷度假环境"
+    ],
+    "practical": [
+      "万绿谷与万绿湖新港游船出发区不在同一处，出发前看清入口和路程。",
+      "花田、漂流与住宿属于不同体验，开放日期和收费逐项确认。"
+    ],
+    "visitTips": [
+      "万绿谷与万绿湖新港游船出发区不在同一处，出发前看清入口和路程。",
+      "花田、漂流与住宿属于不同体验，开放日期和收费逐项确认。"
+    ],
+    "tags": [
+      "湖湾",
+      "慢度假",
+      "新回龙"
+    ],
+    "hoursText": "出发前确认开放范围与入园时间",
+    "ticketText": "票价、免费范围与优惠以当天公示为准",
+    "phone": "",
+    "sourceKeys": [
+      "wanlvgu",
+      "lakeNearby"
+    ],
+    "bookingUrl": "",
+    "map": null,
+    "images": [
+      {
+        "file": "/assets/covers/wanlvgu.jpg",
+        "subject": "湖畔花田实景",
+        "credit": "未单独署名（发布方：万绿湖景区官网）",
+        "source": "https://www.wanlvhu.cn/scenery-9.html",
+        "license": "未提供复用许可",
+        "licenseUrl": "",
+        "rightsStatus": "pending",
+        "year": "拍摄时间见来源",
+        "note": "按原比例缩小为 720×540 并压缩为 JPEG；未生成、替换画面或移除水印。",
+        "width": 720,
+        "height": 540
+      },
+      {
+        "file": "/pkg-detail-c/photos/wanlvgu-2.jpg",
+        "subject": "湖湾木屋与栈道暮色",
+        "credit": "未单独署名（发布方：万绿湖景区官网）",
+        "source": "https://www.wanlvhu.cn/scenery-9-2.html",
+        "license": "未提供复用许可",
+        "licenseUrl": "",
+        "rightsStatus": "pending",
+        "year": "拍摄时间见来源",
+        "note": "按原比例缩小为 800×450 并压缩为 JPEG；未生成、替换画面或移除水印。",
+        "width": 800,
+        "height": 450
+      },
+      {
+        "file": "/pkg-detail-c/photos/wanlvgu-3.jpg",
+        "subject": "湖岸村落与群山",
+        "credit": "未单独署名（来源页面见链接）",
+        "source": "https://www.heyuan.gov.cn/zjhy/tpxs/content/post_188591.html",
+        "license": "未提供复用许可",
+        "licenseUrl": "",
+        "rightsStatus": "pending",
+        "year": "拍摄时间见来源",
+        "note": "按原比例缩小为 600×400 并压缩为 JPEG；未生成、替换画面或移除水印。",
+        "width": 600,
+        "height": 400
+      }
+    ],
+    "photo": "/assets/covers/wanlvgu.jpg",
+    "photoCredit": "未单独署名（发布方：万绿湖景区官网）",
+    "photoPortrait": false
+  },
+  {
+    "id": "huanglongyan",
+    "name": "黄龙岩畲族风情旅游区",
+    "shortName": "黄龙岩",
+    "region": "东源县",
+    "area": "northEast",
+    "category": "山水",
+    "mark": "山",
+    "tone": "green",
+    "address": "河源市东源县漳溪畲族乡黄龙岩畲族风情旅游区",
+    "duration": 120,
+    "durationText": "建议留出约 2 小时",
+    "intro": "溶洞里的钟乳石与畲族文化展示，是这里两种不同的看点。先了解洞内路线，再看当天是否有文化展示或表演安排。",
+    "suited": "对溶洞地貌与畲族文化有兴趣的人",
+    "highlights": [
+      "溶洞钟乳石",
+      "洞内岩石景观",
+      "畲族文化展示"
+    ],
+    "practical": [
+      "洞内照明与地面条件不同于户外，穿防滑鞋，按开放路线走。",
+      "文化表演的场次可能变化，购票前询问；不为赶场安排紧密衔接。"
+    ],
+    "visitTips": [
+      "洞内照明与地面条件不同于户外，穿防滑鞋，按开放路线走。",
+      "文化表演的场次可能变化，购票前询问；不为赶场安排紧密衔接。"
+    ],
+    "tags": [
+      "溶洞",
+      "畲族文化",
+      "地貌"
+    ],
+    "hoursText": "出发前确认开放范围与入园时间",
+    "ticketText": "票价、免费范围与优惠以当天公示为准",
+    "phone": "",
+    "sourceKeys": [
+      "huanglongyan",
+      "lakeNearby"
+    ],
+    "bookingUrl": "",
+    "map": null,
+    "images": [
+      {
+        "file": "/assets/covers/huanglongyan.jpg",
+        "subject": "溶洞钟乳石景观",
+        "credit": "未署名（发布方：万绿湖旅游官网）",
+        "source": "https://www.wanlvhu.cn/show-7-641.html",
+        "license": "未提供复用许可",
+        "licenseUrl": "",
+        "rightsStatus": "pending",
+        "year": "拍摄时间见来源",
+        "note": "按原比例缩小为 720×367 并压缩为 JPEG；未生成、替换画面或移除水印。",
+        "width": 720,
+        "height": 367
+      },
+      {
+        "file": "/pkg-detail-b/photos/huanglongyan-2.jpg",
+        "subject": "畲族文化表演场地",
+        "credit": "未署名（发布方：万绿湖旅游官网）",
+        "source": "https://www.wanlvhu.cn/show-7-641.html",
+        "license": "未提供复用许可",
+        "licenseUrl": "",
+        "rightsStatus": "pending",
+        "year": "拍摄时间见来源",
+        "note": "按原比例缩小为 800×531 并压缩为 JPEG；未生成、替换画面或移除水印。",
+        "width": 800,
+        "height": 531
+      },
+      {
+        "file": "/pkg-detail-b/photos/huanglongyan-3.jpg",
+        "subject": "景区水塘与木亭",
+        "credit": "未单独署名（来源页面见链接）",
+        "source": "https://www.heyuan.gov.cn/zjhy/tpxs/content/post_188588.html",
+        "license": "未提供复用许可",
+        "licenseUrl": "",
+        "rightsStatus": "pending",
+        "year": "拍摄时间见来源",
+        "note": "按原比例缩小为 600×399 并压缩为 JPEG；未生成、替换画面或移除水印。",
+        "width": 600,
+        "height": 399
+      }
+    ],
+    "photo": "/assets/covers/huanglongyan.jpg",
+    "photoCredit": "未署名（发布方：万绿湖旅游官网）",
+    "photoPortrait": false
+  },
+  {
+    "id": "taiping",
+    "name": "太平古街",
+    "shortName": "太平古街",
+    "region": "源城区",
+    "area": "city",
+    "category": "人文",
+    "mark": "巷",
+    "tone": "sand",
+    "address": "河源市源城区太平街古街片区",
+    "duration": 90,
+    "durationText": "建议留出约 90 分钟",
+    "intro": "走进老城的骑楼街道，看沿街店面和建筑立面。傍晚可以慢慢逛到灯亮，把吃饭和散步一起安排。",
+    "suited": "喜欢街巷、骑楼和城市散步的人",
+    "highlights": [
+      "骑楼建筑立面",
+      "老城街巷",
+      "亮灯后的街景"
+    ],
+    "practical": [
+      "各商铺营业时间不同，想吃的店单独确认，不把古街当成统一营业的景区。",
+      "节假日先找停车点再步行入街，拍照时给居民和商户留出通道。"
+    ],
+    "visitTips": [
+      "各商铺营业时间不同，想吃的店单独确认，不把古街当成统一营业的景区。",
+      "节假日先找停车点再步行入街，拍照时给居民和商户留出通道。"
+    ],
+    "tags": [
+      "骑楼",
+      "老城散步",
+      "夜景"
+    ],
+    "hoursText": "街区与店铺分别开放",
+    "ticketText": "商铺消费按实际选择，不预设统一门票",
+    "phone": "",
+    "sourceKeys": [
+      "taiping"
+    ],
+    "bookingUrl": "",
+    "map": null,
+    "images": [
+      {
+        "file": "/assets/covers/taiping.jpg",
+        "subject": "骑楼街道夜景",
+        "credit": "未单独署名（发布方：源城区人民政府）",
+        "source": "http://www.gdyc.gov.cn/yc/fjtp/content/post_676545.html",
+        "license": "未提供复用许可",
+        "licenseUrl": "",
+        "rightsStatus": "pending",
+        "year": "拍摄时间见来源",
+        "note": "按原比例缩小为 720×405 并压缩为 JPEG；未生成、替换画面或移除水印。",
+        "width": 720,
+        "height": 405
+      },
+      {
+        "file": "/pkg-detail-c/photos/taiping-2.jpg",
+        "subject": "古街街区白天航拍",
+        "credit": "未单独署名（发布方：源城区人民政府）",
+        "source": "http://www.gdyc.gov.cn/yc/fjtp/content/post_676545.html",
+        "license": "未提供复用许可",
+        "licenseUrl": "",
+        "rightsStatus": "pending",
+        "year": "拍摄时间见来源",
+        "note": "按原比例缩小为 800×600 并压缩为 JPEG；未生成、替换画面或移除水印。",
+        "width": 800,
+        "height": 600
+      },
+      {
+        "file": "/pkg-detail-c/photos/taiping-3.jpg",
+        "subject": "古街傍晚航拍",
+        "credit": "未单独署名（发布方：源城区人民政府）",
+        "source": "http://www.gdyc.gov.cn/yc/fjtp/content/post_676545.html",
+        "license": "未提供复用许可",
+        "licenseUrl": "",
+        "rightsStatus": "pending",
+        "year": "拍摄时间见来源",
+        "note": "按原比例缩小为 800×600 并压缩为 JPEG；未生成、替换画面或移除水印。",
+        "width": 800,
+        "height": 600
+      }
+    ],
+    "photo": "/assets/covers/taiping.jpg",
+    "photoCredit": "未单独署名（发布方：源城区人民政府）",
+    "photoPortrait": false
+  },
+  {
+    "id": "kejiagongyuan",
+    "name": "客家公园",
+    "shortName": "客家公园",
+    "region": "源城区",
+    "area": "city",
+    "category": "休闲",
+    "mark": "园",
+    "tone": "green",
+    "address": "河源市源城区客家公园",
+    "duration": 90,
+    "durationText": "建议留出约 90 分钟",
+    "intro": "从广场到台阶，再看园内的客家文化雕塑。适合安排一段城市散步，带长辈或孩子时按体力缩短台阶路段。",
+    "suited": "想在市区散步、看客家文化景观的人",
+    "highlights": [
+      "客家文化雕塑",
+      "广场与台阶",
+      "楼阁与园林"
+    ],
+    "practical": [
+      "有台阶路段，带婴儿车或同行者行动不便时先确认平缓路线。",
+      "避开炎热时段，带饮水；场馆与园区的开放情况分别确认。"
+    ],
+    "visitTips": [
+      "有台阶路段，带婴儿车或同行者行动不便时先确认平缓路线。",
+      "避开炎热时段，带饮水；场馆与园区的开放情况分别确认。"
+    ],
+    "tags": [
+      "城市公园",
+      "客家文化",
+      "散步"
+    ],
+    "hoursText": "以园区现场管理安排为准",
+    "ticketText": "具体场馆或活动以现场说明为准",
+    "phone": "",
+    "sourceKeys": [
+      "kejiagongyuan"
+    ],
+    "bookingUrl": "",
+    "map": {
+      "latitude": 23.771932,
+      "longitude": 114.706977,
+      "source": "https://www.amap.com/place/B02FA0OM4Z",
+      "name": "客家文化公园",
+      "label": "高德地图 · 公园参考点，请核对步行或停车入口",
+      "checkedAt": "2026-10-28",
+      "coordinateType": "gcj02"
+    },
+    "images": [
+      {
+        "file": "/assets/covers/kejiagongyuan.jpg",
+        "subject": "客家公园广场与台阶全景",
+        "credit": "未单独署名（发布方：源城区人民政府）",
+        "source": "http://www.gdyc.gov.cn/yc/fjtp/content/post_676551.html",
+        "license": "未提供复用许可",
+        "licenseUrl": "",
+        "rightsStatus": "pending",
+        "year": "拍摄时间见来源",
+        "note": "按原比例缩小为 720×313 并压缩为 JPEG；未生成、替换画面或移除水印。",
+        "width": 720,
+        "height": 313
+      },
+      {
+        "file": "/pkg-detail/photos/kejiagongyuan-2.jpg",
+        "subject": "山坡台阶与楼阁",
+        "credit": "未单独署名（发布方：源城区人民政府）",
+        "source": "http://www.gdyc.gov.cn/yc/fjtp/content/post_676551.html",
+        "license": "未提供复用许可",
+        "licenseUrl": "",
+        "rightsStatus": "pending",
+        "year": "拍摄时间见来源",
+        "note": "按原比例缩小为 800×450 并压缩为 JPEG；未生成、替换画面或移除水印。",
+        "width": 800,
+        "height": 450
+      },
+      {
+        "file": "/pkg-detail/photos/kejiagongyuan-3.jpg",
+        "subject": "客家文化雕塑景观",
+        "credit": "未单独署名（发布方：源城区人民政府）",
+        "source": "http://www.gdyc.gov.cn/yc/fjtp/content/post_676551.html",
+        "license": "未提供复用许可",
+        "licenseUrl": "",
+        "rightsStatus": "pending",
+        "year": "拍摄时间见来源",
+        "note": "按原比例缩小为 800×528 并压缩为 JPEG；未生成、替换画面或移除水印。",
+        "width": 800,
+        "height": 528
+      }
+    ],
+    "photo": "/assets/covers/kejiagongyuan.jpg",
+    "photoCredit": "未单独署名（发布方：源城区人民政府）",
+    "photoPortrait": false
+  },
+  {
+    "id": "dongjiangwan",
+    "name": "东江湾公园",
+    "shortName": "东江湾",
+    "region": "源城区",
+    "area": "city",
+    "category": "休闲",
+    "mark": "园",
+    "tone": "green",
+    "address": "河源市源城区东江湾公园",
+    "duration": 90,
+    "durationText": "建议留出约 90 分钟",
+    "intro": "沿东江岸边走一段绿道，看城市和江面。这里适合给行程留白，散步、坐坐，或按现场开放情况陪孩子玩一会儿。",
+    "suited": "想沿江散步、带孩子短时活动的人",
+    "highlights": [
+      "东江江岸",
+      "滨江绿道",
+      "儿童活动空间"
+    ],
+    "practical": [
+      "公园范围较长，先确定进入和离开的入口，不必走完全程。",
+      "临江路段注意孩子与水岸的距离；高温、暴雨时调整户外安排。"
+    ],
+    "visitTips": [
+      "公园范围较长，先确定进入和离开的入口，不必走完全程。",
+      "临江路段注意孩子与水岸的距离；高温、暴雨时调整户外安排。"
+    ],
+    "tags": [
+      "滨江",
+      "绿道",
+      "亲子散步"
+    ],
+    "hoursText": "以园区现场管理安排为准",
+    "ticketText": "场内项目和设施以现场说明为准",
+    "phone": "",
+    "sourceKeys": [
+      "dongjiangwan"
+    ],
+    "bookingUrl": "",
+    "map": null,
+    "images": [
+      {
+        "file": "/assets/covers/dongjiangwan.jpg",
+        "subject": "滨江公园航拍",
+        "credit": "未单独署名（发布方：源城区人民政府）",
+        "source": "http://www.gdyc.gov.cn/yc/fjtp/content/post_676553.html",
+        "license": "未提供复用许可",
+        "licenseUrl": "",
+        "rightsStatus": "pending",
+        "year": "拍摄时间见来源",
+        "note": "按原比例缩小为 720×467 并压缩为 JPEG；未生成、替换画面或移除水印。",
+        "width": 720,
+        "height": 467
+      },
+      {
+        "file": "/pkg-detail-c/photos/dongjiangwan-2.jpg",
+        "subject": "江岸绿道与步道",
+        "credit": "未单独署名（发布方：源城区人民政府）",
+        "source": "http://www.gdyc.gov.cn/yc/fjtp/content/post_676553.html",
+        "license": "未提供复用许可",
+        "licenseUrl": "",
+        "rightsStatus": "pending",
+        "year": "拍摄时间见来源",
+        "note": "按原比例缩小为 800×600 并压缩为 JPEG；未生成、替换画面或移除水印。",
+        "width": 800,
+        "height": 600
+      },
+      {
+        "file": "/pkg-detail-c/photos/dongjiangwan-3.jpg",
+        "subject": "滨江绿地与远眺城市",
+        "credit": "未单独署名（发布方：源城区人民政府）",
+        "source": "http://www.gdyc.gov.cn/yc/fjtp/content/post_676553.html",
+        "license": "未提供复用许可",
+        "licenseUrl": "",
+        "rightsStatus": "pending",
+        "year": "拍摄时间见来源",
+        "note": "按原比例缩小为 800×544 并压缩为 JPEG；未生成、替换画面或移除水印。",
+        "width": 800,
+        "height": 544
+      }
+    ],
+    "photo": "/assets/covers/dongjiangwan.jpg",
+    "photoCredit": "未单独署名（发布方：源城区人民政府）",
+    "photoPortrait": false
+  },
+  {
+    "id": "shangping",
+    "name": "上坪桃园",
+    "shortName": "上坪桃园",
+    "region": "连平县",
+    "area": "lianping",
+    "category": "山水",
+    "mark": "山",
+    "tone": "green",
+    "address": "河源市连平县上坪镇桃园片区（具体果园另行确认）",
+    "duration": 120,
+    "durationText": "建议留出约 2 小时",
+    "intro": "春天看桃花，夏天看鹰嘴蜜桃，是上坪两种不同的来法。先确认当季花果情况和具体果园，再决定在哪一片停留。",
+    "suited": "愿意跟着季节安排乡村游的人",
+    "highlights": [
+      "春季桃花",
+      "鹰嘴蜜桃果园",
+      "桃园与山村风光"
+    ],
+    "practical": [
+      "镇级资料以三月赏花、七月品桃介绍季节；实际花期果期会随天气变化。",
+      "桃园分布在不同村落，先联系具体果园，确认停车、采摘范围和计价方式。"
+    ],
+    "visitTips": [
+      "镇级资料以三月赏花、七月品桃介绍季节；实际花期果期会随天气变化。",
+      "桃园分布在不同村落，先联系具体果园，确认停车、采摘范围和计价方式。"
+    ],
+    "tags": [
+      "季节限定",
+      "桃花",
+      "鹰嘴蜜桃"
+    ],
+    "hoursText": "按花果季节及具体果园开放情况确认",
+    "ticketText": "观赏与采摘按具体果园说明确认",
+    "phone": "",
+    "sourceKeys": [
+      "shangping"
+    ],
+    "bookingUrl": "",
+    "map": null,
+    "images": [
+      {
+        "file": "/assets/covers/shangping.jpg",
+        "subject": "春日桃花山全景",
+        "credit": "未署名（发布方：连平县人民政府）",
+        "source": "http://www.lianping.gov.cn/zwgk/xxzc/spz/mindex.html",
+        "license": "未提供复用许可",
+        "licenseUrl": "",
+        "rightsStatus": "pending",
+        "year": "拍摄时间见来源",
+        "note": "按原比例缩小为 720×481 并压缩为 JPEG；未生成、替换画面或移除水印。",
+        "width": 720,
+        "height": 481
+      },
+      {
+        "file": "/pkg-detail-b/photos/shangping-2.jpg",
+        "subject": "鹰嘴蜜桃枝头近景",
+        "credit": "未署名（发布方：连平县人民政府）",
+        "source": "http://www.lianping.gov.cn/zwgk/xxzc/spz/mindex.html",
+        "license": "未提供复用许可",
+        "licenseUrl": "",
+        "rightsStatus": "pending",
+        "year": "拍摄时间见来源",
+        "note": "按原比例缩小为 800×497 并压缩为 JPEG；未生成、替换画面或移除水印。",
+        "width": 800,
+        "height": 497
+      },
+      {
+        "file": "/pkg-detail-b/photos/shangping-3.jpg",
+        "subject": "上坪镇镇区全景",
+        "credit": "未署名（发布方：连平县人民政府）",
+        "source": "http://www.lianping.gov.cn/zwgk/xxzc/spz/mindex.html",
+        "license": "未提供复用许可",
+        "licenseUrl": "",
+        "rightsStatus": "pending",
+        "year": "拍摄时间见来源",
+        "note": "按原比例缩小为 800×436 并压缩为 JPEG；未生成、替换画面或移除水印。",
+        "width": 800,
+        "height": 436
+      }
+    ],
+    "photo": "/assets/covers/shangping.jpg",
+    "photoCredit": "未署名（发布方：连平县人民政府）",
+    "photoPortrait": false
+  },
+  {
+    "id": "neiguan",
+    "name": "内莞山水田园",
+    "shortName": "内莞田园",
+    "region": "连平县",
+    "area": "lianping",
+    "category": "山水",
+    "mark": "山",
+    "tone": "green",
+    "address": "河源市连平县内莞镇大席河及周边田园片区",
+    "duration": 120,
+    "durationText": "建议留出约 2 小时",
+    "intro": "看喀斯特山体、田园和大席河两岸。选一处合适的河岸慢慢走，不必为了收集打卡点把乡村游变成赶路。",
+    "suited": "喜欢山水田园、乡间摄影的人",
+    "highlights": [
+      "喀斯特山体",
+      "大席河两岸",
+      "田园与村落"
+    ],
+    "practical": [
+      "这是乡镇片区，不是单一大门景区；先选定具体停车和步行起点。",
+      "游船、溶洞等体验需单独确认；不要把照片中的农田当成可随意进入的游览区。"
+    ],
+    "visitTips": [
+      "这是乡镇片区，不是单一大门景区；先选定具体停车和步行起点。",
+      "游船、溶洞等体验需单独确认；不要把照片中的农田当成可随意进入的游览区。"
+    ],
+    "tags": [
+      "田园",
+      "喀斯特",
+      "河岸"
+    ],
+    "hoursText": "乡村公共空间与经营项目分别确认",
+    "ticketText": "游船、溶洞等项目需另行确认",
+    "phone": "",
+    "sourceKeys": [
+      "neiguan"
+    ],
+    "bookingUrl": "",
+    "map": null,
+    "images": [
+      {
+        "file": "/assets/covers/neiguan.jpg",
+        "subject": "苍岩叠影锁烟霞",
+        "credit": "颜保发",
+        "source": "http://www.lianping.gov.cn/zwgk/xxzc/nzz/mindex.html",
+        "license": "未提供复用许可",
+        "licenseUrl": "",
+        "rightsStatus": "pending",
+        "year": "拍摄时间见来源",
+        "note": "按原比例缩小为 720×427 并压缩为 JPEG；未生成、替换画面或移除水印。",
+        "width": 720,
+        "height": 427
+      },
+      {
+        "file": "/pkg-detail/photos/neiguan-2.jpg",
+        "subject": "大席河趣莞集游船",
+        "credit": "未署名（发布方：连平县人民政府）",
+        "source": "http://www.lianping.gov.cn/zwgk/xxzc/nzz/mindex.html",
+        "license": "未提供复用许可",
+        "licenseUrl": "",
+        "rightsStatus": "pending",
+        "year": "拍摄时间见来源",
+        "note": "按原比例缩小为 800×600 并压缩为 JPEG；未生成、替换画面或移除水印。",
+        "width": 800,
+        "height": 600
+      },
+      {
+        "file": "/pkg-detail/photos/neiguan-3.jpg",
+        "subject": "景区周边山水田园",
+        "credit": "未署名（发布方：河源市人民政府）",
+        "source": "https://www.heyuan.gov.cn/zjhy/tpxs/content/post_414870.html",
+        "license": "未提供复用许可",
+        "licenseUrl": "",
+        "rightsStatus": "pending",
+        "year": "拍摄时间见来源",
+        "note": "按原比例缩小为 800×557 并压缩为 JPEG；未生成、替换画面或移除水印。",
+        "width": 800,
+        "height": 557
+      }
+    ],
+    "photo": "/assets/covers/neiguan.jpg",
+    "photoCredit": "颜保发",
+    "photoPortrait": false
+  },
+  {
+    "id": "yuewangshan",
+    "name": "越王山风景区",
+    "shortName": "越王山",
+    "region": "江东新区",
+    "area": "jiangdong",
+    "category": "山水",
+    "mark": "山",
+    "tone": "green",
+    "address": "河源市江东新区古竹镇越王山风景区",
+    "duration": 180,
+    "durationText": "建议留出约 3 小时",
+    "intro": "丹霞山体与山脚水面，是越王山很有辨识度的景色。可以按体力选择登山或山脚看景，给返回车辆的路程留出余量。",
+    "suited": "想看丹霞地貌、安排山地步行的人",
+    "highlights": [
+      "丹霞山体",
+      "山脚水面",
+      "山林与步道"
+    ],
+    "practical": [
+      "出发前核对古竹镇景区入口，不沿用旧资料的行政区称呼导航。",
+      "先问清开放步道与返程路线；雨后登山注意湿滑，不攀爬未开放岩壁。"
+    ],
+    "visitTips": [
+      "出发前核对古竹镇景区入口，不沿用旧资料的行政区称呼导航。",
+      "先问清开放步道与返程路线；雨后登山注意湿滑，不攀爬未开放岩壁。"
+    ],
+    "tags": [
+      "丹霞",
+      "古竹",
+      "登山"
+    ],
+    "hoursText": "出发前确认开放范围与入园时间",
+    "ticketText": "票价、免费范围与优惠以当天公示为准",
+    "phone": "",
+    "sourceKeys": [
+      "yuewangshan",
+      "yuewangPhoto"
+    ],
+    "bookingUrl": "",
+    "map": {
+      "latitude": 23.491556,
+      "longitude": 114.745044,
+      "source": "https://www.amap.com/place/B02FA01O78",
+      "name": "越王山风景区",
+      "label": "高德地图 · 景区参考点，请核对实际入口",
+      "checkedAt": "2026-10-28",
+      "coordinateType": "gcj02"
+    },
+    "images": [
+      {
+        "file": "/assets/covers/yuewangshan.jpg",
+        "subject": "丹霞山体与湖边栈道",
+        "credit": "未署名（发布方：河源市人民政府）",
+        "source": "https://www.heyuan.gov.cn/zjhy/tpxs/content/post_414849.html",
+        "license": "未提供复用许可",
+        "licenseUrl": "",
+        "rightsStatus": "pending",
+        "year": "拍摄时间见来源",
+        "note": "按原比例缩小为 720×480 并压缩为 JPEG；未生成、替换画面或移除水印。",
+        "width": 720,
+        "height": 480
+      },
+      {
+        "file": "/pkg-detail-c/photos/yuewangshan-2.jpg",
+        "subject": "景区入口与丹霞山体",
+        "credit": "未单独署名（来源页面见链接）",
+        "source": "https://www.heyuan.gov.cn/zjhy/tpxs/content/post_188576.html",
+        "license": "未提供复用许可",
+        "licenseUrl": "",
+        "rightsStatus": "pending",
+        "year": "拍摄时间见来源",
+        "note": "按原比例缩小为 600×399 并压缩为 JPEG；未生成、替换画面或移除水印。",
+        "width": 600,
+        "height": 399
+      },
+      {
+        "file": "/pkg-detail-c/photos/yuewangshan-3.jpg",
+        "subject": "越王山丹霞峰群",
+        "credit": "未单独署名（来源页面见链接）",
+        "source": "https://www.sohu.com/a/437103072_99959937",
+        "license": "未提供复用许可",
+        "licenseUrl": "",
+        "rightsStatus": "pending",
+        "year": "拍摄时间见来源",
+        "note": "按原比例缩小为 800×599 并压缩为 JPEG；未生成、替换画面或移除水印。",
+        "width": 800,
+        "height": 599
+      }
+    ],
+    "photo": "/assets/covers/yuewangshan.jpg",
+    "photoCredit": "未署名（发布方：河源市人民政府）",
+    "photoPortrait": false
+  },
+  {
+    "id": "chunmuyuan",
+    "name": "春沐源小镇",
+    "shortName": "春沐源",
+    "region": "源城区",
+    "area": "south",
+    "category": "休闲",
+    "mark": "园",
+    "tone": "green",
+    "address": "河源市源城区埔前镇陂角村春沐源小镇",
+    "duration": 150,
+    "durationText": "建议留出约 150 分钟",
+    "intro": "草坪、现代建筑和水景组成小镇的度假空间。适合把步行、用餐和休息放在一起，先弄清访客能进入哪些区域。",
+    "suited": "喜欢草坪散步、建筑与度假空间的人",
+    "highlights": [
+      "草坪空间",
+      "现代建筑",
+      "园区水景"
+    ],
+    "practical": [
+      "公共访客、住店客人和活动参加者的进入范围可能不同，出发前确认。",
+      "泳池、亲子活动和酒店空间不默认随意使用，按实际预约内容安排。"
+    ],
+    "visitTips": [
+      "公共访客、住店客人和活动参加者的进入范围可能不同，出发前确认。",
+      "泳池、亲子活动和酒店空间不默认随意使用，按实际预约内容安排。"
+    ],
+    "tags": [
+      "草坪",
+      "现代建筑",
+      "小镇度假"
+    ],
+    "hoursText": "出发前确认开放范围与入园时间",
+    "ticketText": "票价、免费范围与优惠以当天公示为准",
+    "phone": "",
+    "sourceKeys": [
+      "chunmuyuan",
+      "chunmuPhoto"
+    ],
+    "bookingUrl": "",
+    "map": null,
+    "images": [
+      {
+        "file": "/assets/covers/chunmuyuan.jpg",
+        "subject": "草坪与现代建筑",
+        "credit": "未单独署名（发布方：源城区人民政府）",
+        "source": "http://www.gdyc.gov.cn/yc/fjtp/content/post_676555.html",
+        "license": "未提供复用许可",
+        "licenseUrl": "",
+        "rightsStatus": "pending",
+        "year": "拍摄时间见来源",
+        "note": "按原比例缩小为 720×286 并压缩为 JPEG；未生成、替换画面或移除水印。",
+        "width": 720,
+        "height": 286
+      },
+      {
+        "file": "/pkg-detail/photos/chunmuyuan-2.jpg",
+        "subject": "酒店泳池与水景",
+        "credit": "未单独署名（发布方：源城区人民政府）",
+        "source": "http://www.gdyc.gov.cn/yc/fjtp/content/post_676555.html",
+        "license": "未提供复用许可",
+        "licenseUrl": "",
+        "rightsStatus": "pending",
+        "year": "拍摄时间见来源",
+        "note": "按原比例缩小为 800×507 并压缩为 JPEG；未生成、替换画面或移除水印。",
+        "width": 800,
+        "height": 507
+      },
+      {
+        "file": "/pkg-detail/photos/chunmuyuan-3.jpg",
+        "subject": "小镇草坪与休憩空间",
+        "credit": "未单独署名（来源页面见链接）",
+        "source": "http://www.gdyc.gov.cn/hyycsfj/gkmlpt/content/0/623/post_623752.html",
+        "license": "未提供复用许可",
+        "licenseUrl": "",
+        "rightsStatus": "pending",
+        "year": "拍摄时间见来源",
+        "note": "按原比例缩小为 800×683 并压缩为 JPEG；未生成、替换画面或移除水印。",
+        "width": 800,
+        "height": 683
+      }
+    ],
+    "photo": "/assets/covers/chunmuyuan.jpg",
+    "photoCredit": "未单独署名（发布方：源城区人民政府）",
+    "photoPortrait": false
+  },
+  {
+    "id": "ketianxia",
+    "name": "客天下水晶温泉",
+    "shortName": "客天下温泉",
+    "region": "源城区",
+    "area": "south",
+    "category": "温泉",
+    "mark": "泉",
+    "tone": "clay",
+    "address": "河源市源城区高埔岗街道客天下国际旅游度假区",
+    "duration": 180,
+    "durationText": "建议留出约 3 小时",
+    "intro": "在市区南部安排一次温泉休息。先选泡池票或住宿套餐，再决定停留多久，不必为了配齐景点额外赶路。",
+    "suited": "想在温泉度假区放松的人",
+    "highlights": [
+      "露天泡池",
+      "度假区园林",
+      "夜间灯光环境"
+    ],
+    "practical": [
+      "确认票种对应的温泉区域、可用日期与入场次数。",
+      "泳池、乐园、住宿可能另计；携带个人用品，按现场泡池提示休息。"
+    ],
+    "visitTips": [
+      "确认票种对应的温泉区域、可用日期与入场次数。",
+      "泳池、乐园、住宿可能另计；携带个人用品，按现场泡池提示休息。"
+    ],
+    "tags": [
+      "温泉",
+      "园林",
+      "高埔岗"
+    ],
+    "hoursText": "泡池与其他项目营业时间分别确认",
+    "ticketText": "泡池票、套餐与住宿分别计费",
+    "phone": "",
+    "sourceKeys": [
+      "gaopugang",
+      "ketianxia"
+    ],
+    "bookingUrl": "",
+    "map": {
+      "latitude": 23.626471,
+      "longitude": 114.627392,
+      "source": "https://www.amap.com/place/B0FFGHNYUA",
+      "name": "客天下·河源国际旅游度假区",
+      "label": "高德地图 · 度假区参考点，温泉接待入口请另行确认",
+      "checkedAt": "2026-10-28",
+      "coordinateType": "gcj02"
+    },
+    "images": [
+      {
+        "file": "/assets/covers/ketianxia.jpg",
+        "subject": "露天温泉泡池夜景",
+        "credit": "未单独署名（发布方：源城区人民政府）",
+        "source": "http://www.gdyc.gov.cn/yc/fjtp/content/post_676564.html",
+        "license": "未提供复用许可",
+        "licenseUrl": "",
+        "rightsStatus": "pending",
+        "year": "拍摄时间见来源",
+        "note": "按原比例缩小为 720×356 并压缩为 JPEG；未生成、替换画面或移除水印。",
+        "width": 720,
+        "height": 356
+      },
+      {
+        "file": "/pkg-detail-c/photos/ketianxia-2.jpg",
+        "subject": "温泉亭台与露天泳池",
+        "credit": "未单独署名（来源页面见链接）",
+        "source": "https://www.ly.com/scenery/BookSceneryTicket_682177.html",
+        "license": "未提供复用许可",
+        "licenseUrl": "",
+        "rightsStatus": "pending",
+        "year": "拍摄时间见来源",
+        "note": "按原比例缩小为 800×475 并压缩为 JPEG；未生成、替换画面或移除水印。",
+        "width": 800,
+        "height": 475
+      },
+      {
+        "file": "/pkg-detail-c/photos/ketianxia-3.jpg",
+        "subject": "竹林石景泡池",
+        "credit": "未单独署名（来源页面见链接）",
+        "source": "https://www.sohu.com/a/424516781_120862750",
+        "license": "未提供复用许可",
+        "licenseUrl": "",
+        "rightsStatus": "pending",
+        "year": "拍摄时间见来源",
+        "note": "按原比例缩小为 800×533 并压缩为 JPEG；未生成、替换画面或移除水印。",
+        "width": 800,
+        "height": 533
+      }
+    ],
+    "photo": "/assets/covers/ketianxia.jpg",
+    "photoCredit": "未单独署名（发布方：源城区人民政府）",
+    "photoPortrait": false
+  },
+  {
+    "id": "relong",
+    "name": "热龙温泉度假村",
+    "shortName": "热龙温泉",
+    "region": "和平县",
+    "area": "heping",
+    "category": "温泉",
+    "mark": "泉",
+    "tone": "clay",
+    "address": "河源市和平县热水镇热龙温泉度假村",
+    "duration": 180,
+    "durationText": "建议留出约 3 小时",
+    "intro": "热水河与山林之间的温泉度假区。适合把泡汤放在一天的主要位置，住一晚或当日返回都应先算好往返路程。",
+    "suited": "想去和平山间休息、泡温泉的人",
+    "highlights": [
+      "山林温泉环境",
+      "露天泡池",
+      "热水河周边景观"
+    ],
+    "practical": [
+      "先确认可用泡池和套餐内容，历史介绍中的设施不代表全部当日开放。",
+      "林寨和热水镇不在同一处，跨镇安排需为交通留足时间。"
+    ],
+    "visitTips": [
+      "先确认可用泡池和套餐内容，历史介绍中的设施不代表全部当日开放。",
+      "林寨和热水镇不在同一处，跨镇安排需为交通留足时间。"
+    ],
+    "tags": [
+      "温泉",
+      "山林",
+      "热水镇"
+    ],
+    "hoursText": "泡池营业与入住时间分别确认",
+    "ticketText": "以当前泡池票或住宿套餐为准",
+    "phone": "",
+    "sourceKeys": [
+      "relong"
+    ],
+    "bookingUrl": "",
+    "map": {
+      "latitude": 24.41406,
+      "longitude": 114.827323,
+      "source": "https://www.amap.com/place/B02FA01P6A",
+      "name": "热龙温泉度假村",
+      "label": "高德地图 · 度假村参考点，请核对温泉接待入口",
+      "checkedAt": "2026-10-28",
+      "coordinateType": "gcj02"
+    },
+    "images": [
+      {
+        "file": "/assets/covers/relong.jpg",
+        "subject": "山林温泉水面蒸汽",
+        "credit": "原页面未单独署名摄影者",
+        "source": "http://www.heping.gov.cn/hyhpwglj/gkmlpt/content/0/412/post_412651.html",
+        "license": "未提供复用许可",
+        "licenseUrl": "",
+        "rightsStatus": "pending",
+        "year": "拍摄时间见来源",
+        "note": "按原比例缩小为 720×478 并压缩为 JPEG；未生成、替换画面或移除水印。",
+        "width": 720,
+        "height": 478
+      },
+      {
+        "file": "/pkg-detail/photos/relong-2.jpg",
+        "subject": "温泉池灯光夜景",
+        "credit": "原页面未单独署名摄影者",
+        "source": "http://www.heping.gov.cn/hyhpwglj/gkmlpt/content/0/412/post_412651.html",
+        "license": "未提供复用许可",
+        "licenseUrl": "",
+        "rightsStatus": "pending",
+        "year": "拍摄时间见来源",
+        "note": "按原比例缩小为 800×230 并压缩为 JPEG；未生成、替换画面或移除水印。",
+        "width": 800,
+        "height": 230
+      },
+      {
+        "file": "/pkg-detail/photos/relong-3.jpg",
+        "subject": "度假村建筑夜景",
+        "credit": "原页面未单独署名摄影者",
+        "source": "http://www.heping.gov.cn/zjhp/lyfw/fjms/content/post_303826.html",
+        "license": "未提供复用许可",
+        "licenseUrl": "",
+        "rightsStatus": "pending",
+        "year": "拍摄时间见来源",
+        "note": "按原比例缩小为 800×533 并压缩为 JPEG；未生成、替换画面或移除水印。",
+        "width": 800,
+        "height": 533
+      }
+    ],
+    "photo": "/assets/covers/relong.jpg",
+    "photoCredit": "原页面未单独署名摄影者",
+    "photoPortrait": false
+  },
+  {
+    "id": "penquan",
+    "name": "新丰江音乐喷泉",
+    "shortName": "音乐喷泉",
+    "region": "源城区",
+    "area": "city",
+    "category": "休闲",
+    "mark": "园",
+    "tone": "green",
+    "address": "河源市区新丰江沿江观景区域（观赏点请结合现场公告确认）",
+    "duration": 45,
+    "durationText": "建议留出约 45 分钟",
+    "intro": "把江边夜色当成城市散步的一部分。有喷泉演出时再停下来观看，停喷的夜晚也可以沿江走走，不为旧视频白跑。",
+    "suited": "想看城市江景、安排晚间散步的人",
+    "highlights": [
+      "江面喷泉景观",
+      "沿江城市夜色",
+      "滨水散步"
+    ],
+    "practical": [
+      "喷泉受维护、天气及节假日安排影响，出发当天查询官方通告。",
+      "先确定观赏位置与回程方式；江边拍照注意过往行人，不跨越护栏。"
+    ],
+    "visitTips": [
+      "喷泉受维护、天气及节假日安排影响，出发当天查询官方通告。",
+      "先确定观赏位置与回程方式；江边拍照注意过往行人，不跨越护栏。"
+    ],
+    "tags": [
+      "夜景",
+      "江边散步",
+      "随当天安排"
+    ],
+    "hoursText": "演出日期与时间以当天官方公告为准",
+    "ticketText": "观赏区域和活动安排以现场说明为准",
+    "phone": "",
+    "sourceKeys": [
+      "penquan"
+    ],
+    "bookingUrl": "",
+    "map": null,
+    "images": [
+      {
+        "file": "/assets/covers/penquan.jpg",
+        "subject": "音乐喷泉与城市暮色",
+        "credit": "未单独署名（发布方：源城区人民政府）",
+        "source": "http://www.gdyc.gov.cn/yc/fjtp/content/post_676560.html",
+        "license": "未提供复用许可",
+        "licenseUrl": "",
+        "rightsStatus": "pending",
+        "year": "拍摄时间见来源",
+        "note": "按原比例缩小为 720×480 并压缩为 JPEG；未生成、替换画面或移除水印。",
+        "width": 720,
+        "height": 480
+      },
+      {
+        "file": "/pkg-detail-c/photos/penquan-2.jpg",
+        "subject": "花树映衬的江面喷泉",
+        "credit": "未单独署名（发布方：源城区人民政府）",
+        "source": "http://www.gdyc.gov.cn/yc/fjtp/content/post_676560.html",
+        "license": "未提供复用许可",
+        "licenseUrl": "",
+        "rightsStatus": "pending",
+        "year": "拍摄时间见来源",
+        "note": "按原比例缩小为 800×534 并压缩为 JPEG；未生成、替换画面或移除水印。",
+        "width": 800,
+        "height": 534
+      },
+      {
+        "file": "/pkg-detail-c/photos/penquan-3.jpg",
+        "subject": "江面音乐喷泉夜景",
+        "credit": "未单独署名（发布方：河源市人民政府）",
+        "source": "https://www.heyuan.gov.cn/zjhy/tpxs/content/post_414861.html",
+        "license": "未提供复用许可",
+        "licenseUrl": "",
+        "rightsStatus": "pending",
+        "year": "拍摄时间见来源",
+        "note": "按原比例缩小为 800×534 并压缩为 JPEG；未生成、替换画面或移除水印。",
+        "width": 800,
+        "height": 534
+      }
+    ],
+    "photo": "/assets/covers/penquan.jpg",
+    "photoCredit": "未单独署名（发布方：源城区人民政府）",
+    "photoPortrait": false
+  },
+  {
+    "id": "dexianlou",
+    "name": "南岭德先楼",
+    "shortName": "德先楼",
+    "region": "紫金县",
+    "area": "zijin",
+    "category": "人文",
+    "mark": "巷",
+    "tone": "sand",
+    "address": "河源市紫金县南岭镇高新村",
+    "duration": 90,
+    "durationText": "建议留出约 90 分钟",
+    "intro": "在南岭看一座随地势展开的客家围屋。外墙、屋顶和错落的厅堂布局值得细看，进入内部前先确认参观管理安排。",
+    "suited": "对客家民居、建筑结构有兴趣的人",
+    "highlights": [
+      "客家围屋外观",
+      "花岗岩与砖木构造",
+      "依地势错落的厅堂"
+    ],
+    "practical": [
+      "古建筑内部与屋顶不默认开放，听从现场管理，不自行攀爬。",
+      "村落目的地建议提前安排往返；拍照时不影响当地居民生活。"
+    ],
+    "visitTips": [
+      "古建筑内部与屋顶不默认开放，听从现场管理，不自行攀爬。",
+      "村落目的地建议提前安排往返；拍照时不影响当地居民生活。"
+    ],
+    "tags": [
+      "客家围屋",
+      "古建筑",
+      "南岭"
+    ],
+    "hoursText": "出发前确认开放范围与入园时间",
+    "ticketText": "票价、免费范围与优惠以当天公示为准",
+    "phone": "",
+    "sourceKeys": [
+      "dexianlou"
+    ],
+    "bookingUrl": "",
+    "map": null,
+    "images": [
+      {
+        "file": "/assets/covers/dexianlou.jpg",
+        "subject": "客家围屋与山林",
+        "credit": "未署名（发布方：紫金县人民政府）",
+        "source": "http://www.zijin.gov.cn/xq/yzzj8/nldxl/index.html",
+        "license": "未提供复用许可",
+        "licenseUrl": "",
+        "rightsStatus": "pending",
+        "year": "拍摄时间见来源",
+        "note": "按原比例缩小为 720×437 并压缩为 JPEG；未生成、替换画面或移除水印。",
+        "width": 720,
+        "height": 437
+      },
+      {
+        "file": "/pkg-detail-c/photos/dexianlou-2.jpg",
+        "subject": "围屋瓦顶与角楼",
+        "credit": "Qiu Mao",
+        "source": "https://commons.wikimedia.org/wiki/File:%E7%B4%AB%E9%87%91%E5%8D%97%E5%B2%AD%E9%95%87%E5%BE%B7%E5%85%88%E6%A5%BC20121002%20-%20panoramio%20%281%29.jpg",
+        "license": "CC BY 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+        "rightsStatus": "open-license",
+        "year": "2012",
+        "note": "按原比例缩小为 800×600 并压缩为 JPEG；未生成、替换画面或移除水印。",
+        "width": 800,
+        "height": 600
+      },
+      {
+        "file": "/pkg-detail-c/photos/dexianlou-3.jpg",
+        "subject": "内院砖墙与门楣",
+        "credit": "Qiu Mao",
+        "source": "https://commons.wikimedia.org/wiki/File:%E7%B4%AB%E9%87%91%E5%8D%97%E5%B2%AD%E9%95%87%E5%BE%B7%E5%85%88%E6%A5%BC20121002%20-%20panoramio%20%282%29.jpg",
+        "license": "CC BY 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+        "rightsStatus": "open-license",
+        "year": "2012",
+        "note": "按原比例缩小为 800×600 并压缩为 JPEG；未生成、替换画面或移除水印。",
+        "width": 800,
+        "height": 600
+      }
+    ],
+    "photo": "/assets/covers/dexianlou.jpg",
+    "photoCredit": "未署名（发布方：紫金县人民政府）",
+    "photoPortrait": false
+  },
+  {
+    "id": "zhongshan",
+    "name": "紫金中坝孙中山纪念馆",
+    "shortName": "中坝纪念馆",
+    "region": "紫金县",
+    "area": "zijin",
+    "category": "人文",
+    "mark": "巷",
+    "tone": "sand",
+    "address": "河源市紫金县中坝镇圩镇孙中山纪念馆",
+    "duration": 90,
+    "durationText": "建议留出约 90 分钟",
+    "intro": "在中坝看孙中山纪念馆的建筑与相关史料。若还想看发昌村的祖屋，应作为另一处位置安排，别把两者混为同一个入口。",
+    "suited": "想了解地方历史与人物故事的人",
+    "highlights": [
+      "纪念馆建筑",
+      "孙中山相关史料",
+      "祖籍渊源展陈"
+    ],
+    "practical": [
+      "纪念馆和发昌村孙屋排祖屋是不同参观点，导航时核对全名。",
+      "出发前确认开馆与预约要求，展厅内容以现场实际陈列为准。"
+    ],
+    "visitTips": [
+      "纪念馆和发昌村孙屋排祖屋是不同参观点，导航时核对全名。",
+      "出发前确认开馆与预约要求，展厅内容以现场实际陈列为准。"
+    ],
+    "tags": [
+      "纪念馆",
+      "历史",
+      "中坝"
+    ],
+    "hoursText": "出发前确认开放范围与入园时间",
+    "ticketText": "票价、免费范围与优惠以当天公示为准",
+    "phone": "",
+    "sourceKeys": [
+      "zhongshan"
+    ],
+    "bookingUrl": "",
+    "map": {
+      "latitude": 23.704041,
+      "longitude": 115.347119,
+      "source": "https://www.amap.com/place/B0FFJ362VW",
+      "name": "紫金中坝孙中山纪念馆",
+      "label": "高德地图 · 中坝镇中心村参考点，请核对开馆与入口",
+      "checkedAt": "2026-10-28",
+      "coordinateType": "gcj02"
+    },
+    "images": [
+      {
+        "file": "/assets/covers/zhongshan.jpg",
+        "subject": "孙中山纪念馆正面",
+        "credit": "未署名（发布方：紫金县人民政府）",
+        "source": "http://www.zijin.gov.cn/xq/yzzj8/szsxzryzjd/index.html",
+        "license": "未提供复用许可",
+        "licenseUrl": "",
+        "rightsStatus": "pending",
+        "year": "拍摄时间见来源",
+        "note": "按原比例缩小为 720×405 并压缩为 JPEG；未生成、替换画面或移除水印。",
+        "width": 720,
+        "height": 405
+      },
+      {
+        "file": "/pkg-detail-b/photos/zhongshan-2.jpg",
+        "subject": "孙氏先祖祖屋",
+        "credit": "未署名（发布方：紫金县人民政府）",
+        "source": "http://www.zijin.gov.cn/xq/yzzj8/szsxzryzjd/index.html",
+        "license": "未提供复用许可",
+        "licenseUrl": "",
+        "rightsStatus": "pending",
+        "year": "拍摄时间见来源",
+        "note": "按原比例缩小为 800×450 并压缩为 JPEG；未生成、替换画面或移除水印。",
+        "width": 800,
+        "height": 450
+      },
+      {
+        "file": "/pkg-detail-b/photos/zhongshan-3.jpg",
+        "subject": "孙中山纪念馆建筑全景",
+        "credit": "未署名（发布方：紫金县人民政府）",
+        "source": "http://www.zijin.gov.cn/xq/yzzj8/szsxzryzjd/index.html",
+        "license": "未提供复用许可",
+        "licenseUrl": "",
+        "rightsStatus": "pending",
+        "year": "拍摄时间见来源",
+        "note": "按原比例缩小为 800×450 并压缩为 JPEG；未生成、替换画面或移除水印。",
+        "width": 800,
+        "height": 450
+      },
+      {
+        "file": "/pkg-detail-b/photos/zhongshan-4.jpg",
+        "subject": "孙中山纪念馆室内塑像",
+        "credit": "未署名（发布方：紫金县人民政府）",
+        "source": "http://www.zijin.gov.cn/xq/yzzj8/szsxzryzjd/index.html",
+        "license": "未提供复用许可",
+        "licenseUrl": "",
+        "rightsStatus": "pending",
+        "year": "拍摄时间见来源",
+        "note": "按原比例缩小为 800×450 并压缩为 JPEG；未生成、替换画面或移除水印。",
+        "width": 800,
+        "height": 450
+      }
+    ],
+    "photo": "/assets/covers/zhongshan.jpg",
+    "photoCredit": "未署名（发布方：紫金县人民政府）",
+    "photoPortrait": false
+  },
+  {
+    "id": "yeyuan",
+    "name": "河源叶园温泉旅游区",
+    "shortName": "叶园温泉",
+    "region": "东源县",
+    "area": "east",
+    "category": "温泉",
+    "mark": "泉",
+    "tone": "green",
+    "address": "河源市东源县154县道9号（近新港镇）",
+    "duration": 180,
+    "durationText": "建议留出约 3 小时（含泡汤，待核对）",
+    "intro": "东源县内的温泉度假区，设有别墅温泉区与戏水设施，适合放在万绿湖周边行程的半日放松。",
+    "suited": "想泡温泉、带小孩玩水的游客",
+    "practical": [
+      "温泉开放时间与票价以当天公示为准，出发前再核对。",
+      "与万绿湖、镜花缘同在东源县，可安排在同一天或相邻半天。"
+    ],
+    "hoursText": "出发前确认开放时间与预约要求",
+    "ticketText": "成人 88–118 元，儿童 60 元（门市 198 元，以现场公示为准）",
+    "ticketVerified": "2026-11",
+    "phone": "",
+    "sourceKeys": [],
+    "bookingUrl": "",
+    "map": null,
+    "highlights": [
+      "别墅温泉区",
+      "戏水与泳池设施",
+      "邻近万绿湖"
+    ],
+    "tags": [
+      "温泉",
+      "亲子戏水",
+      "度假"
+    ],
+    "visitTips": [
+      "温泉开放时间与票价以当天公示为准，出发前再核对。",
+      "与万绿湖、镜花缘同在东源县，可安排在同一天或相邻半天。"
+    ],
+    "images": [],
+    "photo": "",
+    "photoCredit": "",
+    "photoPortrait": false
+  },
+  {
+    "id": "dongjianghualang",
+    "name": "东江画廊",
+    "shortName": "东江画廊",
+    "region": "东源县",
+    "area": "east",
+    "category": "休闲",
+    "mark": "湖",
+    "tone": "sand",
+    "address": "河源市东源县境内东江流域",
+    "duration": 120,
+    "durationText": "建议留出约 2 小时（游船观光，待核对）",
+    "intro": "沿东江分布的亲水观光带，可乘船看两岸风光，节奏轻松，适合作为东源行程的慢游一段。",
+    "suited": "喜欢亲水、慢节奏观光的游客",
+    "practical": [
+      "游船班次与票价以当天公示为准。",
+      "与万绿湖、苏家围同在东源县，可组合成一日游。"
+    ],
+    "hoursText": "出发前确认游船班次与开放时间",
+    "ticketText": "沿江免费；游船门市 100 元、线上 68–88 元（以现场公示为准）",
+    "ticketVerified": "2026-11",
+    "phone": "",
+    "sourceKeys": [],
+    "bookingUrl": "",
+    "map": null,
+    "highlights": [
+      "东江两岸风光",
+      "乘船观光",
+      "轻松慢游"
+    ],
+    "tags": [
+      "亲水",
+      "游船",
+      "休闲"
+    ],
+    "visitTips": [
+      "游船班次与票价以当天公示为准。",
+      "与万绿湖、苏家围同在东源县，可组合成一日游。"
+    ],
+    "images": [],
+    "photo": "",
+    "photoCredit": "",
+    "photoPortrait": false
+  },
+  {
+    "id": "nanyuan",
+    "name": "南园古村",
+    "shortName": "南园古村",
+    "region": "东源县",
+    "area": "east",
+    "category": "人文",
+    "mark": "城",
+    "tone": "clay",
+    "address": "河源市东源县仙塘镇",
+    "duration": 120,
+    "durationText": "建议留出约 2 小时（待核对）",
+    "intro": "有约500年历史的客家古村，以官宦文化与庭院美学见长，与苏家围、仙坑同属东源东部客家村落群。",
+    "suited": "喜欢古村、客家文化与庭院美学的游客",
+    "practical": [
+      "开放范围与讲解以现场为准，出发前确认。",
+      "可与苏家围、啸仙故里安排在东源东部一日。"
+    ],
+    "hoursText": "出发前确认开放范围与入园时间",
+    "ticketText": "票价与免费范围以当天公示为准（待核对）",
+    "phone": "",
+    "sourceKeys": [],
+    "bookingUrl": "",
+    "map": null,
+    "highlights": [
+      "客家古村",
+      "庭院与官宦文化",
+      "东源东部村落群"
+    ],
+    "tags": [
+      "古村",
+      "客家文化",
+      "历史"
+    ],
+    "visitTips": [
+      "开放范围与讲解以现场为准，出发前确认。",
+      "可与苏家围、啸仙故里安排在东源东部一日。"
+    ],
+    "images": [],
+    "photo": "",
+    "photoCredit": "",
+    "photoPortrait": false
+  },
+  {
+    "id": "wudunshan",
+    "name": "武顿山",
+    "shortName": "武顿山",
+    "region": "紫金县",
+    "area": "zijin",
+    "category": "山水",
+    "mark": "山",
+    "tone": "green",
+    "address": "河源市紫金县境内",
+    "duration": 180,
+    "durationText": "建议留出约 3 小时（登山，待核对）",
+    "intro": "紫金县境内的山地景观，属莲花山脉余脉，适合与苏区红色线路安排在同一县内。",
+    "suited": "喜欢登山、自然风光的游客",
+    "practical": [
+      "登山路线与开放状态以现场为准，出发前确认。",
+      "与苏区革命旧址、御临门温泉同属紫金，可组合成一日。"
+    ],
+    "hoursText": "出发前确认开放与登山安全提示",
+    "ticketText": "免费开放（未开发自然山体，无售票处）",
+    "ticketVerified": "2026-11",
+    "phone": "",
+    "sourceKeys": [],
+    "bookingUrl": "",
+    "map": null,
+    "highlights": [
+      "山地自然风光",
+      "紫金境内",
+      "登山徒步"
+    ],
+    "tags": [
+      "登山",
+      "自然",
+      "紫金"
+    ],
+    "visitTips": [
+      "登山路线与开放状态以现场为准，出发前确认。",
+      "与苏区革命旧址、御临门温泉同属紫金，可组合成一日。"
+    ],
+    "images": [],
+    "photo": "",
+    "photoCredit": "",
+    "photoPortrait": false
+  },
+  {
+    "id": "suqu",
+    "name": "紫金苏区革命旧址群",
+    "shortName": "苏区革命旧址",
+    "region": "紫金县",
+    "area": "zijin",
+    "category": "人文",
+    "mark": "馆",
+    "tone": "clay",
+    "address": "河源市紫金县苏区镇",
+    "duration": 120,
+    "durationText": "建议留出约 2 小时（待核对）",
+    "intro": "海陆丰根据地重要组成部分，曾有“四·二六暴动”，保留“红屋”“血田”等革命遗址，是国家3A级旅游景区。",
+    "suited": "对红色历史、研学感兴趣的游客",
+    "practical": [
+      "各旧址分散，导航时核对具体旧址全名。",
+      "开放范围以现场公示为准，出发前确认。"
+    ],
+    "hoursText": "出发前确认开放范围与入园时间",
+    "ticketText": "多为免费开放，具体以公示为准（待核对）",
+    "phone": "",
+    "sourceKeys": [],
+    "bookingUrl": "",
+    "map": null,
+    "highlights": [
+      "红色革命遗址",
+      "“红屋”“血田”",
+      "3A级景区"
+    ],
+    "tags": [
+      "红色",
+      "历史",
+      "研学"
+    ],
+    "visitTips": [
+      "各旧址分散，导航时核对具体旧址全名。",
+      "开放范围以现场公示为准，出发前确认。"
+    ],
+    "images": [],
+    "photo": "",
+    "photoCredit": "",
+    "photoPortrait": false
+  },
+  {
+    "id": "jiuhe",
+    "name": "九和温泉",
+    "shortName": "九和温泉",
+    "region": "紫金县",
+    "area": "hotSpring",
+    "category": "温泉",
+    "mark": "泉",
+    "tone": "green",
+    "address": "河源市紫金县九和镇热水村",
+    "duration": 180,
+    "durationText": "建议留出约 3 小时（含泡汤，待核对）",
+    "intro": "紫金县九和镇的温泉资源，自流水温较高，与御临门温泉同属紫金温泉带。",
+    "suited": "想泡温泉、放松的游客",
+    "practical": [
+      "温泉开放时间与票价以当天公示为准。",
+      "与御临门温泉同属紫金，可按位置就近选择。"
+    ],
+    "hoursText": "出发前确认开放时间与预约要求",
+    "ticketText": "御临门线上 98–138 元（门市 180 元）；九和大众泡池 50–68 元（以现场公示为准）",
+    "ticketVerified": "2026-11",
+    "phone": "",
+    "sourceKeys": [],
+    "bookingUrl": "",
+    "map": null,
+    "highlights": [
+      "地热温泉",
+      "紫金温泉带",
+      "放松泡汤"
+    ],
+    "tags": [
+      "温泉",
+      "放松",
+      "紫金"
+    ],
+    "visitTips": [
+      "温泉开放时间与票价以当天公示为准。",
+      "与御临门温泉同属紫金，可按位置就近选择。"
+    ],
+    "images": [],
+    "photo": "",
+    "photoCredit": "",
+    "photoPortrait": false
+  },
+  {
+    "id": "fengshuba",
+    "name": "枫树坝水库",
+    "shortName": "枫树坝水库",
+    "region": "龙川县",
+    "area": "longchuan",
+    "category": "休闲",
+    "mark": "湖",
+    "tone": "sand",
+    "address": "河源市龙川县境内（东江上游）",
+    "duration": 120,
+    "durationText": "建议留出约 2 小时（观光，待核对）",
+    "intro": "龙川县境内的水库景观，水面开阔，适合作为霍山、佗城之外的轻松观光一站。",
+    "suited": "喜欢开阔水面、轻松观光的游客",
+    "practical": [
+      "库区管理与观光以现场为准，注意安全。",
+      "可与霍山、佗城同属龙川，组合成一日。"
+    ],
+    "hoursText": "出发前确认可游览范围与安全提示",
+    "ticketText": "观光以现场公示为准（待核对）",
+    "phone": "",
+    "sourceKeys": [],
+    "bookingUrl": "",
+    "map": null,
+    "highlights": [
+      "开阔水面",
+      "东江上游",
+      "轻松观光"
+    ],
+    "tags": [
+      "水库",
+      "观光",
+      "龙川"
+    ],
+    "visitTips": [
+      "库区管理与观光以现场为准，注意安全。",
+      "可与霍山、佗城同属龙川，组合成一日。"
+    ],
+    "images": [],
+    "photo": "",
+    "photoCredit": "",
+    "photoPortrait": false
+  },
+  {
+    "id": "litian",
+    "name": "李田仙岩",
+    "shortName": "李田仙岩",
+    "region": "和平县",
+    "area": "heping",
+    "category": "山水",
+    "mark": "山",
+    "tone": "green",
+    "address": "河源市和平县境内",
+    "duration": 120,
+    "durationText": "建议留出约 2 小时（溶洞观光，待核对）",
+    "intro": "和平县内的溶洞景观，钟乳石形态丰富，可与林寨古村、热龙温泉同县安排。",
+    "suited": "喜欢溶洞、自然奇观的游客",
+    "practical": [
+      "洞内湿滑，注意脚下与照明。",
+      "与林寨古村、热龙温泉同属和平，可组合成一日。"
+    ],
+    "hoursText": "出发前确认开放时间与安全提示",
+    "ticketText": "免费开放（未开发天然溶洞，无售票处）",
+    "ticketVerified": "2026-11",
+    "phone": "",
+    "sourceKeys": [],
+    "bookingUrl": "",
+    "map": null,
+    "highlights": [
+      "溶洞奇观",
+      "钟乳石",
+      "和平境内"
+    ],
+    "tags": [
+      "溶洞",
+      "自然",
+      "和平"
+    ],
+    "visitTips": [
+      "洞内湿滑，注意脚下与照明。",
+      "与林寨古村、热龙温泉同属和平，可组合成一日。"
+    ],
+    "images": [],
+    "photo": "",
+    "photoCredit": "",
+    "photoPortrait": false
+  },
+  {
+    "id": "cuishan",
+    "name": "翠山竹海",
+    "shortName": "翠山竹海",
+    "region": "和平县",
+    "area": "heping",
+    "category": "休闲",
+    "mark": "山",
+    "tone": "sand",
+    "address": "河源市和平县境内",
+    "duration": 120,
+    "durationText": "建议留出约 2 小时（待核对）",
+    "intro": "和平县内的竹林景观，绿意连绵，节奏轻松，适合作为林寨、热龙之外的慢游一站。",
+    "suited": "喜欢竹林、自然慢游的游客",
+    "practical": [
+      "游览范围与开放以现场为准。",
+      "可与林寨古村、热龙温泉同属和平，组合成一日。"
+    ],
+    "hoursText": "出发前确认开放范围与安全提示",
+    "ticketText": "观光以现场公示为准（待核对）",
+    "phone": "",
+    "sourceKeys": [],
+    "bookingUrl": "",
+    "map": null,
+    "highlights": [
+      "竹林景观",
+      "绿色慢游",
+      "和平境内"
+    ],
+    "tags": [
+      "竹林",
+      "自然",
+      "和平"
+    ],
+    "visitTips": [
+      "游览范围与开放以现场为准。",
+      "可与林寨古村、热龙温泉同属和平，组合成一日。"
+    ],
+    "images": [],
+    "photo": "",
+    "photoCredit": "",
+    "photoPortrait": false
+  },
+  {
+    "id": "shengji",
+    "name": "圣迹苍岩",
+    "shortName": "圣迹苍岩",
+    "region": "连平县",
+    "area": "lianping",
+    "category": "山水",
+    "mark": "山",
+    "tone": "green",
+    "address": "河源市连平县内莞镇（距县城约12公里）",
+    "duration": 120,
+    "durationText": "建议留出约 2 小时（溶洞观光，待核对）",
+    "intro": "连平县“八景”之一，喀斯特溶洞千姿百态，被省旅游局推荐为休闲度假好去处，与内莞田园风光相邻。",
+    "suited": "喜欢溶洞、田园风光的游客",
+    "practical": [
+      "洞内湿滑，注意脚下与照明。",
+      "与内莞风光、九连山同属连平，可组合成一日。"
+    ],
+    "hoursText": "出发前确认开放时间与安全提示",
+    "ticketText": "成人门票 25–30 元，1.2 米以下儿童免费（以现场公示为准）",
+    "ticketVerified": "2026-11",
+    "phone": "",
+    "sourceKeys": [],
+    "bookingUrl": "",
+    "map": null,
+    "highlights": [
+      "喀斯特溶洞",
+      "连平八景",
+      "邻近内莞风光"
+    ],
+    "tags": [
+      "溶洞",
+      "自然",
+      "连平"
+    ],
+    "visitTips": [
+      "洞内湿滑，注意脚下与照明。",
+      "与内莞风光、九连山同属连平，可组合成一日。"
+    ],
+    "images": [],
+    "photo": "",
+    "photoCredit": "",
+    "photoPortrait": false
+  },
+  {
+    "id": "lianpingzhibei",
+    "name": "柘陂华南小学党组织旧址",
+    "shortName": "华南小学旧址",
+    "region": "连平县",
+    "area": "lianping",
+    "category": "人文",
+    "mark": "馆",
+    "tone": "clay",
+    "address": "河源市连平县忠信镇柘陂村",
+    "duration": 90,
+    "durationText": "建议留出约 1.5 小时（待核对）",
+    "intro": "连平县的红色革命遗址，华南小学党组织旧址，是当地红色教育与家风研学线路的一站。",
+    "suited": "对红色历史、研学感兴趣的游客",
+    "practical": [
+      "旧址参观以现场为准，出发前确认开放。",
+      "可与圣迹苍岩、内莞风光同属连平，组合成一日。"
+    ],
+    "hoursText": "出发前确认开放范围与入园时间",
+    "ticketText": "开放以现场公示为准（待核对）",
+    "phone": "",
+    "sourceKeys": [],
+    "bookingUrl": "",
+    "map": null,
+    "highlights": [
+      "红色革命遗址",
+      "党组织旧址",
+      "研学线路"
+    ],
+    "tags": [
+      "红色",
+      "历史",
+      "研学"
+    ],
+    "visitTips": [
+      "旧址参观以现场为准，出发前确认开放。",
+      "可与圣迹苍岩、内莞风光同属连平，组合成一日。"
+    ],
+    "images": [],
+    "photo": "",
+    "photoCredit": "",
+    "photoPortrait": false
+  },
+  {
+    "id": "jiulianshan",
+    "name": "九连山原始森林度假村",
+    "shortName": "九连山度假村",
+    "region": "连平县",
+    "area": "lianping",
+    "category": "休闲",
+    "mark": "园",
+    "tone": "sand",
+    "address": "河源市连平县田源镇河头风景区",
+    "duration": 180,
+    "durationText": "建议留出约 3 小时（度假区观光，待核对）",
+    "intro": "连平县田源镇的大型综合绿色度假村，森林覆盖率高，可露营、住宿与休闲，适合作为连平慢游的一站。",
+    "suited": "喜欢森林度假、露营休闲的游客",
+    "practical": [
+      "度假区项目与开放以现场为准。",
+      "与圣迹苍岩、内莞风光同属连平，可组合成一日。"
+    ],
+    "hoursText": "出发前确认开放时间与项目安排",
+    "ticketText": "观光与项目以当天公示为准（待核对）",
+    "phone": "",
+    "sourceKeys": [],
+    "bookingUrl": "",
+    "map": null,
+    "highlights": [
+      "原始森林",
+      "综合度假村",
+      "露营休闲"
+    ],
+    "tags": [
+      "森林",
+      "度假",
+      "休闲"
+    ],
+    "visitTips": [
+      "度假区项目与开放以现场为准。",
+      "与圣迹苍岩、内莞风光同属连平，可组合成一日。"
+    ],
+    "images": [],
+    "photo": "",
+    "photoCredit": "",
+    "photoPortrait": false
+  },
+  {
+    "id": "jiangdongchen",
+    "name": "古竹陈家祠（中共东江特委旧址）",
+    "shortName": "东江特委旧址",
+    "region": "江东新区",
+    "area": "jiangdong",
+    "category": "人文",
+    "mark": "馆",
+    "tone": "clay",
+    "address": "河源市江东新区古竹镇",
+    "duration": 90,
+    "durationText": "建议留出约 1.5 小时（待核对）",
+    "intro": "江东新区古竹镇的红色革命旧址，中共东江特别委员会旧址（陈家祠），是当地红色旅游经典景区。",
+    "suited": "对红色历史、研学感兴趣的游客",
+    "practical": [
+      "旧址参观以现场为准，出发前确认开放。",
+      "可与越王山同属江东，组合成一日。"
+    ],
+    "hoursText": "出发前确认开放范围与入园时间",
+    "ticketText": "开放以现场公示为准（待核对）",
+    "phone": "",
+    "sourceKeys": [],
+    "bookingUrl": "",
+    "map": null,
+    "highlights": [
+      "红色革命旧址",
+      "东江特委旧址",
+      "研学线路"
+    ],
+    "tags": [
+      "红色",
+      "历史",
+      "研学"
+    ],
+    "visitTips": [
+      "旧址参观以现场为准，出发前确认开放。",
+      "可与越王山同属江东，组合成一日。"
+    ],
+    "images": [],
+    "photo": "",
+    "photoCredit": "",
+    "photoPortrait": false
+  },
+  {
+    "id": "wutongshan",
+    "name": "梧桐山公园",
+    "shortName": "梧桐山公园",
+    "region": "江东新区",
+    "area": "jiangdong",
+    "category": "休闲",
+    "mark": "园",
+    "tone": "sand",
+    "address": "河源市江东新区",
+    "duration": 120,
+    "durationText": "建议留出约 2 小时（待核对）",
+    "intro": "江东新区的城市公园，适合作为越王山之外的轻松休闲一站，节奏舒缓。",
+    "suited": "喜欢城市绿意、轻松散步的游客",
+    "practical": [
+      "开放范围以现场为准。",
+      "可与越王山同属江东，组合成一日。"
+    ],
+    "hoursText": "出发前确认开放时间与范围",
+    "ticketText": "公园开放以现场公示为准（待核对）",
+    "phone": "",
+    "sourceKeys": [],
+    "bookingUrl": "",
+    "map": null,
+    "highlights": [
+      "城市公园",
+      "轻松散步",
+      "江东新区"
+    ],
+    "tags": [
+      "公园",
+      "休闲",
+      "江东"
+    ],
+    "visitTips": [
+      "开放范围以现场为准。",
+      "可与越王山同属江东，组合成一日。"
+    ],
+    "images": [],
+    "photo": "",
+    "photoCredit": "",
+    "photoPortrait": false
+  },
+  {
+    "id": "longyuan",
+    "name": "龙源温泉",
+    "shortName": "龙源温泉",
+    "region": "源城区",
+    "area": "south",
+    "category": "温泉",
+    "mark": "泉",
+    "tone": "green",
+    "address": "河源市源城区",
+    "duration": 180,
+    "durationText": "建议留出约 3 小时（含泡汤，待核对）",
+    "intro": "源城区的温泉度假资源，与巴伐利亚庄园、客天下同属源城温泉带，适合市区周边的放松一站。",
+    "suited": "想泡温泉、市区周边放松的游客",
+    "practical": [
+      "温泉开放时间与票价以当天公示为准。",
+      "与巴伐利亚庄园、客天下同属源城，可按位置就近选择。"
+    ],
+    "hoursText": "出发前确认开放时间与预约要求",
+    "ticketText": "平日 98–118 元，周末 128–138 元（门市 168 元，以现场公示为准）",
+    "ticketVerified": "2026-11",
+    "phone": "",
+    "sourceKeys": [],
+    "bookingUrl": "",
+    "map": null,
+    "highlights": [
+      "地热温泉",
+      "源城温泉带",
+      "放松泡汤"
+    ],
+    "tags": [
+      "温泉",
+      "源城",
+      "放松"
+    ],
+    "visitTips": [
+      "温泉开放时间与票价以当天公示为准。",
+      "与巴伐利亚庄园、客天下同属源城，可按位置就近选择。"
+    ],
+    "images": [],
+    "photo": "",
+    "photoCredit": "",
+    "photoPortrait": false
+  },
+  {
+    "id": "aoshan",
+    "name": "嶅山溪谷生态旅游区",
+    "shortName": "嶅山",
+    "region": "龙川县",
+    "area": "longchuan",
+    "category": "山水",
+    "mark": "山",
+    "tone": "green",
+    "address": "河源市龙川县佗城镇西北面嶅山山脉",
+    "duration": 180,
+    "durationText": "建议留出约 3 小时（溪谷观光，待核对）",
+    "intro": "龙川县赵佗古城西北面的嶅山溪谷生态旅游区，原始森林覆盖率高，集康养、旅游、休闲、登高望远于一体，与合溪温泉度假村相连。",
+    "suited": "喜欢溪谷、森林康养与登高的游客",
+    "practical": [
+      "景区项目与开放以现场为准。",
+      "可与佗城、霍山同属龙川，组合成一日或两日。"
+    ],
+    "hoursText": "出发前确认开放时间与项目安排",
+    "ticketText": "观光与项目以当天公示为准（待核对）",
+    "phone": "",
+    "sourceKeys": [],
+    "bookingUrl": "",
+    "map": null,
+    "highlights": [
+      "原始森林",
+      "溪谷康养",
+      "登高望远"
+    ],
+    "tags": [
+      "森林",
+      "溪谷",
+      "龙川"
+    ],
+    "visitTips": [
+      "景区项目与开放以现场为准。",
+      "可与佗城、霍山同属龙川，组合成一日或两日。"
+    ],
+    "images": [],
+    "photo": "",
+    "photoCredit": "",
+    "photoPortrait": false
+  },
+  {
+    "id": "qimuzhang",
+    "name": "七目嶂自然保护区",
+    "shortName": "七目嶂",
+    "region": "龙川县",
+    "area": "longchuan",
+    "category": "山水",
+    "mark": "山",
+    "tone": "green",
+    "address": "河源市龙川县上坪镇与细坳镇之间",
+    "duration": 180,
+    "durationText": "建议留出约 3 小时（登山，待核对）",
+    "intro": "省属自然保护区，龙川县最高峰（主峰海拔1318米），古木参天、飞瀑潺潺，素有“物种宝库，绿色明珠”之称，登顶可俯瞰七县。",
+    "suited": "喜欢登山、自然探秘的游客",
+    "practical": [
+      "山区天气多变，备好装备与饮水。",
+      "与霍山、佗城同属龙川，可作为山水专线。"
+    ],
+    "hoursText": "出发前确认可进入范围与安全提示",
+    "ticketText": "自然保护区以现场管理规定为准（待核对）",
+    "phone": "",
+    "sourceKeys": [],
+    "bookingUrl": "",
+    "map": null,
+    "highlights": [
+      "龙川最高峰",
+      "原始森林",
+      "云海日出"
+    ],
+    "tags": [
+      "登山",
+      "自然",
+      "龙川"
+    ],
+    "visitTips": [
+      "山区天气多变，备好装备与饮水。",
+      "与霍山、佗城同属龙川，可作为山水专线。"
+    ],
+    "images": [],
+    "photo": "",
+    "photoCredit": "",
+    "photoPortrait": false
+  },
+  {
+    "id": "tuochengwenquan",
+    "name": "佗城温泉",
+    "shortName": "佗城温泉",
+    "region": "龙川县",
+    "area": "longchuan",
+    "category": "温泉",
+    "mark": "泉",
+    "tone": "green",
+    "address": "河源市龙川县佗城镇塔西村",
+    "duration": 180,
+    "durationText": "建议留出约 3 小时（含泡汤，待核对）",
+    "intro": "龙川县佗城镇塔西村的温泉资源，与佗城古镇相邻，已开发为度假村与镇内温泉宾馆。它没有独立售票的景区门票，通常作为佗城行程的“顺路泡汤”一站。",
+    "suited": "想泡温泉、顺访佗城古韵的游客",
+    "practical": [
+      "温泉开放时间与票价以当天公示为准。",
+      "与佗城古韵、霍山可同县安排。"
+    ],
+    "hoursText": "出发前确认开放时间与预约要求",
+    "ticketText": "无独立景区门票；佗城景区联票 40 元，镇内温泉宾馆泡池 30–50 元/人（以现场公示为准）",
+    "ticketVerified": "2026-11",
+    "phone": "",
+    "sourceKeys": [],
+    "bookingUrl": "",
+    "map": null,
+    "highlights": [
+      "佗城温泉带",
+      "天然矿泉",
+      "古镇旁"
+    ],
+    "tags": [
+      "温泉",
+      "放松",
+      "龙川"
+    ],
+    "visitTips": [
+      "温泉开放时间与票价以当天公示为准。",
+      "与佗城古韵、霍山可同县安排。"
+    ],
+    "images": [],
+    "photo": "",
+    "photoCredit": "",
+    "photoPortrait": false
+  },
+  {
+    "id": "beilingwenquan",
+    "name": "贝岭咸水温泉",
+    "shortName": "贝岭温泉",
+    "region": "龙川县",
+    "area": "longchuan",
+    "category": "温泉",
+    "mark": "泉",
+    "tone": "green",
+    "address": "河源市龙川县贝岭镇",
+    "duration": 180,
+    "durationText": "建议留出约 3 小时（含泡汤，待核对）",
+    "intro": "龙川县已开发利用的温泉资源之一（佗城、贝岭、车田、上坪四处温泉带之一），咸水温泉特色明显，适合周边放松。",
+    "suited": "想在龙川北部泡温泉、放松的游客",
+    "practical": [
+      "温泉开放时间与票价以当天公示为准。",
+      "位于龙川北部，可与七目嶂等北部山水组合。"
+    ],
+    "hoursText": "出发前确认开放时间与预约要求",
+    "ticketText": "散客泡池 30–68 元/人（镇内各温泉山庄独立定价，以现场公示为准）",
+    "ticketVerified": "2026-11",
+    "phone": "",
+    "sourceKeys": [],
+    "bookingUrl": "",
+    "map": null,
+    "highlights": [
+      "咸水温泉",
+      "龙川北部",
+      "放松泡汤"
+    ],
+    "tags": [
+      "温泉",
+      "龙川",
+      "放松"
+    ],
+    "visitTips": [
+      "温泉开放时间与票价以当天公示为准。",
+      "位于龙川北部，可与七目嶂等北部山水组合。"
+    ],
+    "images": [],
+    "photo": "",
+    "photoCredit": "",
+    "photoPortrait": false
+  },
+  {
+    "id": "lvyouchanguo",
+    "name": "绿油花果树小镇",
+    "shortName": "绿油小镇",
+    "region": "龙川县",
+    "area": "longchuan",
+    "category": "休闲",
+    "mark": "园",
+    "tone": "sand",
+    "address": "河源市龙川县赤光镇大洋村",
+    "duration": 120,
+    "durationText": "建议留出约 2 小时（采摘休闲，待核对）",
+    "intro": "国家AAA级旅游景区，集观光旅游、休闲采摘、餐饮住宿、度假游乐为一体，含花海、茶花园、乐园、葡萄园等。",
+    "suited": "亲子家庭、喜欢采摘与乡村休闲的游客",
+    "practical": [
+      "项目与开放以现场为准。",
+      "与佗城、霍山同属龙川，可组合成一日。"
+    ],
+    "hoursText": "出发前确认开放时间与项目安排",
+    "ticketText": "观光与项目以当天公示为准（待核对）",
+    "phone": "",
+    "sourceKeys": [],
+    "bookingUrl": "",
+    "map": null,
+    "highlights": [
+      "AAA景区",
+      "花海果园",
+      "亲子游乐"
+    ],
+    "tags": [
+      "采摘",
+      "亲子",
+      "休闲"
+    ],
+    "visitTips": [
+      "项目与开放以现场为准。",
+      "与佗城、霍山同属龙川，可组合成一日。"
+    ],
+    "images": [],
+    "photo": "",
+    "photoCredit": "",
+    "photoPortrait": false
+  },
+  {
+    "id": "shuikeng",
+    "name": "水坑生态旅游娱乐区",
+    "shortName": "水坑生态",
+    "region": "龙川县",
+    "area": "longchuan",
+    "category": "休闲",
+    "mark": "园",
+    "tone": "sand",
+    "address": "河源市龙川县城郊（老隆镇）",
+    "duration": 120,
+    "durationText": "建议留出约 2 小时（森林公园，待核对）",
+    "intro": "国家AA级景区、森林公园，林海茫茫、山泉潺潺，有望城阁、生态阁、观音寺、千佛塔等景点，素有“世外桃源”之称。",
+    "suited": "喜欢森林公园、轻松步行的游客",
+    "practical": [
+      "游览范围与开放以现场为准。",
+      "位于县城近郊，适合作为龙川行程的轻松一站。"
+    ],
+    "hoursText": "出发前确认开放范围与安全提示",
+    "ticketText": "观光以现场公示为准（待核对）",
+    "phone": "",
+    "sourceKeys": [],
+    "bookingUrl": "",
+    "map": null,
+    "highlights": [
+      "森林公园",
+      "清溪古寺",
+      "县城近郊"
+    ],
+    "tags": [
+      "森林",
+      "步道",
+      "休闲"
+    ],
+    "visitTips": [
+      "游览范围与开放以现场为准。",
+      "位于县城近郊，适合作为龙川行程的轻松一站。"
+    ],
+    "images": [],
+    "photo": "",
+    "photoCredit": "",
+    "photoPortrait": false
+  },
+  {
+    "id": "zhengxiangta",
+    "name": "正相塔",
+    "shortName": "正相塔",
+    "region": "龙川县",
+    "area": "longchuan",
+    "category": "人文",
+    "mark": "塔",
+    "tone": "clay",
+    "address": "河源市龙川县佗城镇",
+    "duration": 60,
+    "durationText": "建议留出约 1 小时（待核对）",
+    "intro": "唐代古塔，坐落于佗城，是龙川千年古县的历史见证之一，与佗城学宫、越王井等古迹相邻。",
+    "suited": "对历史古迹、岭南古建感兴趣的游客",
+    "practical": [
+      "古迹参观以现场为准。",
+      "与佗城景区、学宫同属一处，步行可达。"
+    ],
+    "hoursText": "出发前确认开放范围与入园时间",
+    "ticketText": "开放以现场公示为准（待核对）",
+    "phone": "",
+    "sourceKeys": [],
+    "bookingUrl": "",
+    "map": null,
+    "highlights": [
+      "唐代古塔",
+      "佗城古迹",
+      "千年古县"
+    ],
+    "tags": [
+      "古塔",
+      "历史",
+      "佗城"
+    ],
+    "visitTips": [
+      "古迹参观以现场为准。",
+      "与佗城景区、学宫同属一处，步行可达。"
+    ],
+    "images": [],
+    "photo": "",
+    "photoCredit": "",
+    "photoPortrait": false
+  },
+  {
+    "id": "yangmingpark",
+    "name": "阳明公园·阳明博物馆",
+    "shortName": "阳明公园",
+    "region": "和平县",
+    "area": "heping",
+    "category": "人文",
+    "mark": "园",
+    "tone": "clay",
+    "address": "河源市和平县阳明镇（县城）",
+    "duration": 90,
+    "durationText": "建议留出约 1.5 小时（待核对）",
+    "intro": "和平县地标，围绕阳明文化打造，园内立有王阳明塑像、建有阳明博物馆，登顶可俯瞰县城全景，是河源市“最美城市景观”之一。",
+    "suited": "对阳明文化、城市休闲与博物馆感兴趣的游客",
+    "practical": [
+      "博物馆开放以现场为准。",
+      "与林寨古村、热龙温泉同属和平，可组合成一日。"
+    ],
+    "hoursText": "出发前确认开放时间与入园安排",
+    "ticketText": "公园与博物馆以现场公示为准（待核对）",
+    "phone": "",
+    "sourceKeys": [],
+    "bookingUrl": "",
+    "map": null,
+    "highlights": [
+      "阳明文化",
+      "阳明博物馆",
+      "县城地标"
+    ],
+    "tags": [
+      "文化",
+      "博物馆",
+      "和平"
+    ],
+    "visitTips": [
+      "博物馆开放以现场为准。",
+      "与林寨古村、热龙温泉同属和平，可组合成一日。"
+    ],
+    "images": [],
+    "photo": "",
+    "photoCredit": "",
+    "photoPortrait": false
+  },
+  {
+    "id": "tianrenchang",
+    "name": "天上人间温泉度假村",
+    "shortName": "天上人间温泉",
+    "region": "和平县",
+    "area": "heping",
+    "category": "温泉",
+    "mark": "泉",
+    "tone": "green",
+    "address": "河源市和平县大坝镇汤湖村",
+    "duration": 180,
+    "durationText": "建议留出约 3 小时（含泡汤，待核对）",
+    "intro": "和平县知名温泉度假村（原天上人间，现荣佳国韵），拥有广东省较大的人工温泉瀑布与多个特色泡池，温泉以偏硅酸为主。",
+    "suited": "想泡温泉、亲子度假的游客",
+    "practical": [
+      "温泉开放时间与票价以当天公示为准。",
+      "与阳明公园、林寨古村同属和平，可组合成一日。"
+    ],
+    "hoursText": "出发前确认开放时间与预约要求",
+    "ticketText": "成人 70–88 元，儿童 40–50 元（门市 158 元，以现场公示为准）",
+    "ticketVerified": "2026-11",
+    "phone": "",
+    "sourceKeys": [],
+    "bookingUrl": "",
+    "map": null,
+    "highlights": [
+      "人工温泉瀑布",
+      "偏硅酸温泉",
+      "亲子度假"
+    ],
+    "tags": [
+      "温泉",
+      "度假",
+      "和平"
+    ],
+    "visitTips": [
+      "温泉开放时间与票价以当天公示为准。",
+      "与阳明公园、林寨古村同属和平，可组合成一日。"
+    ],
+    "images": [],
+    "photo": "",
+    "photoCredit": "",
+    "photoPortrait": false
+  },
+  {
+    "id": "qidiequan",
+    "name": "七叠泉瀑布",
+    "shortName": "七叠泉",
+    "region": "和平县",
+    "area": "heping",
+    "category": "山水",
+    "mark": "山",
+    "tone": "green",
+    "address": "河源市和平县林寨镇与公白镇交界处",
+    "duration": 120,
+    "durationText": "建议留出约 2 小时（溯溪观瀑，待核对）",
+    "intro": "主要由原始森林、仙人脚印、瀑布等组成，水量足、落差大，层层叠叠共分七级，故名“七叠泉”，藏于丛林之中。",
+    "suited": "喜欢瀑布、溯溪与户外徒步的游客",
+    "practical": [
+      "溯溪注意安全，备好防滑鞋。",
+      "与林寨古村、翠山竹海同属和平，可组合成一日。"
+    ],
+    "hoursText": "出发前确认开放范围与安全提示",
+    "ticketText": "观光以现场公示为准（待核对）",
+    "phone": "",
+    "sourceKeys": [],
+    "bookingUrl": "",
+    "map": null,
+    "highlights": [
+      "七级瀑布",
+      "原始森林",
+      "溯溪秘境"
+    ],
+    "tags": [
+      "瀑布",
+      "自然",
+      "和平"
+    ],
+    "visitTips": [
+      "溯溪注意安全，备好防滑鞋。",
+      "与林寨古村、翠山竹海同属和平，可组合成一日。"
+    ],
+    "images": [],
+    "photo": "",
+    "photoCredit": "",
+    "photoPortrait": false
+  },
+  {
+    "id": "xiannushiling",
+    "name": "仙女灵石",
+    "shortName": "仙女灵石",
+    "region": "和平县",
+    "area": "heping",
+    "category": "山水",
+    "mark": "山",
+    "tone": "green",
+    "address": "河源市和平县阳明镇东面约15公里",
+    "duration": 120,
+    "durationText": "建议留出约 2 小时（登山览胜，待核对）",
+    "intro": "和平县原八景之一，山高峻秀、风景优美，四季景色各异，东西南北造型各异，素有灵石奇观之称。",
+    "suited": "喜欢登山、奇石与田园风光的游客",
+    "practical": [
+      "山路注意安全，出发前确认可游览范围。",
+      "与阳明公园、热水温泉同属和平，可组合成一日。"
+    ],
+    "hoursText": "出发前确认开放范围与安全提示",
+    "ticketText": "观光以现场公示为准（待核对）",
+    "phone": "",
+    "sourceKeys": [],
+    "bookingUrl": "",
+    "map": null,
+    "highlights": [
+      "和平八景",
+      "灵石奇观",
+      "四季各异"
+    ],
+    "tags": [
+      "奇石",
+      "登山",
+      "和平"
+    ],
+    "visitTips": [
+      "山路注意安全，出发前确认可游览范围。",
+      "与阳明公园、热水温泉同属和平，可组合成一日。"
+    ],
+    "images": [],
+    "photo": "",
+    "photoCredit": "",
+    "photoPortrait": false
+  },
+  {
+    "id": "reshuidiaoliu",
+    "name": "热水漂流",
+    "shortName": "热水漂流",
+    "region": "和平县",
+    "area": "heping",
+    "category": "休闲",
+    "mark": "园",
+    "tone": "sand",
+    "address": "河源市和平县热水镇（浰江上游）",
+    "duration": 120,
+    "durationText": "建议留出约 2 小时（漂流，待核对）",
+    "intro": "素有“粤东第一漂”之称，漂流河道较长、生态保护完好，途经多个潭与险滩，夏季戏水、冬季终点可泡温泉。",
+    "suited": "喜欢漂流、亲水刺激的游客",
+    "practical": [
+      "漂流受季节与水情影响，出发前确认开放。",
+      "与热龙温泉同属热水镇，可“漂+泡”同天。"
+    ],
+    "hoursText": "出发前确认开放时间与水情",
+    "ticketText": "全程漂流 80–138 元（门市 168 元，4–10 月开放，以现场公示为准）",
+    "ticketVerified": "2026-11",
+    "phone": "",
+    "sourceKeys": [],
+    "bookingUrl": "",
+    "map": null,
+    "highlights": [
+      "粤东第一漂",
+      "浰江峡谷",
+      "亲水刺激"
+    ],
+    "tags": [
+      "漂流",
+      "亲水",
+      "和平"
+    ],
+    "visitTips": [
+      "漂流受季节与水情影响，出发前确认开放。",
+      "与热龙温泉同属热水镇，可“漂+泡”同天。"
+    ],
+    "images": [],
+    "photo": "",
+    "photoCredit": "",
+    "photoPortrait": false
+  },
+  {
+    "id": "defuhuahai",
+    "name": "德福花海",
+    "shortName": "德福花海",
+    "region": "和平县",
+    "area": "heping",
+    "category": "休闲",
+    "mark": "园",
+    "tone": "sand",
+    "address": "河源市和平县公白镇",
+    "duration": 90,
+    "durationText": "建议留出约 1.5 小时（赏花，待核对）",
+    "intro": "和平县乡村休闲游线路一站，四季花海与田园风光相映，适合轻松拍照与慢游。",
+    "suited": "喜欢花海、田园慢游与拍照的游客",
+    "practical": [
+      "花期为季节性，出发前确认当季花种。",
+      "与林寨古村、七叠泉同属和平，可组合成一日。"
+    ],
+    "hoursText": "出发前确认开放时间与当季花情",
+    "ticketText": "观光以现场公示为准（待核对）",
+    "phone": "",
+    "sourceKeys": [],
+    "bookingUrl": "",
+    "map": null,
+    "highlights": [
+      "四季花海",
+      "田园风光",
+      "乡村慢游"
+    ],
+    "tags": [
+      "花海",
+      "田园",
+      "和平"
+    ],
+    "visitTips": [
+      "花期为季节性，出发前确认当季花种。",
+      "与林寨古村、七叠泉同属和平，可组合成一日。"
+    ],
+    "images": [],
+    "photo": "",
+    "photoCredit": "",
+    "photoPortrait": false
+  },
+  {
+    "id": "shuibeigucun",
+    "name": "水背古村阳明文化旅游区",
+    "shortName": "水背古村",
+    "region": "和平县",
+    "area": "heping",
+    "category": "人文",
+    "mark": "村",
+    "tone": "clay",
+    "address": "河源市和平县大坝镇水背村",
+    "duration": 120,
+    "durationText": "建议留出约 2 小时（待核对）",
+    "intro": "国家3A级景区，保存明代和平巡检司旧址与多处客家祖屋，是王阳明“立县治、移风易俗”实践地，含非遗剪纸、纸伞体验。",
+    "suited": "对阳明文化、客家古村与非遗体验感兴趣的游客",
+    "practical": [
+      "体验项目以现场为准。",
+      "与阳明公园、天上人间温泉同属和平，可组合成一日。"
+    ],
+    "hoursText": "出发前确认开放时间与体验安排",
+    "ticketText": "景区以现场公示为准（待核对）",
+    "phone": "",
+    "sourceKeys": [],
+    "bookingUrl": "",
+    "map": null,
+    "highlights": [
+      "3A景区",
+      "阳明文化",
+      "客家祖屋"
+    ],
+    "tags": [
+      "古村",
+      "文化",
+      "和平"
+    ],
+    "visitTips": [
+      "体验项目以现场为准。",
+      "与阳明公园、天上人间温泉同属和平，可组合成一日。"
+    ],
+    "images": [],
+    "photo": "",
+    "photoCredit": "",
+    "photoPortrait": false
+  },
+  {
+    "id": "baixi",
+    "name": "白溪省级自然保护区",
+    "shortName": "白溪",
+    "region": "紫金县",
+    "area": "zijin",
+    "category": "山水",
+    "mark": "湖",
+    "tone": "green",
+    "address": "河源市紫金县城北面约17公里白溪村",
+    "duration": 120,
+    "durationText": "建议留出约 2 小时（环库步道，待核对）",
+    "intro": "省级自然保护区，以白溪水库、瀑布与森林闻名，三月李花盛开如雪，建有环湖步道与自然科普馆，适合徒步与生态研学。",
+    "suited": "喜欢水库风光、徒步与生态研学的游客",
+    "practical": [
+      "环库步道与科普馆开放以现场为准。",
+      "与御临门温泉、紫金观同属紫金，可组合成一日。"
+    ],
+    "hoursText": "出发前确认开放范围与安全提示",
+    "ticketText": "保护区以现场公示为准（待核对）",
+    "phone": "",
+    "sourceKeys": [],
+    "bookingUrl": "",
+    "map": null,
+    "highlights": [
+      "省级保护区",
+      "白溪水库",
+      "李花胜雪"
+    ],
+    "tags": [
+      "水库",
+      "生态",
+      "紫金"
+    ],
+    "visitTips": [
+      "环库步道与科普馆开放以现场为准。",
+      "与御临门温泉、紫金观同属紫金，可组合成一日。"
+    ],
+    "images": [],
+    "photo": "",
+    "photoCredit": "",
+    "photoPortrait": false
+  },
+  {
+    "id": "wuqinzhang",
+    "name": "乌禽嶂",
+    "shortName": "乌禽嶂",
+    "region": "紫金县",
+    "area": "zijin",
+    "category": "山水",
+    "mark": "山",
+    "tone": "green",
+    "address": "河源市紫金县九和镇东南边界（与惠东交界）",
+    "duration": 180,
+    "durationText": "建议留出约 3 小时（登山，待核对）",
+    "intro": "紫金县第二高峰（主峰海拔1186米），自然植被以亚热带次生阔叶林为主，沟壑纵横、岩洞罗列，是登山探秘的山林秘境。",
+    "suited": "喜欢登山、探秘山林的游客",
+    "practical": [
+      "山区注意安全与补给。",
+      "位于九和镇，可与御临门温泉同线安排。"
+    ],
+    "hoursText": "出发前确认可进入范围与安全提示",
+    "ticketText": "登山以现场管理规定为准（待核对）",
+    "phone": "",
+    "sourceKeys": [],
+    "bookingUrl": "",
+    "map": null,
+    "highlights": [
+      "紫金第二峰",
+      "次生阔叶林",
+      "山林秘境"
+    ],
+    "tags": [
+      "登山",
+      "自然",
+      "紫金"
+    ],
+    "visitTips": [
+      "山区注意安全与补给。",
+      "位于九和镇，可与御临门温泉同线安排。"
+    ],
+    "images": [],
+    "photo": "",
+    "photoCredit": "",
+    "photoPortrait": false
+  },
+  {
+    "id": "ketchagu",
+    "name": "紫金客茶谷",
+    "shortName": "客茶谷",
+    "region": "紫金县",
+    "area": "zijin",
+    "category": "休闲",
+    "mark": "园",
+    "tone": "sand",
+    "address": "河源市紫金县紫城镇蓝坑村",
+    "duration": 120,
+    "durationText": "建议留出约 2 小时（茶园休闲，待核对）",
+    "intro": "规划面积较大的茶旅融合地，含茶园观光、卡丁车、露营基地与周末非遗表演，可体验采茶制茶与客家文化。",
+    "suited": "亲子家庭、喜欢茶园与休闲体验的游客",
+    "practical": [
+      "项目与开放以现场为准。",
+      "与紫金观、白溪同属紫金，可组合成一日。"
+    ],
+    "hoursText": "出发前确认开放时间与项目安排",
+    "ticketText": "观光与项目以当天公示为准（待核对）",
+    "phone": "",
+    "sourceKeys": [],
+    "bookingUrl": "",
+    "map": null,
+    "highlights": [
+      "千亩茶园",
+      "卡丁车露营",
+      "非遗表演"
+    ],
+    "tags": [
+      "茶园",
+      "亲子",
+      "休闲"
+    ],
+    "visitTips": [
+      "项目与开放以现场为准。",
+      "与紫金观、白溪同属紫金，可组合成一日。"
+    ],
+    "images": [],
+    "photo": "",
+    "photoCredit": "",
+    "photoPortrait": false
+  },
+  {
+    "id": "xiaoyaogu",
+    "name": "南岭逍遥谷",
+    "shortName": "逍遥谷",
+    "region": "紫金县",
+    "area": "zijin",
+    "category": "休闲",
+    "mark": "园",
+    "tone": "sand",
+    "address": "河源市紫金县南岭镇",
+    "duration": 120,
+    "durationText": "建议留出约 2 小时（康养休闲，待核对）",
+    "intro": "集休闲、度假、娱乐、康养于一体的农业旅游综合体，适合亲子游玩与乡村慢游。",
+    "suited": "亲子家庭、喜欢乡村康养休闲的游客",
+    "practical": [
+      "项目与开放以现场为准。",
+      "与德先楼、武顿山同属南岭镇，可组合成一日。"
+    ],
+    "hoursText": "出发前确认开放时间与项目安排",
+    "ticketText": "观光与项目以当天公示为准（待核对）",
+    "phone": "",
+    "sourceKeys": [],
+    "bookingUrl": "",
+    "map": null,
+    "highlights": [
+      "康养综合体",
+      "亲子游乐",
+      "南岭镇"
+    ],
+    "tags": [
+      "康养",
+      "亲子",
+      "休闲"
+    ],
+    "visitTips": [
+      "项目与开放以现场为准。",
+      "与德先楼、武顿山同属南岭镇，可组合成一日。"
+    ],
+    "images": [],
+    "photo": "",
+    "photoCredit": "",
+    "photoPortrait": false
+  },
+  {
+    "id": "zijinguan",
+    "name": "紫金观",
+    "shortName": "紫金观",
+    "region": "紫金县",
+    "area": "zijin",
+    "category": "人文",
+    "mark": "馆",
+    "tone": "clay",
+    "address": "河源市紫金县紫城镇安良片飞凤岗",
+    "duration": 90,
+    "durationText": "建议留出约 1.5 小时（待核对）",
+    "intro": "原名天后宫，始建于明代，迁建后占地广阔，红墙黄瓦、雕梁画栋，素有“粤东第一道观”之称，分护法殿、天后宫、三清殿。",
+    "suited": "对道教文化、古建感兴趣的游客",
+    "practical": [
+      "道观开放以现场为准。",
+      "位于县城，可与客茶谷、白溪同线。"
+    ],
+    "hoursText": "出发前确认开放时间",
+    "ticketText": "开放以现场公示为准（待核对）",
+    "phone": "",
+    "sourceKeys": [],
+    "bookingUrl": "",
+    "map": null,
+    "highlights": [
+      "粤东第一道观",
+      "明代古刹",
+      "红墙黄瓦"
+    ],
+    "tags": [
+      "道观",
+      "古建",
+      "紫金"
+    ],
+    "visitTips": [
+      "道观开放以现场为准。",
+      "位于县城，可与客茶谷、白溪同线。"
+    ],
+    "images": [],
+    "photo": "",
+    "photoCredit": "",
+    "photoPortrait": false
+  },
+  {
+    "id": "guishanshilou",
+    "name": "桂山石楼",
+    "shortName": "桂山石楼",
+    "region": "紫金县",
+    "area": "zijin",
+    "category": "人文",
+    "mark": "楼",
+    "tone": "clay",
+    "address": "河源市紫金县龙窝镇桂山村",
+    "duration": 90,
+    "durationText": "建议留出约 1.5 小时（待核对）",
+    "intro": "清代客家方形城堡式围楼，花岗岩石条砌成、坚固异常，是粤东地区少见的客家传统民居，有“第一楼”之誉。",
+    "suited": "对客家围楼、古建感兴趣的游客",
+    "practical": [
+      "参观以现场为准。",
+      "与德先楼、武顿山同属紫金东部，可组合成一日。"
+    ],
+    "hoursText": "出发前确认开放范围与入园时间",
+    "ticketText": "开放以现场公示为准（待核对）",
+    "phone": "",
+    "sourceKeys": [],
+    "bookingUrl": "",
+    "map": null,
+    "highlights": [
+      "清代石楼",
+      "客家围楼",
+      "防御建筑"
+    ],
+    "tags": [
+      "古楼",
+      "客家",
+      "紫金"
+    ],
+    "visitTips": [
+      "参观以现场为准。",
+      "与德先楼、武顿山同属紫金东部，可组合成一日。"
+    ],
+    "images": [],
+    "photo": "",
+    "photoCredit": "",
+    "photoPortrait": false
+  },
+  {
+    "id": "nanmusi",
+    "name": "南母寺",
+    "shortName": "南母寺",
+    "region": "紫金县",
+    "area": "zijin",
+    "category": "人文",
+    "mark": "寺",
+    "tone": "clay",
+    "address": "河源市紫金县瓦溪镇九树官田村（海拔800米蝉子山）",
+    "duration": 90,
+    "durationText": "建议留出约 1.5 小时（待核对）",
+    "intro": "始建于宋代的佛教古寺，建在花岗岩上，群山环抱、云雾缭绕，有近800年历史，是紫金规模较大、历史较久的佛教古刹。",
+    "suited": "喜欢古寺、登山览胜与祈福的游客",
+    "practical": [
+      "寺观开放以现场为准。",
+      "位于瓦溪镇，可与白溪、御临门同线。"
+    ],
+    "hoursText": "出发前确认开放时间",
+    "ticketText": "开放以现场公示为准（待核对）",
+    "phone": "",
+    "sourceKeys": [],
+    "bookingUrl": "",
+    "map": null,
+    "highlights": [
+      "宋代古寺",
+      "花岗岩奇景",
+      "近800年"
+    ],
+    "tags": [
+      "古寺",
+      "佛教",
+      "紫金"
+    ],
+    "visitTips": [
+      "寺观开放以现场为准。",
+      "位于瓦溪镇，可与白溪、御临门同线。"
+    ],
+    "images": [],
+    "photo": "",
+    "photoCredit": "",
+    "photoPortrait": false
+  },
+  {
+    "id": "zhongxinhuadeng",
+    "name": "忠信花灯博物馆",
+    "shortName": "花灯博物馆",
+    "region": "连平县",
+    "area": "lianping",
+    "category": "人文",
+    "mark": "馆",
+    "tone": "clay",
+    "address": "河源市连平县忠信镇人民广场（文化站）",
+    "duration": 90,
+    "durationText": "建议留出约 1.5 小时（待核对）",
+    "intro": "展示连平忠信花灯这一国家级非遗的专题博物馆，忠信花灯是当地最具代表性的民俗文化符号之一。",
+    "suited": "对非遗、民俗文化感兴趣的游客",
+    "practical": [
+      "展馆开放以现场为准。",
+      "与圣迹苍岩、内莞风光同属连平，可组合成一日。"
+    ],
+    "hoursText": "出发前确认开放时间",
+    "ticketText": "开放以现场公示为准（待核对）",
+    "phone": "",
+    "sourceKeys": [],
+    "bookingUrl": "",
+    "map": null,
+    "highlights": [
+      "忠信花灯",
+      "国家级非遗",
+      "民俗文化"
+    ],
+    "tags": [
+      "非遗",
+      "民俗",
+      "连平"
+    ],
+    "visitTips": [
+      "展馆开放以现场为准。",
+      "与圣迹苍岩、内莞风光同属连平，可组合成一日。"
+    ],
+    "images": [],
+    "photo": "",
+    "photoCredit": "",
+    "photoPortrait": false
+  },
+  {
+    "id": "yanyanliuzu",
+    "name": "燕岩六祖古寺",
+    "shortName": "燕岩古寺",
+    "region": "连平县",
+    "area": "lianping",
+    "category": "人文",
+    "mark": "寺",
+    "tone": "clay",
+    "address": "河源市连平县",
+    "duration": 90,
+    "durationText": "建议留出约 1.5 小时（待核对）",
+    "intro": "连平县知名古寺，依山而建，是当地礼佛与访古的一处清净之地，与连平山水、田园风光相映。",
+    "suited": "喜欢古寺、访古与清静之地的游客",
+    "practical": [
+      "寺观开放以现场为准。",
+      "与圣迹苍岩、内莞风光同属连平，可组合成一日。"
+    ],
+    "hoursText": "出发前确认开放时间",
+    "ticketText": "开放以现场公示为准（待核对）",
+    "phone": "",
+    "sourceKeys": [],
+    "bookingUrl": "",
+    "map": null,
+    "highlights": [
+      "古寺",
+      "礼佛访古",
+      "连平"
+    ],
+    "tags": [
+      "古寺",
+      "访古",
+      "连平"
+    ],
+    "visitTips": [
+      "寺观开放以现场为准。",
+      "与圣迹苍岩、内莞风光同属连平，可组合成一日。"
+    ],
+    "images": [],
+    "photo": "",
+    "photoCredit": "",
+    "photoPortrait": false
+  },
+  {
+    "id": "kangquan",
+    "name": "康泉十八温泉度假村",
+    "shortName": "康泉十八",
+    "region": "东源县",
+    "area": "east",
+    "category": "温泉",
+    "mark": "泉",
+    "tone": "green",
+    "address": "河源市东源县康禾镇",
+    "duration": 180,
+    "durationText": "建议留出约 3 小时（含泡汤，待核对）",
+    "intro": "东源县康禾镇的温泉度假资源，与叶园温泉同属东源温泉带，适合县城周边及万绿湖游线之外的放松一站。",
+    "suited": "想泡温泉、东源周边放松的游客",
+    "practical": [
+      "温泉开放时间与票价以当天公示为准。",
+      "与叶园温泉、万绿湖同属东源，可按位置就近选择。"
+    ],
+    "hoursText": "停业改造中，出发前请确认是否恢复营业",
+    "ticketText": "停业改造中，暂不接待（原线上 68–88 元，以现场公示为准）",
+    "ticketVerified": "2026-11",
+    "phone": "",
+    "sourceKeys": [],
+    "bookingUrl": "",
+    "map": null,
+    "highlights": [
+      "东源温泉带",
+      "康禾温泉",
+      "放松泡汤"
+    ],
+    "tags": [
+      "温泉",
+      "东源",
+      "放松"
+    ],
+    "visitTips": [
+      "温泉开放时间与票价以当天公示为准。",
+      "与叶园温泉、万绿湖同属东源，可按位置就近选择。"
+    ],
+    "images": [],
+    "photo": "",
+    "photoCredit": "",
+    "photoPortrait": false
+  },
+  {
+    "id": "guzhu",
+    "name": "古竹老街",
+    "shortName": "古竹老街",
+    "region": "江东新区",
+    "area": "jiangdong",
+    "category": "人文",
+    "mark": "街",
+    "tone": "clay",
+    "address": "河源市江东新区古竹镇",
+    "duration": 90,
+    "durationText": "建议留出约 1.5 小时（待核对）",
+    "intro": "古竹镇明清特色街区，旧称苦竹驿，留存古码头、古街道、古民居、古祠堂、古庙宇与古会馆，形成完整的明清街区格局。",
+    "suited": "喜欢古街、码头文化与慢游的游客",
+    "practical": [
+      "街区开放以现场为准。",
+      "与越王山、梧桐山同属江东，可组合成一日。"
+    ],
+    "hoursText": "出发前确认街区可游览范围",
+    "ticketText": "街区开放以现场公示为准（待核对）",
+    "phone": "",
+    "sourceKeys": [],
+    "bookingUrl": "",
+    "map": null,
+    "highlights": [
+      "明清老街",
+      "古码头",
+      "古祠堂"
+    ],
+    "tags": [
+      "古街",
+      "码头",
+      "江东"
+    ],
+    "visitTips": [
+      "街区开放以现场为准。",
+      "与越王山、梧桐山同属江东，可组合成一日。"
+    ],
+    "images": [],
+    "photo": "",
+    "photoCredit": "",
+    "photoPortrait": false
+  },
+  {
+    "id": "dongjianglinyu",
+    "name": "东江林语自然教育基地",
+    "shortName": "东江林语",
+    "region": "江东新区",
+    "area": "jiangdong",
+    "category": "休闲",
+    "mark": "林",
+    "tone": "sand",
+    "address": "河源市江东新区临江镇桂林村",
+    "duration": 120,
+    "durationText": "建议留出约 2 小时（自然教育，待核对）",
+    "intro": "省级自然教育及科普基地，森林覆盖率超过九成，提供研学、夏令营等多样化活动，融合生态教育与休闲体验。",
+    "suited": "亲子家庭、喜欢自然研学与休闲的游客",
+    "practical": [
+      "研学项目以现场为准，建议提前预约。",
+      "与梧桐山、越王山同属江东，可组合成一日。"
+    ],
+    "hoursText": "出发前确认开放时间与预约要求",
+    "ticketText": "基地以现场公示为准（待核对）",
+    "phone": "",
+    "sourceKeys": [],
+    "bookingUrl": "",
+    "map": null,
+    "highlights": [
+      "省级基地",
+      "森林研学",
+      "亲子休闲"
+    ],
+    "tags": [
+      "研学",
+      "森林",
+      "江东"
+    ],
+    "visitTips": [
+      "研学项目以现场为准，建议提前预约。",
+      "与梧桐山、越王山同属江东，可组合成一日。"
+    ],
+    "images": [],
+    "photo": "",
+    "photoCredit": "",
+    "photoPortrait": false
+  },
+  {
+    "id": "daoguyan",
+    "name": "道姑岩",
+    "shortName": "道姑岩",
+    "region": "江东新区",
+    "area": "jiangdong",
+    "category": "山水",
+    "mark": "山",
+    "tone": "green",
+    "address": "河源市江东新区古竹镇孔埔村",
+    "duration": 90,
+    "durationText": "建议留出约 1.5 小时（览胜，待核对）",
+    "intro": "古竹镇孔埔村的观景岩点，是观赏夕阳与东江风光的好去处，与越王山、梧桐山同属江东山水线。",
+    "suited": "喜欢观景、看夕阳与轻松登高的游客",
+    "practical": [
+      "山路注意安全，出发前确认可游览范围。",
+      "与越王山、古竹老街同属江东，可组合成一日。"
+    ],
+    "hoursText": "出发前确认开放范围与安全提示",
+    "ticketText": "观光以现场公示为准（待核对）",
+    "phone": "",
+    "sourceKeys": [],
+    "bookingUrl": "",
+    "map": null,
+    "highlights": [
+      "观夕阳",
+      "东江风光",
+      "江东"
+    ],
+    "tags": [
+      "观景",
+      "山水",
+      "江东"
+    ],
+    "visitTips": [
+      "山路注意安全，出发前确认可游览范围。",
+      "与越王山、古竹老街同属江东，可组合成一日。"
+    ],
+    "images": [],
+    "photo": "",
+    "photoCredit": "",
+    "photoPortrait": false
+  },
+  {
+    "id": "ailang",
+    "name": "爱廊碧道",
+    "shortName": "爱廊碧道",
+    "region": "江东新区",
+    "area": "jiangdong",
+    "category": "休闲",
+    "mark": "道",
+    "tone": "sand",
+    "address": "河源市江东新区东江东岸（紫金桥至胜利大桥段）",
+    "duration": 90,
+    "durationText": "建议留出约 1.5 小时（滨水漫步，待核对）",
+    "intro": "东江东岸的滨水绿带，全长约2.9公里，融合生态、休闲与科技，是江东新城滨水休闲与散步的好去处。",
+    "suited": "喜欢滨水漫步、城市休闲的游客",
+    "practical": [
+      "碧道开放以现场为准。",
+      "与东江林语、梧桐山同属江东，可组合成半日。"
+    ],
+    "hoursText": "出发前确认开放范围",
+    "ticketText": "碧道开放以现场公示为准（待核对）",
+    "phone": "",
+    "sourceKeys": [],
+    "bookingUrl": "",
+    "map": null,
+    "highlights": [
+      "滨水绿带",
+      "江东新城",
+      "休闲漫步"
+    ],
+    "tags": [
+      "碧道",
+      "滨水",
+      "江东"
+    ],
+    "visitTips": [
+      "碧道开放以现场为准。",
+      "与东江林语、梧桐山同属江东，可组合成半日。"
+    ],
+    "images": [],
+    "photo": "",
+    "photoCredit": "",
+    "photoPortrait": false
+  },
+  {
+    "id": "bijiashan",
+    "name": "笔架山风景区",
+    "shortName": "笔架山",
+    "region": "源城区",
+    "area": "south",
+    "category": "山水",
+    "mark": "山",
+    "tone": "green",
+    "address": "河源市源城区南端（近新丰江大坝）",
+    "duration": 120,
+    "durationText": "建议留出约 2 小时（登高览胜，待核对）",
+    "intro": "源城区南端的登高去处，海拔约195米，石阶与栈道约20分钟可登顶，可俯瞰万绿湖与市区全景；山下邻近庄田美食街与新丰江大坝。",
+    "suited": "喜欢轻徒步、看城市与湖景全景的游客",
+    "practical": [
+      "山路以现场开放为准，清晨与傍晚光线较好。",
+      "与桂山、野趣沟同属源城，可组合成一日。"
+    ],
+    "hoursText": "出发前确认开放时间与安全提示",
+    "ticketText": "开放以现场公示为准（待核对）",
+    "phone": "",
+    "sourceKeys": [],
+    "bookingUrl": "",
+    "map": null,
+    "highlights": [
+      "俯瞰万绿湖",
+      "城市全景",
+      "轻量登高"
+    ],
+    "tags": [
+      "登高",
+      "山水",
+      "源城"
+    ],
+    "visitTips": [
+      "山路以现场开放为准，清晨与傍晚光线较好。",
+      "与桂山、野趣沟同属源城，可组合成一日。"
+    ],
+    "images": [],
+    "photo": "",
+    "photoCredit": "",
+    "photoPortrait": false
+  },
+  {
+    "id": "qizhaihu",
+    "name": "七寨湖公园",
+    "shortName": "七寨湖",
+    "region": "源城区",
+    "area": "south",
+    "category": "休闲",
+    "mark": "湖",
+    "tone": "sand",
+    "address": "河源市源城区白田村（距市区约11公里）",
+    "duration": 120,
+    "durationText": "建议留出约 2 小时（环湖绿道，待核对）",
+    "intro": "河源市「公园城市」重点规划的骨架公园之一，占地约3000亩，环湖绿道约10公里，背依桂山、面临东江，集生态与休闲于一体。",
+    "suited": "喜欢环湖散步、骑行与轻松半日的游客",
+    "practical": [
+      "绿道较长，按体力选一段即可。",
+      "与笔架山、桂山同属源城，可组合成一日。"
+    ],
+    "hoursText": "出发前确认开放范围",
+    "ticketText": "公园开放以现场公示为准（待核对）",
+    "phone": "",
+    "sourceKeys": [],
+    "bookingUrl": "",
+    "map": null,
+    "highlights": [
+      "环湖绿道",
+      "背山面江",
+      "城市公园"
+    ],
+    "tags": [
+      "绿道",
+      "骑行",
+      "休闲"
+    ],
+    "visitTips": [
+      "绿道较长，按体力选一段即可。",
+      "与笔架山、桂山同属源城，可组合成一日。"
+    ],
+    "images": [],
+    "photo": "",
+    "photoCredit": "",
+    "photoPortrait": false
+  },
+  {
+    "id": "kangyanwenquan",
+    "name": "康颜温泉度假村",
+    "shortName": "康颜温泉",
+    "region": "东源县",
+    "area": "east",
+    "category": "温泉",
+    "mark": "泉",
+    "tone": "green",
+    "address": "河源市东源县黄村镇黄村坳村",
+    "duration": 180,
+    "durationText": "建议留出约 3 小时（含泡汤，以现场公示为准）",
+    "intro": "东源县黄村镇黄村坳村的综合型温泉度假村，2023 年 1 月开业，占地约 13.3 万平方米。温泉为偏硅酸硫磺泉，水温约 92℃、日流量约 6800 立方米，设 28 个露天功能泡池，另有季节性水上乐园。2025 年获评广东省银品级乡村酒店，是东源温泉带里规模较大的一处。",
+    "suited": "想泡温泉、带孩子玩水的家庭与周末度假游客",
+    "practical": [
+      "温泉开放时间与票价以当天公示为准。",
+      "与叶园温泉、康泉温泉同属东源，可按位置就近选择。"
+    ],
+    "hoursText": "公共温泉 08:00–24:00（以现场公示为准）",
+    "ticketText": "温泉 88 元/次；水上乐园免费（5–10 月季节性开放，以现场公示为准）",
+    "ticketVerified": "2026-11",
+    "phone": "0762-8473888",
+    "sourceKeys": [],
+    "bookingUrl": "",
+    "map": null,
+    "highlights": [
+      "偏硅酸硫磺泉",
+      "露天泡池",
+      "黄村温泉带"
+    ],
+    "tags": [
+      "温泉",
+      "东源",
+      "放松"
+    ],
+    "visitTips": [
+      "温泉 88 元/次；水上乐园 5–10 月季节性开放，出发前确认。",
+      "与叶园温泉同属东源黄村—黄田一带，可顺路组合；康泉十八目前停业改造。"
+    ],
+    "images": [],
+    "photo": "",
+    "photoCredit": "",
+    "photoPortrait": false
+  },
+  {
+    "id": "kanghesenlin",
+    "name": "康禾温泉国家森林公园",
+    "shortName": "康禾森林公园",
+    "region": "东源县",
+    "area": "east",
+    "category": "休闲",
+    "mark": "林",
+    "tone": "sand",
+    "address": "河源市东源县康禾镇",
+    "duration": 150,
+    "durationText": "建议留出约 2.5 小时（森林步道，待核对）",
+    "intro": "康禾镇一带的温泉国家森林公园，森林覆盖率高，有森林康养步道与溪谷景观，是「康禾森林康养徒步线路」的核心段。",
+    "suited": "喜欢森林步道、慢走洗肺的游客",
+    "practical": [
+      "步道开放与路线以现场为准。",
+      "与仙坑古村、康泉温泉同属康禾，可组合成一日。"
+    ],
+    "hoursText": "出发前确认开放范围与安全提示",
+    "ticketText": "公园开放以现场公示为准（待核对）",
+    "phone": "",
+    "sourceKeys": [],
+    "bookingUrl": "",
+    "map": null,
+    "highlights": [
+      "森林康养步道",
+      "高森林覆盖",
+      "溪谷景观"
+    ],
+    "tags": [
+      "森林",
+      "徒步",
+      "休闲"
+    ],
+    "visitTips": [
+      "步道开放与路线以现场为准。",
+      "与仙坑古村、康泉温泉同属康禾，可组合成一日。"
+    ],
+    "images": [],
+    "photo": "",
+    "photoCredit": "",
+    "photoPortrait": false
+  },
+  {
+    "id": "huangjuren",
+    "name": "黄居仁故居",
+    "shortName": "黄居仁故居",
+    "region": "龙川县",
+    "area": "longchuan",
+    "category": "人文",
+    "mark": "馆",
+    "tone": "clay",
+    "address": "河源市龙川县铁场镇",
+    "duration": 90,
+    "durationText": "建议留出约 1.5 小时（待核对）",
+    "intro": "龙川籍革命先烈的故居，是当地「一号公路红色骑行线路」与「环霍山美丽乡村线路」的红色研学站点之一。",
+    "suited": "对红色历史、研学感兴趣的游客",
+    "practical": [
+      "故居开放以现场为准，出发前确认。",
+      "与佗城、正相塔同属龙川，可组合成一日。"
+    ],
+    "hoursText": "出发前确认开放范围与入园时间",
+    "ticketText": "开放以现场公示为准（待核对）",
+    "phone": "",
+    "sourceKeys": [],
+    "bookingUrl": "",
+    "map": null,
+    "highlights": [
+      "红色研学",
+      "革命先烈故居",
+      "铁场镇"
+    ],
+    "tags": [
+      "红色",
+      "故居",
+      "龙川"
+    ],
+    "visitTips": [
+      "故居开放以现场为准，出发前确认。",
+      "与佗城、正相塔同属龙川，可组合成一日。"
+    ],
+    "images": [],
+    "photo": "",
+    "photoCredit": "",
+    "photoPortrait": false
+  },
+  {
+    "id": "potoufenglin",
+    "name": "陂头峰林画廊",
+    "shortName": "陂头峰林",
+    "region": "连平县",
+    "area": "lianping",
+    "category": "休闲",
+    "mark": "山",
+    "tone": "sand",
+    "address": "河源市连平县陂头镇（含新桥小漓江、江心岛一带）",
+    "duration": 150,
+    "durationText": "建议留出约 2.5 小时（田园观景，待核对）",
+    "intro": "连平县陂头镇的峰林田园景观带，有「小漓江」之称，串联江心岛、莲花基地、燕岩六祖古寺与观景台，是「陂头峰林仙境画廊」徒步线路的核心。",
+    "suited": "喜欢峰林田园、慢游观景的游客",
+    "practical": [
+      "点位分散，按导航核对具体观景点。",
+      "与九连山度假村、圣迹苍岩同属连平，可组合成一日。"
+    ],
+    "hoursText": "出发前确认可游览范围与安全提示",
+    "ticketText": "观光以现场公示为准（待核对）",
+    "phone": "",
+    "sourceKeys": [],
+    "bookingUrl": "",
+    "map": null,
+    "highlights": [
+      "小漓江峰林",
+      "田园画廊",
+      "江心岛"
+    ],
+    "tags": [
+      "峰林",
+      "田园",
+      "休闲"
+    ],
+    "visitTips": [
+      "点位分散，按导航核对具体观景点。",
+      "与九连山度假村、圣迹苍岩同属连平，可组合成一日。"
+    ],
+    "images": [],
+    "photo": "",
+    "photoCredit": "",
+    "photoPortrait": false
+  },
+  {
+    "id": "dangdaihui",
+    "name": "中共东江特委第一次党代会旧址",
+    "shortName": "东江党代会旧址",
+    "region": "江东新区",
+    "area": "jiangdong",
+    "category": "人文",
+    "mark": "馆",
+    "tone": "clay",
+    "address": "河源市江东新区古竹镇",
+    "duration": 90,
+    "durationText": "建议留出约 1.5 小时（待核对）",
+    "intro": "江东新区抗日旧址群的重要组成，东江第一次党代会在此召开并成立中共紫金县工委及东江特委，列入「江东八景」的红色旅游资源。",
+    "suited": "对红色历史、爱国教育感兴趣的游客",
+    "practical": [
+      "旧址参观以现场为准，出发前确认开放。",
+      "与古竹陈家祠、古竹老街同属江东，可组合成一日。"
+    ],
+    "hoursText": "出发前确认开放范围与入园时间",
+    "ticketText": "开放以现场公示为准（待核对）",
+    "phone": "",
+    "sourceKeys": [],
+    "bookingUrl": "",
+    "map": null,
+    "highlights": [
+      "东江第一次党代会",
+      "江东八景",
+      "红色旧址群"
+    ],
+    "tags": [
+      "红色",
+      "历史",
+      "研学"
+    ],
+    "visitTips": [
+      "旧址参观以现场为准，出发前确认开放。",
+      "与古竹陈家祠、古竹老街同属江东，可组合成一日。"
+    ],
+    "images": [],
+    "photo": "",
+    "photoCredit": "",
+    "photoPortrait": false
+  },
+  {
+    "id": "qiuxiangwanbo",
+    "name": "秋香晚泊",
+    "shortName": "秋香晚泊",
+    "region": "江东新区",
+    "area": "jiangdong",
+    "category": "山水",
+    "mark": "江",
+    "tone": "green",
+    "address": "河源市江东新区古竹镇江口村（秋香江汇入东江处）",
+    "duration": 120,
+    "durationText": "建议留出约 2 小时（河滩观景，待核对）",
+    "intro": "永安八景之一，也是「江东八景」之一。秋香江在古竹镇江口村汇入东江，河道平缓、水质清澈，河滩草地连绵，现为户外露营热门地。",
+    "suited": "喜欢江景、河滩露营与傍晚风光的游客",
+    "practical": [
+      "河滩活动注意水位与天气，以现场管理为准。",
+      "与越王山、道姑岩同属江东，可组合成一日。"
+    ],
+    "hoursText": "出发前确认可游览范围与安全提示",
+    "ticketText": "观光以现场公示为准（待核对）",
+    "phone": "",
+    "sourceKeys": [],
+    "bookingUrl": "",
+    "map": null,
+    "highlights": [
+      "永安八景",
+      "秋香江入东江",
+      "河滩露营"
+    ],
+    "tags": [
+      "江景",
+      "露营",
+      "山水"
+    ],
+    "visitTips": [
+      "河滩活动注意水位与天气，以现场管理为准。",
+      "与越王山、道姑岩同属江东，可组合成一日。"
+    ],
+    "images": [],
+    "photo": "",
+    "photoCredit": "",
+    "photoPortrait": false
+  },
+  {
+    "id": "shangpingwenquan",
+    "name": "上坪温泉",
+    "shortName": "上坪温泉",
+    "region": "龙川县",
+    "area": "longchuan",
+    "category": "温泉",
+    "mark": "泉",
+    "tone": "green",
+    "address": "河源市龙川县上坪镇热水村",
+    "duration": 150,
+    "durationText": "建议留出约 2.5 小时（天然温泉，待核对）",
+    "intro": "上坪镇热水村的天然硫磺温泉，水温可达 90℃ 以上、日流量大，村民至今直接用来煮鸡蛋。目前属未开发的天然泉眼，周边无售票景区；上坪镇黄麻山温泉酒店项目在建，尚未营业。",
+    "suited": "喜欢原生态温泉、能接受设施简陋的游客",
+    "practical": [
+      "天然泉眼无围蔽与救生设施，注意水温与安全。",
+      "周边无配套，建议自备用品并结伴前往。"
+    ],
+    "hoursText": "天然温泉无固定开放时间，以现场情况为准",
+    "ticketText": "免费天然温泉，无售票处（未开发，以现场公示为准）",
+    "highlights": [
+      "93℃ 硫磺泉",
+      "村民煮鸡蛋",
+      "原生态未开发"
+    ],
+    "tags": [
+      "温泉",
+      "原生态",
+      "龙川"
+    ],
+    "visitTips": [
+      "水温极高，切勿直接下脚试探。",
+      "与贝岭温泉同属龙川北部，可串联安排。"
+    ],
+    "images": [],
+    "photo": "",
+    "photoCredit": "",
+    "photoPortrait": false
+  },
+  {
+    "id": "jiulianwenquan",
+    "name": "九连温泉度假山庄",
+    "shortName": "九连温泉",
+    "region": "和平县",
+    "area": "heping",
+    "category": "温泉",
+    "mark": "泉",
+    "tone": "green",
+    "address": "河源市和平县热水镇南湖村",
+    "duration": 180,
+    "durationText": "建议留出约 3 小时（含泡汤，待核对）",
+    "intro": "和平县热水镇南湖村的温泉度假山庄，位于南湖东岸，山水间泡泉。热水镇是和平温泉最集中的一带，与热龙温泉同镇但为不同经营主体。",
+    "suited": "想泡温泉、住在山水之间的游客",
+    "practical": [
+      "温泉开放时间与房价以当天公示为准。",
+      "与热龙温泉同在热水镇，可按位置就近选择。"
+    ],
+    "hoursText": "出发前确认开放时间与预约要求",
+    "ticketText": "温泉票价以当天公示为准（待核对）",
+    "highlights": [
+      "南湖东岸",
+      "山水泡泉",
+      "热水镇温泉带"
+    ],
+    "tags": [
+      "温泉",
+      "和平",
+      "放松"
+    ],
+    "visitTips": [
+      "旺季建议提前订房。",
+      "与热水漂流同镇，可“漂+泡”同日安排。"
+    ],
+    "images": [],
+    "photo": "",
+    "photoCredit": "",
+    "photoPortrait": false
+  },
+  {
+    "id": "fenglinge",
+    "name": "枫林阁温泉度假村",
+    "shortName": "枫林阁温泉",
+    "region": "紫金县",
+    "area": "hotSpring",
+    "category": "温泉",
+    "mark": "泉",
+    "tone": "green",
+    "address": "河源市紫金县九和镇热水村新树小组",
+    "duration": 180,
+    "durationText": "建议留出约 3 小时（含泡汤，待核对）",
+    "intro": "紫金县九和镇热水村的温泉度假村之一。九和一带温泉资源密集，除御临门与九和外，还有多家独立经营的温泉度假村，枫林阁是其中之一。",
+    "suited": "想泡温泉、避开热门大景区人流的游客",
+    "practical": [
+      "温泉开放时间与房价以当天公示为准。",
+      "九和镇温泉点密集，导航时核对具体名称。"
+    ],
+    "hoursText": "出发前确认开放时间与预约要求",
+    "ticketText": "温泉票价以当天公示为准（待核对）",
+    "highlights": [
+      "九和温泉带",
+      "独立经营",
+      "人少清静"
+    ],
+    "tags": [
+      "温泉",
+      "紫金",
+      "放松"
+    ],
+    "visitTips": [
+      "九和镇同名温泉点较多，导航时核对全称。",
+      "与御临门同镇，可按位置就近选择。"
+    ],
+    "images": [],
+    "photo": "",
+    "photoCredit": "",
+    "photoPortrait": false
+  },
+  {
+    "id": "shezhou",
+    "name": "剡洲庄园",
+    "shortName": "剡洲庄园",
+    "region": "紫金县",
+    "area": "zijin",
+    "category": "休闲",
+    "mark": "园",
+    "tone": "sand",
+    "address": "河源市紫金县中坝镇",
+    "duration": 120,
+    "durationText": "建议留出约 2 小时（乡村休闲，待核对）",
+    "intro": "紫金县中坝镇的乡村休闲庄园，见于紫金县文化广电旅游体育局公布的本地旅游点名录，可与中坝镇孙中山纪念馆同线安排。",
+    "suited": "喜欢乡村休闲、田园慢游的游客",
+    "practical": [
+      "庄园经营项目与开放时间以现场为准。",
+      "与孙中山纪念馆同在中坝镇，可组合成半日。"
+    ],
+    "hoursText": "出发前确认开放时间与项目安排",
+    "ticketText": "观光与项目以当天公示为准（待核对）",
+    "highlights": [
+      "乡村庄园",
+      "田园休闲",
+      "中坝镇"
+    ],
+    "tags": [
+      "庄园",
+      "乡村",
+      "紫金"
+    ],
+    "visitTips": [
+      "定位以导航核对为准。",
+      "与中坝孙中山纪念馆同镇，可串联。"
+    ],
+    "images": [],
+    "photo": "",
+    "photoCredit": "",
+    "photoPortrait": false
+  }
+]

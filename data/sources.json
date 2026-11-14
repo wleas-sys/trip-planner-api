@@ -1,0 +1,182 @@
+{
+  "lake": {
+    "title": "万绿湖景区官网 · 联系方式",
+    "url": "https://www.wanlvhu.cn/contact-32.html",
+    "scope": "景区地址、咨询电话"
+  },
+  "lakeHours": {
+    "title": "万绿湖景区官网 · 开放时间",
+    "url": "https://www.wanlvhu.cn/open-20.html",
+    "scope": "官网公示营业时间；季节与当天航班需再次确认"
+  },
+  "lakeTickets": {
+    "title": "万绿湖景区官网 · 购票须知",
+    "url": "https://www.wanlvhu.cn/ticketservice-21.html",
+    "scope": "船票与景点组合、购票注意事项"
+  },
+  "mirror": {
+    "title": "万绿湖景区官网 · 镜花缘",
+    "url": "https://www.wanlvhu.cn/home/show-8-51.html",
+    "scope": "景点所属区域、游览内容"
+  },
+  "museum": {
+    "title": "河源市政府 · 恐龙文博园介绍",
+    "url": "https://www.heyuan.gov.cn/zwgk/zdlyxx/whjg/tsg/content/post_603459.html",
+    "scope": "恐龙博物馆与龟峰塔位于滨江大道龟峰公园内"
+  },
+  "pagoda": {
+    "title": "河源地方志 · 龟峰宝塔",
+    "url": "https://www.heyuan.gov.cn/bmjy/hysdfzbgs/tzgg/content/post_717446.html",
+    "scope": "龟峰塔的南宋历史"
+  },
+  "hotSpring": {
+    "title": "河源市政府 · 九和镇文旅资源",
+    "url": "https://www.heyuan.gov.cn/bmjy/shzhb/ndxx/content/post_681047.html",
+    "scope": "御临门温泉位于紫金县九和镇"
+  },
+  "longchuan": {
+    "title": "龙川县文广旅体局 · A级景区名录",
+    "url": "https://www.longchuan.gov.cn/zfxxgkml/xwhgdlytyj/ywgz/content/post_492437.html",
+    "scope": "霍山与佗城的所在地、景区介绍"
+  },
+  "dongyuanList": {
+    "title": "东源县政府 · A级旅游景区名录",
+    "url": "https://www.gddongyuan.gov.cn/dyzw/zdlyxxgk/lyscjgzf/content/post_536793.html",
+    "scope": "苏家围所在乡镇与地点名称；历史名录不用于承诺当前等级或开放状态"
+  },
+  "sujiawei": {
+    "title": "万绿湖景区官网 · 苏家围",
+    "url": "https://www.wanlvhu.cn/show-15-236.html",
+    "scope": "客家民居、村落与乡土文化介绍"
+  },
+  "xiankeng": {
+    "title": "河源市自然资源局 · 康禾仙坑村",
+    "url": "https://www.heyuan.gov.cn/bmjy/hyszrzyj/zrzy/content/post_464964.html",
+    "scope": "仙坑村所在乡镇、四角楼与八角楼等古建筑"
+  },
+  "linzhai": {
+    "title": "和平县政府 · 林寨镇",
+    "url": "https://www.heping.gov.cn/zjhp/xzfc/content/post_101189.html",
+    "scope": "林寨古村与古巷、古井等乡土景观"
+  },
+  "linzhaiBuildings": {
+    "title": "和平县政府 · 全域旅游发展规划",
+    "url": "https://www.heping.gov.cn/attachment/0/83/83547/599583.pdf",
+    "scope": "林寨四角楼建筑类型及保护背景"
+  },
+  "lakeNearby": {
+    "title": "万绿湖景区官网 · 河源周边景点",
+    "url": "https://www.wanlvhu.cn/show-7-641.html",
+    "scope": "万绿谷、桂山、野趣沟、黄龙岩的游览环境；活动项目需另查当天开放"
+  },
+  "guishan": {
+    "title": "万绿湖景区官网 · 桂山风景区",
+    "url": "https://www.wanlvhu.cn/home/show-15-218.html",
+    "scope": "新丰江国家森林公园桂山风景区的山林、溪流与步道；不从周边旅游规划推定县属"
+  },
+  "yequgou": {
+    "title": "源城区政府 · 野趣沟",
+    "url": "http://www.gdyc.gov.cn/yc/fjtp/content/post_676561.html",
+    "scope": "景点名称与山林水景实景"
+  },
+  "gaopugang": {
+    "title": "源城区政府 · 高埔岗街道",
+    "url": "https://www.gdyc.gov.cn/yc/zjjj/content/post_690276.html",
+    "scope": "巴伐利亚庄园、客天下国际旅游度假区所在街道"
+  },
+  "bavaria": {
+    "title": "源城区政府 · 巴伐利亚庄园",
+    "url": "http://www.gdyc.gov.cn/yc/fjtp/content/post_676562.html",
+    "scope": "庄园建筑与园林实景"
+  },
+  "wanlvgu": {
+    "title": "河源市政府 · 新回龙镇",
+    "url": "https://www.heyuan.gov.cn/ywdt/bmdt/content/post_637230.html",
+    "scope": "万绿谷位于新回龙镇；文中历史活动不作为常态服务承诺"
+  },
+  "huanglongyan": {
+    "title": "河源市政府 · 黄龙岩与畲族文化",
+    "url": "https://www.heyuan.gov.cn/zwgk/jyta/szxtabljggk/content/post_198622.html",
+    "scope": "黄龙岩畲族风情旅游区与漳溪畲族乡"
+  },
+  "taiping": {
+    "title": "河源地方志 · 太平古街",
+    "url": "https://www.heyuan.gov.cn/bmjy/hysdfzbgs/tzgg/content/post_267098.html",
+    "scope": "骑楼街道、商业与古街保护历史"
+  },
+  "kejiagongyuan": {
+    "title": "源城区政府 · 客家公园",
+    "url": "http://www.gdyc.gov.cn/yc/fjtp/content/post_676551.html",
+    "scope": "公园名称、广场、台阶与雕塑实景"
+  },
+  "dongjiangwan": {
+    "title": "源城区政府 · 东江湾公园",
+    "url": "http://www.gdyc.gov.cn/yc/fjtp/content/post_676553.html",
+    "scope": "滨江绿地、步道与儿童活动区实景"
+  },
+  "shangping": {
+    "title": "连平县政府 · 上坪镇",
+    "url": "http://www.lianping.gov.cn/zwgk/xxzc/spz/mindex.html",
+    "scope": "上坪桃园、鹰嘴蜜桃与季节性赏花采摘；花果期随天气变化"
+  },
+  "neiguan": {
+    "title": "连平县政府 · 内莞镇",
+    "url": "http://www.lianping.gov.cn/zwgk/xxzc/nzz/mindex.html",
+    "scope": "喀斯特地貌、大席河与田园风光"
+  },
+  "yuewangshan": {
+    "title": "河源市政府 · 越王山与古竹镇",
+    "url": "https://www.heyuan.gov.cn/bmjy/shzhb/ndxx/content/post_570821.html",
+    "scope": "越王山风景区与江东新区古竹镇的地理关系"
+  },
+  "yuewangPhoto": {
+    "title": "河源市政府 · 越王山",
+    "url": "https://www.heyuan.gov.cn/zjhy/tpxs/content/post_414849.html",
+    "scope": "山体与湖边景观实景"
+  },
+  "chunmuyuan": {
+    "title": "河源市自然资源局 · 春沐源项目",
+    "url": "https://www.heyuan.gov.cn/bmjy/hyszrzyj/tzgg/content/post_680267.html",
+    "scope": "春沐源位于埔前镇陂角村；规划公示不作为游玩服务说明"
+  },
+  "chunmuPhoto": {
+    "title": "源城区政府 · 春沐源",
+    "url": "http://www.gdyc.gov.cn/yc/fjtp/content/post_676555.html",
+    "scope": "小镇草坪、现代建筑与水景实景"
+  },
+  "ketianxia": {
+    "title": "源城区政府 · 客天下水晶温泉",
+    "url": "http://www.gdyc.gov.cn/yc/fjtp/content/post_676564.html",
+    "scope": "温泉场景实景；不据图片推定当日开放泡池"
+  },
+  "relong": {
+    "title": "和平县政府 · 热龙温泉度假村",
+    "url": "http://www.heping.gov.cn/zjhp/lyfw/fjms/content/post_303826.html",
+    "scope": "位于热水镇、山林与热水河周边环境；旧文票务设施不作为现状保证"
+  },
+  "penquan": {
+    "title": "源城区政府 · 新丰江音乐喷泉",
+    "url": "http://www.gdyc.gov.cn/yc/fjtp/content/post_676560.html",
+    "scope": "喷泉地点与江面夜景实景，不包含实时演出安排"
+  },
+  "dexianlou": {
+    "title": "紫金县政府 · 南岭德先楼",
+    "url": "http://www.zijin.gov.cn/xq/yzzj8/nldxl/index.html",
+    "scope": "南岭镇高新村位置、客家围屋与建筑布局"
+  },
+  "zhongshan": {
+    "title": "紫金县政府 · 孙中山先祖入粤祖籍地",
+    "url": "http://www.zijin.gov.cn/xq/yzzj8/szsxzryzjd/index.html",
+    "scope": "中坝镇纪念馆与发昌村祖屋为不同参观点，需分别定位"
+  },
+  "museumTickets": {
+    "title": "河源市博物馆 · 2026年场馆开放通告",
+    "url": "https://www.heyuan.gov.cn/zwgk/zdlyxx/whjg/tsg/content/post_691096.html",
+    "scope": "恐龙博物馆成人全票30元、散客无需预约；优惠与团队预约以公告为准"
+  },
+  "lakeBooking": {
+    "title": "万绿湖景区官网 · 成人船线票",
+    "url": "https://www.wanlvhu.cn/bookshow-26-2.html",
+    "scope": "页面列示提前预订175元起、当日198元起，含船票及镜花缘等；以实际购买票种为准"
+  }
+}

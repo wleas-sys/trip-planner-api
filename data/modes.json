@@ -1,0 +1,14 @@
+[
+  {
+    "key": "drive",
+    "label": "自驾 / 打车"
+  },
+  {
+    "key": "transit",
+    "label": "公共交通"
+  },
+  {
+    "key": "walk",
+    "label": "步行"
+  }
+]
